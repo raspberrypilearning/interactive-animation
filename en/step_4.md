@@ -52,8 +52,24 @@ Select your first sprite and click on the **Code** tab.
 
 --- task ---
 
-Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage. 
+See the how to create different types of sprite movement using all sorts of blocks from the `Motion`{:class="block3motion"} block menu by **How to ... create sprite movement**. below. Use this resource throughout this step.
 
+title: How to ... create sprite movement
+
+--- collapse ---
+---
+
+---
+**Add me in: generic-scratch-if-on-edge-bounce **--- /collapse ---
+**Add me in: scratch-rotate-costume **
+
+--- /collapse ---
+
+--- task ---
+
+Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  Search for 'bounce' in **How to ... create sprite movement**.
+
+--- /task ---
 --- no-print ---
 
 Click on the green flag to investigated how experience varying sprite movement. Each sprite uses different `Motion`{:class="block3motion"} blocks. Click `SEE INSIDE`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular sprite movement can be achieved:
@@ -63,22 +79,16 @@ Click on the green flag to investigated how experience varying sprite movement. 
 
 --- /no-print ---
 
-**Add me in: generic-scratch-if-on-edge-bounce **
 
+--- task ---
+
+Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. Search for 'speed' and or 'direction' in **How to ... create sprite movement**.
 
 --- /task ---
 
 --- task ---
 
-Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. That's ok.
-
---- /task ---
-
---- task ---
-
-You may want to change the way your sprite's costume rotates when it moves to stop it going upside down.
-
-**Add me in: scratch-rotate-costume **
+You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. Search for 'rotate costume' in **How to ... create sprite movement**.
 
 --- /task ---
 
