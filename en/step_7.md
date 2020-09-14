@@ -1,7 +1,53 @@
-## What next?
+## Add more sprites
+Now you've got one sprite moving the way you want it to, let's add another. 
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+--- task ---
+Duplicate your first sprite to create the starting point for the next. The code gets copied too which saves you time.
 
-![ProjectName project](images/projectname-project.png)
+**Add me in: scratch-duplicating-sprite**
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- /task ---
+
+--- task ---
+
+Think about how this sprite will look different to the first sprite. 
+
+Change the new sprite's costume, or edit the costume with the paint editor so that it looks different from your first sprite. 
+
+**Add me in: scratch-paint-tool-basics**
+
+How big should the sprite be? 
+Which direction will it point in?
+Will the sprite appear behind or in front or other sprites?
+
+**Add me in: generic-scratch-layers**
+
+--- /task ---
+
+--- task ---
+
+Consider how this sprite might move differently to the first sprite. 
+
+Explore different movement patterns: 
+
+**Add me in: generic-scratch-spin-around**
+
+**Add me in: generic-move-in-a-circle**
+
+--- /task ---
+
+--- task ---
+
+Make sure you have selected the sprite that you want to change and click on the Code tab.
+
+Edit the code so that the new sprite does what you want it to do.
+
+--- /task ---
+
+--- task ---
+
+If you have time, you can keep adding more sprites. Make each one a little different to the others. 
+
+--- /task ---
+
+--- save ---
