@@ -33,7 +33,6 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- /task ---
 
---- no-print ---
 
 --- task ---
 
