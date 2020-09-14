@@ -6,7 +6,7 @@ You may be bursting with ideas already, or you may need to take a few minutes to
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, to look at the range of sprites and backgrounds, and take 5 minutes to think about **your** Looping sprites project. 
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, to look at the range of sprites and backgrounds, and take 5 minutes to think about **your** Make a difference project. 
 
 + What mood do you want to create? Relaxing, Energising, Funny?
 + Which backdrop will you choose? 
