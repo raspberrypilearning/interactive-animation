@@ -26,7 +26,7 @@ Is your sprite the size you want it to be? If not, you can easily adjust it. Var
 
 --- task ---
 
-Add a `set size to %`{:class="block3looks"} block and play about with the percentage `value` until you are happy with it. You csn come back to this later and tweak the value a little more.
+Add a `set size to %`{:class="block3looks"} block and play about with the percentage `value` until you are happy with it. You can come back to this later and tweak the value a little more.
 
 --- /task ---
 
