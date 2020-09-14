@@ -21,7 +21,7 @@ Click `See inside`{:class="block3motion"} below a project to investigate its cod
 
 --- print-only ---
 
-Go to the [Looping sprites](https://scratch.mit.edu/studios/27520550){:target="_blank"} Scratch studio.
+Go to the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} from the Raspberry Pi Foundation Scratch studio listed below.
 
 Click `See inside`{:class="block3motion"} to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
