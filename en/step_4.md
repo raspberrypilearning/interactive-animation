@@ -82,14 +82,6 @@ You may want to change the way your sprite's costume rotates when it moves to st
 
 --- /task ---
 
---- task ---
-
-Is your sprite the size you want it to be? If not, adjust its size. Changing the size of a sprite is easy - it will make your animation less flat and more 3-dimensional (3D). 
-
-**Add me in: generic-scratch-change-size **
-
---- /task ---
-
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program. 
 
 --- task ---
