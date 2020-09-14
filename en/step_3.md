@@ -6,6 +6,19 @@ You may be bursting with ideas already, or you may need to take a few minutes to
 
 --- task ---
 
+In order to supprt your making during this project, if and when needed, you can use the How to ... dropdowns like the below:
+
+-- collapse ---
+---
+
+title: How to ... this is an example
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
 Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, to look at the range of sprites and backgrounds, and take 5 minutes to think about **your** Make a difference project. 
 
 + What mood do you want to create? Relaxing, Energising, Funny?
