@@ -5,19 +5,7 @@ Now it's time to get your first sprite moving. Let's start with one sprite and t
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
 
 --- task ---
-This **Yellow Balloon** sprite moves up and down the stage, changing direction when it hits the top, sides or bottom. 
-
---- no-print ---
-
-![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
---- /no-print ---
-
-
---- print-only ---
-![Image annotated with path of sprite](images/moving-up-down.png){:width="400px"}
---- /print-only ---
-
-Here's the code it uses:
+The **Yellow Balloon** sprite moves up and down the stage, changing direction when it hits the top, sides or bottom. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the script to understand how it makes the sprite move. You will look at the top part of the program soon!:
 
 ```blocks3
 when flag clicked
@@ -32,9 +20,7 @@ move (5) steps
 end
 ```
 
-Look at the bottom part of the script to understand how it makes the sprite move. You will look at the top part of the program later!
-
-Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the Stage area. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage and so on. The balloon sometimes bounces off the sides of the Stage area.
+Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the Stage area. If the sprite touches the top of the stage it will flip direction and start moving down towards the bottom of the stage and so on. The balloon sometimes bounces off the sides of the Stage area.
 
 --- /task ---
 
@@ -54,7 +40,9 @@ Select your first sprite and click on the **Code** tab.
 
 --- task ---
 
-Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  Search for 'bounce' in **How to ... create sprite movement**.
+Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  
+
+If you would like more details, search for 'bounce' in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
