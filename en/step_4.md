@@ -54,19 +54,6 @@ Select your first sprite and click on the **Code** tab.
 
 --- task ---
 
-See the how to create different types of sprite movement using all sorts of blocks from the `Motion`{:class="block3motion"} block menu by accessing the **How to ... create sprite movement** dropdown below. Use this resource throughout this step.
-
-title: How to ... create sprite movement
-
---- collapse ---
-
-**Add me in: generic-scratch-if-on-edge-bounce **--- /collapse ---
-**Add me in: scratch-rotate-costume **
-
---- /collapse ---
-
---- task ---
-
 Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  Search for 'bounce' in **How to ... create sprite movement**.
 
 --- /task ---
