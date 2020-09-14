@@ -1,0 +1,11 @@
+title: make-a-difference
+hero_image: images/banner.png
+description: make-a-difference description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-09-14"
+steps:
+  - title: Introduction
+  - title: Step title
+  - title: What next?
