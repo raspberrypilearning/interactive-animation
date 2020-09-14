@@ -56,6 +56,17 @@ Select your first sprite and click on the **Code** tab.
 
 Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  Search for 'bounce' in **How to ... create sprite movement**.
 
+--- collapse ---
+---
+
+title: How to ... create sprite movement
+
+---
+generic-scratch-if-on-edge-bounce
+scratch-rotate-costume
+
+--- /collapse ---
+
 --- /task ---
 --- no-print ---
 
