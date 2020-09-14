@@ -9,7 +9,7 @@ You can get ideas for your own Make a difference project by investigating projec
 Don't worry about the code and **how** things will work just yet. Instead, as you look at the projects below, give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
 
 --- no-print ---
-Have a look at the [LMake a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} below from the Raspberry Pi Foundation Scratch studio.
+Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} from the Raspberry Pi Foundation Scratch studio listed below.
 
 Click the green flag on a project to see the code run.
 
@@ -37,52 +37,16 @@ Click `See inside`{:class="block3motion"} to investigate how the projects were m
 
 --- task ---
 
-Investigate the **Butterfly garden** Scratch project.
+Investigate the **Popping balloons** Scratch project.
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/403091557/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/425346741/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/403091557/editor/){:target="_blank"}
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425346741/editor/){:target="_blank"}
 
 --- /task ---
 
---- task ---
-
-Investigate the **Love heart sweets** Scratch project.
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/408665598/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408665598/editor/){:target="_blank"}
-
---- /task ---
-
---- task ---
-
-Investigate the **Jellyfish formation** Scratch project.
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/408666042/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/408666042/editor/){:target="_blank"}
-
---- /task ---
-
---- task ---
-
-Investigate the **Party food** Scratch project.
-
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/407335201/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/407335201/editor/){:target="_blank"}
-
---- /task ---
-
---- /no-print ---
+REPEAT IF WE HAVE MORE EXAMPLES
 
 *[algorithm]: A set of precise instructions for performing a task.
