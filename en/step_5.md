@@ -32,7 +32,7 @@ Add a `set size to %`{:class="block3looks"} block and play about with the percen
 
 --- task ---
 
-You now need to add in a `clear graphic effects`{:class="block3looks"} block and `show`{:class="block3looks"} block so that the sprite goes back to its original shape and shows on the screen `when greeen flag clicked`{:class="block3events"} .
+You now need to add in a `clear graphic effects`{:class="block3looks"} block and `show`{:class="block3looks"} block so that `when greeen flag clicked`{:class="block3events"} the sprite goes back to its original shape and shows again on the screen.
 
 --- /task ---
 
