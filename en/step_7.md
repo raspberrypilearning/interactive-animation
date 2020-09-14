@@ -38,9 +38,15 @@ Explore different movement patterns:
 
 --- task ---
 
-Make sure you have selected the sprite that you want to change and click on the Code tab.
+Make sure you have selected the sprite that you want to change and click on the **Code** tab.
 
 Edit the code so that the new sprite does what you want it to do.
+
+--- /task ---
+
+--- task ---
+
+Do you need to change the size of the sprites in relation to each other?
 
 --- /task ---
 
