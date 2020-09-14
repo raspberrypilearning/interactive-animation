@@ -70,7 +70,7 @@ Click on the green flag to investigated how experience varying sprite movement. 
 
 --- task ---
 
-Change the speed and direction of your sprite until you get the effect you want. It might take a few experiments to get it right. That's ok.
+Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. That's ok.
 
 --- /task ---
 
