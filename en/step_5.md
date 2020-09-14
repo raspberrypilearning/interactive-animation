@@ -1,4 +1,4 @@
-## Adapting the sprite's appearence
+## Adapting a sprite's appearence
 
 In the example project, each balloon sprite pops and disappears when they are clicked. This effect is achieved by using a number of blocks from the `Looks`{:class="block3looks"} block menu.
 
