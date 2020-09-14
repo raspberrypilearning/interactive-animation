@@ -8,8 +8,10 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 This **Yellow Balloon** sprite moves up and down the stage, changing direction when it hits the top, sides or bottom. 
 
 --- no-print ---
+
 ![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
 --- /no-print ---
+
 
 --- print-only ---
 ![Image annotated with path of sprite](images/moving-up-down.png){:width="400px"}
@@ -30,7 +32,7 @@ move (5) steps
 end
 ```
 
-Let's look at the bottom part of the script to understand how it makes the sprite move. We'll look at the top part afterwards!
+Look at the bottom part of the script to understand how it makes the sprite move. You will look at the top part of the program later!
 
 Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the Stage area. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage and so on. The balloon sometimes bounces off the sides of the Stage area.
 
@@ -52,14 +54,12 @@ Select your first sprite and click on the **Code** tab.
 
 --- task ---
 
-See the how to create different types of sprite movement using all sorts of blocks from the `Motion`{:class="block3motion"} block menu by **How to ... create sprite movement**. below. Use this resource throughout this step.
+See the how to create different types of sprite movement using all sorts of blocks from the `Motion`{:class="block3motion"} block menu by accessing the **How to ... create sprite movement** dropdown below. Use this resource throughout this step.
 
 title: How to ... create sprite movement
 
 --- collapse ---
----
 
----
 **Add me in: generic-scratch-if-on-edge-bounce **--- /collapse ---
 **Add me in: scratch-rotate-costume **
 
