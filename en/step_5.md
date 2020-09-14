@@ -4,9 +4,9 @@ In the example project, each balloon sprite pops and disappears when they are cl
 
 --- task ---
 
-You've looked at the bottom part of the **Yellow Balloon** sprite's script! Now let's look at the top part of the script to understand how it makes the sprite appear.
+You've explored the bottom part of the **Yellow Balloon** sprite's script. Now let's look at the top part of the script to understand how it makes the sprite appear.
 
-Investigate the `Looks`{:class="block3looks"} blocks which are highlighted below. Read the code, line by line and try and identify what each `Looks`{:class="block3looks"} block does:
+Investigate the `Looks`{:class="block3looks"} blocks which are highlighted below. Read the code, line by line, to try and identify what each `Looks`{:class="block3looks"} block does:
 
 ```blocks3
 when flag clicked
@@ -22,7 +22,7 @@ end
 ```
 --- /task ---
 
-Is your sprite the size you want it to be? If not, you can adjust it. Changing the size of a sprite is easy and it will make your animation look less flat i.e. more 3-dimensional (3D), with more depth.
+Is your sprite the size you want it to be? If not, you can easily adjust it. Changing the size of sprites will make your animation look less flat i.e. more 3-dimensional (3D), with more depth.
 
 --- task ---
 
