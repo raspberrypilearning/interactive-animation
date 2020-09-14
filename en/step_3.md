@@ -8,7 +8,7 @@ You may be bursting with ideas already, or you may need to take a few minutes to
 
 In order to support your making during this project, if and when needed, you can use the How to ... dropdowns like the below:
 
--- collapse ---
+--- collapse ---
 ---
 
 title: How to ... this is an example
