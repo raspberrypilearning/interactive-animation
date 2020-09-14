@@ -2,10 +2,10 @@
 
 Now it's time to get your first sprite moving. Let's start with one sprite and then add more. 
 
-Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop. 
+Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
 
 --- task ---
-This sprite moves up and down the stage, changing direction when it hits the top or bottom. 
+This **Yellow Balloon** sprite moves up and down the stage, changing direction when it hits the top, sides or bottom. 
 
 --- no-print ---
 ![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
@@ -19,18 +19,20 @@ Here's the code it uses:
 
 ```blocks3
 when flag clicked
-set rotation style [don't rotate v]
-point in direction (0)
-set size to (100) %
+set size to (80)%
+clear graphic effects :: looks
+set [ghost v] effect to (15)
++ point in direction (0)
+show
 forever
 move (5) steps
-if on edge, bounce
++ if on edge, bounce
 end
 ```
 
-Let's look at the code to understand how it makes the sprite move.
+Let's look at the bottom part of the script to understand how it makes the sprite move. We'll look at the top part afterwards!
 
-Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the stage. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage and so on. 
+Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the Stage area. If the sprite touches the top of the Stage it will flip direction and start moving down towards the bottom of the stage and so on. The balloon sometimes bounces off the sides of the Stage area.
 
 --- /task ---
 
@@ -42,9 +44,9 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 
 --- task ---
 
-Select your first sprite and click on the Code tab. 
+Select your first sprite and click on the **Code** tab. 
 
-![Code tab selected](images/codeTab.png)
+![Code tab selected](images/code-tab.png)
 
 --- /task ---
 
@@ -52,9 +54,17 @@ Select your first sprite and click on the Code tab.
 
 Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage. 
 
+--- no-print ---
+
+Click on the green flag to investigated how experience varying sprite movement. Each sprite uses different `Motion`{:class="block3motion"} blocks. Click `SEE INSIDE`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular sprite movement can be achieved:
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/BLAH/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /no-print ---
+
 **Add me in: generic-scratch-if-on-edge-bounce **
 
-<!--- ***COMMENT*** PJ would like to add an embedded project that has different sprites moving with a range of different motions in the one project. Have a SEE INSIDE button so the user can explore how a particular movement is achieved? This would act as an immediate visiual stimulus or palette for user investigation of wider possibilities, in contrast to a teaching unit such as an ingredient) --->
 
 --- /task ---
 
@@ -74,11 +84,9 @@ You may want to change the way your sprite's costume rotates when it moves to st
 
 --- task ---
 
-Is your sprite the size you want it to be? If not, adjust its size.
+Is your sprite the size you want it to be? If not, adjust its size. Changing the size of a sprite is easy - it will make your animation less flat and more 3-dimensional (3D). 
 
 **Add me in: generic-scratch-change-size **
-
-<!--- ***COMMENT*** PJ would like to add a GIF of moving sprites of different sizes as a visual stimulus to break up the page of text when ingredients are closed.) --->
 
 --- /task ---
 
