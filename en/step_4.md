@@ -1,4 +1,4 @@
-## Make a sprite to move
+## Make a sprite move
 
 Now it's time to get your first sprite moving. Let's start with one sprite and then add more. 
 
