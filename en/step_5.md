@@ -1,14 +1,12 @@
 ## User interaction
 
-Now it's time to create some user interaction so when friends and family 'play' your interactive animation there's something for them to do.
-
-In the example project, each sprite pops and disappears when they are clicked using a number of blocks from the `Looks`{:class="block3looks"} block menu.
+In the example project, each balloon sprite pops and disappears when they are clicked. This effect is achieved by using a number of blocks from the `Looks`{:class="block3looks"} block menu.
 
 --- task ---
 
-You've look at the bottom part oft he **Yellow Balloon** sprite's script! Nowet's look at the top part of the script to understand how it makes the sprite appear.
+You've looked at the bottom part of the **Yellow Balloon** sprite's script! Now let's look at the top part of the script to understand how it makes the sprite appear.
 
-Investigate the `Looks`{:class="block3looks"} blocks highlighted below. Read the code, line by line and try and identify what each `Looks`{:class="block3looks"} block does:
+Investigate the `Looks`{:class="block3looks"} blocks which are highlighted below. Read the code, line by line and try and identify what each `Looks`{:class="block3looks"} block does:
 
 ```blocks3
 when flag clicked
@@ -28,19 +26,21 @@ Is your sprite the size you want it to be? If not, you can adjust it. Changing t
 
 --- task ---
 
-Add a `set size to %`{:class="block3looks"} block and play about with the percentage `value` until you are happy with it.
+Add a `set size to %`{:class="block3looks"} block and play about with the percentage `value` until you are happy with it. You csn come back to this later and tweak the value a little more.
 
 --- /task ---
 
 --- task ---
 
-You now need to add in a `clear graphic effects`{:class="block3looks"} block and `show`{:class="block3looks"} block so that the sprite go back to their original shape and shows on the screen.
+You now need to add in a `clear graphic effects`{:class="block3looks"} block and `show`{:class="block3looks"} block so that the sprite goed back to its original shape and shows on the screen `when greeen flag clicked`{:class="block3events"} .
 
 --- /task ---
 
 --- task ---
 
-To make the **Yellow Balloon** seem more realistic is has been made a little transparent using the `set the ghost effect`{:class="block3looks"} with a value of `15`. Whatever sprite you choose, look at the `graphic effects`{:class="block3looks"} blocks as a source of inspiration.
+To make the **Yellow Balloon** sprite appear more realistic is has been made a little transparent using the `set the ghost effect`{:class="block3looks"} using a value of `15`. Making your sprite transparent may not fit your project idea and that's fine!
+
+Whatever effect you choose for your sprite, investigate the `graphic effects`{:class="block3looks"} blocks and the Scratch Graphics Effects **How to...** below as a source of inspiration.
 
 **Add me in: scratch-graphics-effects**
 
