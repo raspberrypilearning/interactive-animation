@@ -40,7 +40,7 @@ You now need to add in a `clear graphic effects`{:class="block3looks"} block and
 
 To make the **Yellow Balloon** sprite appear more realistic is has been made a little transparent using the `set the ghost effect`{:class="block3looks"} using a value of `15`. Making your sprite transparent may not fit your project idea and that's fine!
 
-Whatever effect you choose for your sprite, investigate the `graphic effects`{:class="block3looks"} blocks and the Scratch Graphics Effects **How to...** below as a source of inspiration.
+Whatever sprite you choose, investigate the `graphic effects`{:class="block3looks"} blocks and the Scratch Graphics Effects **How to...** below as a source of inspiration.
 
 **Add me in: scratch-graphics-effects**
 
