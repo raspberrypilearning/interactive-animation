@@ -12,13 +12,9 @@ Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550)
 
 Click the green flag on each project to see the code run.
 
-Each sprite has a different **algorithm** which makes each sprite's movement unique.
-
 Give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
 
 --- /task ---
-
-**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
 --- task ---
 
@@ -28,7 +24,15 @@ Investigate the **Popping balloons** Scratch project.
   <iframe src="https://scratch.mit.edu/projects/425346741/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
+--- /task ---
+
+--- task ---
+
+Now click on the `See inside`{:class="block3motion"} button on the projects you like to see the code. Each sprite has a different **algorithm** which makes its movement unique. Compare the code used in each sprite in a project. To do this, go to each sprite's **Code** tab.
+
 [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425346741/editor/){:target="_blank"}
+
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
 --- /task ---
 
