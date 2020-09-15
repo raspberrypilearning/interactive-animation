@@ -42,7 +42,7 @@ Select your first sprite and click on the **Code** tab.
 
 Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  
 
-If you would like more details, search for 'bounce' in **How to ... create sprite movement**.
+If you would like more details, search for **bounce** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
@@ -50,9 +50,6 @@ If you would like more details, search for 'bounce' in **How to ... create sprit
 title: How to ... create sprite movement
 
 ---
-generic-scratch-if-on-edge-bounce
-scratch-rotate-costume
-
 --- /collapse ---
 
 --- /task ---
@@ -69,7 +66,7 @@ Click on the green flag to experience varying sprite movement. Each sprite uses 
 
 --- task ---
 
-Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. Search for 'speed' and or 'direction' in **How to ... create sprite movement**.
+Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. Search for **speed** and/or **direction** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
@@ -84,7 +81,7 @@ title: How to ... create sprite movement
 
 --- task ---
 
-You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. Search for 'rotate costume' in **How to ... create sprite movement**.
+You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. Search for **rotate sprite** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
