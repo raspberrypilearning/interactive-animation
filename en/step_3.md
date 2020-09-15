@@ -19,6 +19,6 @@ title: How to ...
 
 Use a **How to ...** when you need to. Some tasks suggest what topic you should search for in a **How to ...**. 
 
-Search using '⌘F'.
+Search using '⌘F' or the 'command' and 'F' keys at the same  time. For instance, search for the word 'command' in this ingredient.
 
 --- /collapse ---
