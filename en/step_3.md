@@ -13,7 +13,7 @@ A **How to ...** looks like the below. Hover over the grey bar and, when it turn
 --- collapse ---
 ---
 
-title: How to ... use a **How to ...**
+title: How to ... use a How to ...
 
 ---
 
