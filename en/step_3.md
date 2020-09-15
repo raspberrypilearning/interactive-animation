@@ -8,7 +8,7 @@ In this project there are three **How to ...**. Each covers a different aspect o
 + set-up project, backdrop and sprite 
 + create sprite movement
 + create graphic effects
-+ designing in the Paint editor
++ design with the Paint editor
 
 A **How to ...** looks like the below. Hover over the grey bar and, when it turns yellow, click the down arrow on the right-hand side to access the information in the **How to ...**.
 
