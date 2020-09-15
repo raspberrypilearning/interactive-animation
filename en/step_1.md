@@ -18,10 +18,10 @@ In this example project below, Popping balloons, the balloons move around the st
 
 --- task ---
 
-Click the green flag to start the program. When you click on a balloon, it will pop and dissappear.
 
 --- no-print ---
-Click on the green flag to see this example project run:
+Click on the green flag to see this example project run. When you click on a balloon, it will pop and dissappear.
+
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
 </div>
