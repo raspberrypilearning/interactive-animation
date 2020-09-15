@@ -24,7 +24,7 @@ Change the new sprite's costume, or edit the costume with the paint editor so th
 --- collapse ---
 ---
 
-title: How to ... designing in the Paint editor
+title: How to ... design with the Paint editor
 
 ---
 --- /collapse ---
