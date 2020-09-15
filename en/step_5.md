@@ -31,7 +31,7 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 
 Select your first sprite and click on the **Code** tab. 
 
-If you would like more details, search for **code tab** in **How to ... access the Scratch interface**.
+For more information on how to do this, search for **code tab** in **How to ... access the Scratch interface**.
 
 --- collapse ---
 ---
@@ -47,7 +47,7 @@ title: How to ... access the Scratch interface
 
 Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  
 
-If you would like more details, search for **bounce** in **How to ... create sprite movement**.
+For more information on how to do this, search for **bounce** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
@@ -75,7 +75,7 @@ Click `See  inside`{:class="block3motion"} the project and then click the **Code
 
 Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. 
 
-If you would like more details, search for **speed** and/or **direction** in **How to ... create sprite movement**.
+For more information on how to do this, search for **speed** and/or **direction** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
@@ -92,7 +92,7 @@ title: How to ... create sprite movement
 
 You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. 
 
-If you would like more details, search for **rotate sprite** in **How to ... create sprite movement**.
+For more information on how to do this, search for **rotate sprite** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
