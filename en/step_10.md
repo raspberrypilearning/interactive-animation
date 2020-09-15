@@ -14,10 +14,7 @@ I used a `forever`{:class="block3control"} loop to make a sprite repeat code
 I modified a costume in the paint editor
 --- /task ---
 --- task ---
-I used `graphic effect`{:class="block3control"} blocks to change how my sprite appeared
---- /task ---
---- task ---
-I used `graphic effect`{:class="block3control"} blocks to change how my sprite appeared
+I used `graphic effect`{:class="block3looks"} blocks to change how my sprite appeared
 --- /task ---
 --- task ---
 I used `when this sprite clicked`{:class="block3events"} blocks to create user interaction
