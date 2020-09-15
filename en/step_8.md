@@ -29,6 +29,12 @@ title: How to ... designing in the Paint editor
 ---
 --- /collapse ---
 
+
+--- /task ---
+
+
+--- task ---
+
 How big should the sprite be? 
 Which direction will it point in?
 Will the sprite appear behind or in front or other sprites?
@@ -42,6 +48,8 @@ title: How to ... create graphic effects
 
 ---
 --- /collapse ---
+
+--- /task ---
 
 --- task ---
 
