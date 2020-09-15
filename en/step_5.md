@@ -56,6 +56,7 @@ scratch-rotate-costume
 --- /collapse ---
 
 --- /task ---
+
 --- no-print ---
 
 Click on the green flag to experience varying sprite movement. Each sprite uses different `Motion`{:class="block3motion"} blocks. Click `SEE INSIDE`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular sprite movement can be achieved:
@@ -70,11 +71,29 @@ Click on the green flag to experience varying sprite movement. Each sprite uses 
 
 Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. Search for 'speed' and or 'direction' in **How to ... create sprite movement**.
 
+--- collapse ---
+---
+
+title: How to ... create sprite movement
+
+---
+
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
 
 You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. Search for 'rotate costume' in **How to ... create sprite movement**.
+
+--- collapse ---
+---
+
+title: How to ... create sprite movement
+
+---
+
+--- /collapse ---
 
 --- /task ---
 
