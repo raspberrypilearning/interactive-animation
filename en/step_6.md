@@ -4,9 +4,9 @@ In the example project, Popping balloons, each balloon sprite pops and disappear
 
 --- task ---
 
-You've explored the bottom part of the **Yellow Balloon** sprite's script. Now let's look at the top part of the script to understand how it effects the sprite's appearance.
+You've explored the bottom part of the **Yellow Balloon** sprite's script. Now let's look at the top part of the script to understand how it the blocks used affect the sprite's appearance.
 
-Investigate the `Looks`{:class="block3looks"} blocks which are highlighted below. Read the code, line by line, to try and identify what each `Looks`{:class="block3looks"} block does:
+Investigate the `Looks`{:class="block3looks"} blocks which are highlighted below. Read the code, line by line, to identify what each `Looks`{:class="block3looks"} block does:
 
 ```blocks3
 when flag clicked
@@ -22,7 +22,7 @@ end
 ```
 --- /task ---
 
-Is your sprite the size you want it to be? If not, you can easily adjust it. Varying the size of your sprites will create more depth to your animation. Notice, in the Popping balloons example project, how the ballons **appear** to float 3-dimensionally within the Backdrop. This effect iscreated just because the balloons vary size.
+Is your sprite the size you want it to be? If not, you can easily adjust it. Varying the size of your sprites will create more depth to your animation. Notice, in the Popping balloons example project, how the ballons **appear** to float 3-dimensionally within the Backdrop. This effect is created just because the balloons vary size.
 
 --- task ---
 
@@ -38,11 +38,17 @@ You now need to add in a `clear graphic effects`{:class="block3looks"} block and
 
 --- task ---
 
-To make the **Yellow Balloon** sprite appear more realistic is has been made a little transparent using the `set the ghost effect`{:class="block3looks"} using a value of `15`. Making your sprite transparent may not fit your project idea and that's fine!
+To make the **Yellow Balloon** sprite appear more realistic it has been made a little transparent using the `set the ghost effect`{:class="block3looks"} using a value of `15`. Making your sprite transparent may not fit your project idea and that's fine! Why not use another `graphic effect`{:class="block3looks"} instead?
 
-Whatever sprite you choose, investigate the `graphic effects`{:class="block3looks"} blocks and the Scratch Graphics Effects **How to...** below as a source of inspiration.
+Whatever sprite you choose, investigate the **How to... create graphic effects** as a source of inspiration.
 
-**Add me in: scratch-graphics-effects**
+--- collapse ---
+---
+
+title: How to ... create graphic effects
+
+---
+--- /collapse ---
 
 --- /task ---
 
