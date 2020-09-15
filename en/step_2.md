@@ -28,11 +28,13 @@ Investigate the **Popping balloons** Scratch project.
 
 --- task ---
 
-Now click on the `See inside`{:class="block3motion"} button on the projects you like to see the code. Each sprite has a different **algorithm** which makes its movement unique. Compare the code used in each sprite in a project. To do this, go to each sprite's **Code** tab.
+Now click on the `See inside`{:class="block3motion"} button on the projects you like to see the code.
 
 [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425346741/editor/){:target="_blank"}
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
+
+Compare the code used in each sprite in projects as each sprite has a different **algorithm** which makes its movement unique. To do this, click on each sprite's **Code** tab.
 
 --- /task ---
 
