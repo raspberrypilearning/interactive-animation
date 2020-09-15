@@ -5,6 +5,9 @@ How did your Make a difference project go? Is there anything you would do like t
 Remind yourself what you have achieved:
 
 --- task ---
+I applied my skills to realise my own project ideas
+--- /task ---
+--- task ---
 I used an `if on edge, bounce`{:class="block3motion"} inside a `forever`{:class="block3control"} loop to make my sprite turn away from the edge of the stage
 --- /task ---
 --- task ---
