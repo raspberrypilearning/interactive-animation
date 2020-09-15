@@ -1,21 +1,24 @@
 ## How to ...
 
-In order to support your making during this project, if and when needed, you can use the How to ... dropdowns like the below:
+In order to support your making during this project you can use the **How to ...** dropdowns if and when you need to. 
+
+In this project there are three **How to ...**, eachcover a different Scratch topic:
+
++ Set-up: Project, backdrop and sprite 
++ Sprite movement
++ Graphic effects
+
+A **How to ...** looks like the below. Hover over the grey bar and when it turns yellow, click the down arrow on the right-hand side to access the information in the **How to ...**
 
 --- collapse ---
 ---
 
-title: How to ... this is an example of how to access a How to  ...
+title: How to ... 
 
 ---
 
-This is how to access a How to ...
-In this project  there are three How to ...
+Use a **How to ...** when you need to. Some tasks suggest what topic you should search for in a **How to ...**. 
 
-+ Backdrop and sprite set-up
-+ Sprite movement
-+ Graphic effects
-
-Use them when you need to.
+Search using '⌘F'.
 
 --- /collapse ---
