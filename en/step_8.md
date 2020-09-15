@@ -14,25 +14,43 @@ Think about how this sprite will look different to the first sprite.
 
 Change the new sprite's costume, or edit the costume with the paint editor so that it looks different from your first sprite. 
 
-**Add me in: scratch-paint-tool-basics**
+--- collapse ---
+---
+
+title: How to ... designing in the Paint editor
+
+---
+--- /collapse ---
 
 How big should the sprite be? 
 Which direction will it point in?
 Will the sprite appear behind or in front or other sprites?
 
-**Add me in: generic-scratch-layers**
+For more infortmation, search **layers** in the **How to ... create graphic effects**
 
---- /task ---
+--- collapse ---
+---
+
+title: How to ... create graphic effects
+
+---
+--- /collapse ---
 
 --- task ---
 
 Consider how this sprite might move differently to the first sprite. 
 
-Explore different movement patterns: 
+Explore different movement patterns.
 
-**Add me in: generic-scratch-spin-around**
+For more infortmation, search **spin** and **circle** in the **How to ... create graphic effects**
 
-**Add me in: generic-move-in-a-circle**
+--- collapse ---
+---
+
+title: How to ... create graphic effects
+
+---
+--- /collapse ---
 
 --- /task ---
 
