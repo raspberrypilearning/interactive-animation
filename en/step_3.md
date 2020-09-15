@@ -4,7 +4,7 @@ In order to support your making during this project you can use the **How to ...
 
 In this project there are three **How to ...**. Each covers a different aspect of Scratch:
 
-+ access the Scratch interface*
++ access the Scratch interface
 + set-up project, backdrop and sprite 
 + create sprite movement
 + create graphic effects
