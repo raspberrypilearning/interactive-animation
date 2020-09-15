@@ -5,7 +5,7 @@ Now it's time to get your first sprite moving. Let's start with one sprite and t
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
 
 --- task ---
-In Popping balloons, the **Yellow Balloon** sprite points to 45 degrees. Because it starts off att his angle it carries on  moving at 45 degrees whilst flipping direction when it touches the top, sides or bottom of the stage and so on. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the **Yellow Balloon** sprite's script to understand how it makes the sprite move. You will look at the top part of the program soon!:
+In Popping balloons, the **Yellow Balloon** sprite `point in direction 45`{:class="block3motion"}. Because it starts off att his angle it carries on  moving at 45 degrees whilst flipping direction when it touches the top, sides or bottom of the stage and so on. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the **Yellow Balloon** sprite's script to understand how it makes the sprite move. You will look at the top part of the program soon!:
 
 ```blocks3
 when flag clicked
@@ -61,9 +61,11 @@ title: How to ... create sprite movement
 
 --- no-print ---
 
-Click on the green flag to experience varying sprite movement. Each sprite uses different `Motion`{:class="block3motion"} blocks. Click `SEE INSIDE`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular sprite movement can be achieved:
+Click on the green flag to experience varying ball sprite movement in **Bouncing balls**. Each sprite uses different `point in direction`{:class="block3motion"} and `Motion`{:class="block3motion"} blocks. 
+
+Click `See  inside`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular ball sprite movement can be achieved:
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/BLAH/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
