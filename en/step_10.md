@@ -20,7 +20,7 @@ I used `graphic effect`{:class="block3looks"} blocks to change how my sprite app
 I used `when this sprite clicked`{:class="block3events"} blocks to create user interaction
 --- /task ---
 --- task ---
-I used `size`{:class="block3looks"} or `layers`{:class="block3looks"} to make scene have more depth
+I used `size`{:class="block3looks"} or `layer`{:class="block3looks"} blocks to make scene have more depth
 --- /task ---
 --- task ---
 I used a **How to ...** to find out more about Scratch blocks
