@@ -4,35 +4,34 @@ You are going to create a Make a difference project to change someone's mood. Th
 
 --- task ---
 
-You can get ideas for your own Make a difference project by investigating projects created by others.
+You can get ideas for your own project by investigating projects created by others.
 
 Don't worry about the code and **how** things will work just yet. Instead, as you look at the projects below, give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
 
 --- no-print ---
-Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} from the Raspberry Pi Foundation Scratch studio listed below.
+Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore the projectswhich arealso listed below.
 
 Click the green flag on a project to see the code run.
 
-Click `See inside`{:class="block3motion"} below a project to investigate its code. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click `See inside`{:class="block3motion"} below a project to investigate its code. 
 
-**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
+Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 --- /no-print ---
 
 --- print-only ---
 
-Go to the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} from the Raspberry Pi Foundation Scratch studio listed below.
+Go to the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} projects from the Raspberry Pi Foundation Scratch studio - www.scratch.mit.edu/studios/27520550.
 
 Click `See inside`{:class="block3motion"} to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 ![See inside icon](images/see_inside.png)
 
-**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
-
 --- /print-only ---
 
 --- /task ---
 
+**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
 --- task ---
 
