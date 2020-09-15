@@ -18,18 +18,50 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=�
 --- task ---
 Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. 
 
-[[[generic-scratch3-backdrop-from-library]]]
+If you need to, search for **backdrop** in **How to … set up project, backdrop and sprite**.
+
+--- collapse ---
+---
+
+title: How to ... set up project, backdrop and sprite
+
+---
+
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
 Add your first sprite. You will always be able to change the way it looks or add more sprites later if you have time. 
 
-[[[generic-scratch-sprite-from-library]]]
---- /task ---
+If you'd like a reminder on how to do this search for **sprite** in **How to … set up project, backdrop and sprite**.
+
+--- collapse ---
+---
+
+title: How to ... set up project, backdrop and sprite
+
+---
+
+--- /collapse ------ /task ---
 
 --- task ---
 Give your project a title that matches your theme. 
 
-**generic-scratch-title with gif**
+If you'd like a reminder on how to do this search for **title** in **How to … set up project, backdrop and sprite**.
+
+--- collapse ---
+---
+
+title: How to ... set up project, backdrop and sprite
+
+---
+--- /task ---
+
+--- task ---
+
+Save your project.
 
 --- /task ---
+--- save ---
+
