@@ -2,32 +2,20 @@
 
 You are going to create a Make a difference project to change someone's mood. The theme of the project, how it looks and the way the sprites move is up to you. 
 
---- task ---
-
 You can get ideas for your own project by investigating projects created by others.
 
-Don't worry about the code and **how** things will work just yet. Instead, as you look at the projects below, give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
+
+
+--- task ---
 
 --- no-print ---
-Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore the projectswhich arealso listed below.
+Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore the same projects which are given below.
 
-Click the green flag on a project to see the code run.
-
-Click `See inside`{:class="block3motion"} below a project to investigate its code. 
+Click the green flag on each project to see the code run.
 
 Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
---- /no-print ---
-
---- print-only ---
-
-Go to the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} projects from the Raspberry Pi Foundation Scratch studio - www.scratch.mit.edu/studios/27520550.
-
-Click `See inside`{:class="block3motion"} to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
-
-![See inside icon](images/see_inside.png)
-
---- /print-only ---
+Give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
 
 --- /task ---
 
@@ -45,6 +33,6 @@ Investigate the **Popping balloons** Scratch project.
 
 --- /task ---
 
-REPEAT IF WE HAVE MORE EXAMPLES
+REPEAT POPPING BALLOONS SECTION WHEN WE HAVE MORE EXAMPLES AS EMBEDDED PROJECTS WILLBE EASIER TO LOOK AT.
 
 *[algorithm]: A set of precise instructions for performing a task.
