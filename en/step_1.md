@@ -14,7 +14,11 @@ To complete the Make a difference project you need to have the following skills 
 You will now apply the above skills to create your own project where you will choose your own sprites and backdrop to create a unique interactive animation.
 
 ## What you will make
-In this example project, Popping balloons, the balloons move around the screen in different ways using loops. When the user clicks on any balloon, the balloon pops and dissappears.
+In this example project below, Popping balloons, the balloons move around the stage in different ways using loops. 
+
+--- task ---
+
+Click the green flag to start the program. When you click on a balloon, it will pop and dissappear.
 
 --- no-print ---
 Click on the green flag to see this example project run:
@@ -26,6 +30,8 @@ Click on the green flag to see this example project run:
 --- print-only ---
 ![Complete project](images/showcase_static.png){:width="400px"}
 --- /print-only ---
+
+--- /task ---
 
 --- collapse ---
 ---
@@ -57,7 +63,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can [download the completed project here](http://rpf.io/p/en/make-a-difference){:target="_blank"}.
+You can [download the completed project here](http://rpf.io/p/en/make-a-difference).
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/make-a-difference/print){:target="_blank"}.
 
