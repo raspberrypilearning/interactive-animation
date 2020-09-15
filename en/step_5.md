@@ -5,23 +5,20 @@ Now it's time to get your first sprite moving. Let's start with one sprite and t
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
 
 --- task ---
-The **Yellow Balloon** sprite moves up and down the stage, changing direction when it hits the top, sides or bottom. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the script to understand how it makes the sprite move. You will look at the top part of the program soon!:
+In Popping balloons, the **Yellow Balloon** sprite points to 45 degrees. Because it starts off att his angle it carries on  moving at 45 degrees whilst flipping direction when it touches the top, sides or bottom of the stage and so on. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the **Yellow Balloon** sprite's script to understand how it makes the sprite move. You will look at the top part of the program soon!:
 
 ```blocks3
 when flag clicked
 set size to (80)%
 clear graphic effects :: looks
 set [ghost v] effect to (15)
-+ point in direction (0)
++ point in direction (45)
 show
 forever
-move (5) steps
++ move (5) steps
 + if on edge, bounce
 end
 ```
-
-Choosing `0` in the `point in direction`{:class="block3motion"} block makes the sprite point upwards so the `move`{:class="block3motion"} block will make the sprite move up to the top of the Stage area. If the sprite touches the top of the stage it will flip direction and start moving down towards the bottom of the stage and so on. The balloon sometimes bounces off the sides of the Stage area.
-
 --- /task ---
 
 --- task ---
@@ -34,7 +31,15 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 
 Select your first sprite and click on the **Code** tab. 
 
-![Code tab selected](images/code-tab.png)
+If you would like more details, search for **code tab** in **How to ... access the Scratch interface**.
+
+--- collapse ---
+---
+
+title: How to ... access the Scratch interface
+
+---
+--- /collapse ---
 
 --- /task ---
 
