@@ -43,7 +43,9 @@ title: How to ... set up project, backdrop and sprite
 
 ---
 
---- /collapse ------ /task ---
+--- /collapse --- 
+
+/task ---
 
 --- task ---
 Give your project a title that matches your theme. 
@@ -56,6 +58,8 @@ If you'd like a reminder on how to do this search for **title** in **How to … 
 title: How to ... set up project, backdrop and sprite
 
 ---
+--- /collapse --- 
+
 --- /task ---
 
 --- task ---
