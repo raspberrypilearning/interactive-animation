@@ -4,7 +4,14 @@ Now you've got one sprite moving the way you want it to, let's add another.
 --- task ---
 Duplicate your first sprite to create the starting point for the next. The code gets copied too which saves you time.
 
-**Add me in: scratch-duplicating-sprite**
+--- collapse ---
+---
+
+title: How to ... set-up project, backdrop and sprite
+
+---
+--- /collapse ---
+
 
 --- /task ---
 
