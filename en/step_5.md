@@ -73,7 +73,9 @@ Click `See  inside`{:class="block3motion"} the project and then click the **Code
 
 --- task ---
 
-Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. Search for **speed** and/or **direction** in **How to ... create sprite movement**.
+Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. 
+
+If you would like more details, search for **speed** and/or **direction** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
@@ -88,7 +90,9 @@ title: How to ... create sprite movement
 
 --- task ---
 
-You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. Search for **rotate sprite** in **How to ... create sprite movement**.
+You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. 
+
+If you would like more details, search for **rotate sprite** in **How to ... create sprite movement**.
 
 --- collapse ---
 ---
