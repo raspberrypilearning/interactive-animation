@@ -14,10 +14,19 @@ I used a `forever`{:class="block3control"} loop to make a sprite repeat code
 I modified a costume in the paint editor
 --- /task ---
 --- task ---
-I used `rotation`{:class="block3control"} styles to change how my sprite rotates
+I used `graphic effect`{:class="block3control"} blocks to change how my sprite appeared
 --- /task ---
 --- task ---
-I used `layers`{:class="block3looks"} to make it look like some sprites are in front of others
+I used `graphic effect`{:class="block3control"} blocks to change how my sprite appeared
+--- /task ---
+--- task ---
+I used `when this sprite clicked`{:class="block3events"} blocks to create user interaction
+--- /task ---
+--- task ---
+I used `size`{:class="block3looks"} or `layers`{:class="block3looks"} to make scene have more depth
+--- /task ---
+--- task ---
+I used a **How to ...** to find out more about Scratch blocks
 --- /task ---
 --- task ---
 I found a bug in my code and fixed it
