@@ -1,6 +1,6 @@
 ## Reflect on your project
 
-How did your Make a difference project go? Is there anything you would do like to improve? 
+How did your **Make it different** project go? Is there anything you would do like to improve? 
 
 Remind yourself what you have achieved:
 
