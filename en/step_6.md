@@ -1,6 +1,62 @@
-## Adapting a sprite's appearence
+## Change your sprite's looks
 
-In the example project, Popping balloons, each balloon sprite pops and disappears when they are clicked. These effects are achieved by using a number of blocks from the `Looks`{:class="block3looks"} block menu.
+You can change the way your sprite looks by changing its costume and using graphic effects and changing its size. 
+
+--- task ---
+
+
+
+--- collapse ---
+---
+
+title: How to create a simple sprite animation
+
+---
+
+Use `next costume`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} to create an animation: 
+
+```blocks3
+when flag clicked
+forever
+next costume
+wait (0.2) seconds
+```
+
+One second is often too long to wait before changing to the next costume so you need to use numbers smaller than 1 in the `wait` block. A wait of `0.1` is one tenth of a second and `0.5` is half a second. If you wait `0.2` seconds then the sprite will change costumes five times every second. 
+
+When a sprite reaches its last costume,  the `next costume`{:class="block3looks"} block will go back to the first costume so the sprite will keep moving. 
+
+You can combine animation with movement to create sprites that walk or fly: 
+
+```blocks3
+when flag clicked
+point in direction (90)
+set rotation style [left-right v]
+forever
+move (5) steps
+next costume
+if on edge, bounce
+wait (0.2) seconds
+```
+
+--- /collapse ---
+
+
+--- collapse ---
+---
+
+title: How to use graphic effects
+
+---
+
+```blocks3
+
+
+```
+
+--- /collapse ---
+
+--- /task ---
 
 --- task ---
 
