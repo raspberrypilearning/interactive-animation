@@ -50,9 +50,9 @@ Before you select the drop-down from `set rotation style`{:class="block3motion"}
 + `all around`{:class="block3motion"} - your sprite will appear to rotate randomly and, depending on the speed, can create a spinning effect
 + `don't rotate`{:class="block3motion"} - your sprite won't rotate at all
 
-If you don't use the `set rotation style`{:class="block3motion"} block, you may find your sprite goes upside down when it bounces off the edge of the stage.
+If you don't use the `set rotation style`{:class="block3motion"} block, you may find your sprite goes upside down when it bounces off the edge of the Stage.
 
-The `forever`{:class="block3motion"} block makes the sprite move continously. Increase the number of steps in `move`{:class="block3motion"}, `5`, `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
+The `forever`{:class="block3motion"} block makes the sprite move continuously. Increase the number of steps in `move`{:class="block3motion"}, `5`, `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
 
 You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
 
