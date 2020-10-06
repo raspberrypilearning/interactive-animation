@@ -19,7 +19,7 @@ Select your first sprite and click on the **Code** tab.
 
 --- task ---
 
-Add code to make your sprite bounce around the Stage in the way you want it to. 
+Add code to make your sprite bounce around the Stage in the way you want it to. Don't forget to change the speed of your sprite until you get the motion you want. It might take a few experiments to get it right.
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program.
 
@@ -75,12 +75,6 @@ Click `See  inside`{:class="block3motion"} to **investigate** the `Motion`{:clas
 --- /collapse --- 
 
 ---/task ---
-
---- task ---
-
-Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. 
-
---- /task ---
 
 --- task ---
 
