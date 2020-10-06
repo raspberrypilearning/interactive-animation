@@ -82,8 +82,6 @@ if on edge, bounce
 
 --- /collapse --- 
 
---- /task ---
-
 --- task ---
 
 Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. 
