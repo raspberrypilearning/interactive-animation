@@ -1,8 +1,6 @@
 ## Choose your theme
 
-Now it's time to start working on your own project.
-
-You may be bursting with ideas already, or you may need to take a few minutes to decide on a theme you want to work with.
+Now it's time to start working on your own project. You may be bursting with ideas already, or you may need to take a few minutes to decide on a theme you want to work with.
 
 --- task ---
 
@@ -18,46 +16,33 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=�
 --- task ---
 Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. 
 
-If you need to, search for **backdrop** in **How to … set up project, backdrop and sprite**.
-
---- collapse ---
----
-
-title: How to ... set up project, backdrop and sprite
-
----
-
---- /collapse ---
+[[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
 --- task ---
 Add your first sprite. You will always be able to change the way it looks or add more sprites later if you have time. 
 
-If you'd like a reminder on how to do this search for **sprite** in **How to … set up project, backdrop and sprite**.
-
---- collapse ---
----
-
-title: How to ... set up project, backdrop and sprite
-
----
-
---- /collapse --- 
+[[[generic-scratch3-sprite-from-library]]]
 
 --- /task ---
 
 --- task ---
-Give your project a title that matches your theme. 
-
-If you'd like a reminder on how to do this search for **title** in **How to … set up project, backdrop and sprite**.
+Give your project a name that matches your theme. 
 
 --- collapse ---
 ---
 
-title: How to ... set up project, backdrop and sprite
+title: How do I give my project a name?
 
 ---
+
+Click in the project name box and change the name to match your project. 
+
+![Project name highlighted](images/change-project-name.png)
+
+If you share your project then others will see this name so make sure it makes sense. 
+
 --- /collapse --- 
 
 --- /task ---
