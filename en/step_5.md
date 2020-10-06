@@ -7,7 +7,7 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 --- collapse ---
 ---
 
-title: Bounce around the Stage
+title: How to bounce around the Stage
 
 ---
 
@@ -16,7 +16,7 @@ This code will make a sprite start moving when the green flag is clicked. The sp
 ```blocks3
 when flag clicked
 point in direction (45)
-set rotation-style [left-right v]
+set rotation style [left-right v]
 forever
 move (5) steps
 if on edge, bounce
@@ -24,14 +24,14 @@ if on edge, bounce
 
 Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`.
 
-Some sprites look better if you `set rotation-style`{:class="block3motion"} to `left-right`{:class="block3motion"} or `none`{:class="block3motion"}.
+Some sprites look better if you `set rotation style`{:class="block3motion"} to `left-right`{:class="block3motion"} or `none`{:class="block3motion"}.
 
 Increase the number of steps in `move (5) steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
 
 ```blocks3
 when flag clicked
 point in direction (45)
-set rotation-style [all around v]
+set rotation style [all around v]
 forever
 move (5) steps
 +turn right (15) degrees
