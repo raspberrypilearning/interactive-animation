@@ -4,6 +4,24 @@ Now it's time to get your first sprite moving. Start with one sprite and then ad
 
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
 
+
+--- task ---
+
+Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line."
+
+--- /task ---
+
+--- task ---
+
+Select your first sprite and click on the **Code** tab. 
+
+--- /task ---
+
+
+--- task ---
+
+Add code to make your sprite bounce around the Stage in the way you want it to.
+
 --- collapse ---
 ---
 
@@ -42,6 +60,7 @@ The `all around`{:class="block3motion"} rotation style works best to create a sp
 
 --- /collapse --- 
 
+--- /task ---
 
 --- task ---
 In Popping balloons, the **Yellow Balloon** sprite `point in direction 45`{:class="block3motion"}. Because it starts off att his angle it carries on  moving at 45 degrees whilst flipping direction when it touches the top, sides or bottom of the stage and so on. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the **Yellow Balloon** sprite's script to understand how it makes the sprite move. You will look at the top part of the program soon!:
@@ -59,29 +78,6 @@ forever
 end
 ```
 --- /task ---
-
---- task ---
-
-Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line."
-
---- /task ---
-
---- task ---
-
-Select your first sprite and click on the **Code** tab. 
-
-For more information on how to do this, search for **code tab** in **How to ... access the Scratch interface**.
-
---- collapse ---
----
-
-title: How to ... access the Scratch interface
-
----
---- /collapse ---
-
---- /task ---
-
 --- task ---
 
 Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  
