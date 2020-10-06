@@ -14,7 +14,7 @@ I used an `if on edge, bounce`{:class="block3motion"} inside a `forever`{:class=
 I used a `forever`{:class="block3control"} loop to make a sprite repeat code 
 --- /task ---
 --- task ---
-I modified a costume in the **Paint** editor
+I modified a costume in the Paint editor
 --- /task ---
 --- task ---
 I used `graphic effect`{:class="block3looks"} blocks to change how my sprite appeared
