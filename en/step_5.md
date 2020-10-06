@@ -40,11 +40,14 @@ move (5) steps
 if on edge, bounce
 ```
 
-Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`.
+Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`. If your sprite moves at `45` degrees, you will find it appears to bounces off the edge of the stage in a random direction. 
 
-If you `set rotation style`{:class="block3motion"} to `left-right`{:class="block3motion"} your sprite  will  move to the left and then the right of the stage. `none`{:class="block3motion"}.
+Before you choose `set rotation style`{:class="block3motion"}, first consider how you want your sprite the respond **when it bounces off the edge of the stage**:
++ `left-right`{:class="block3motion"} will cause your sprite to rotate horizontally and appear to change its direction
++ `all around`{:class="block3motion"} will make your sprite appear to rotate randomly or to create a spinning effect
++ `don't rotate`{:class="block3motion"} will stop your sprite rotating
 
-Increase the number of steps in `move (5) steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
+Increase the number of steps in `move`{:class="block3motion"}, `5`, `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
 
 ```blocks3
 when flag clicked
@@ -55,8 +58,6 @@ move (5) steps
 +turn right (15) degrees
 if on edge, bounce
 ```
-
-The `all around`{:class="block3motion"} rotation style works best to create a spinning effect.
 
 --- /collapse --- 
 
