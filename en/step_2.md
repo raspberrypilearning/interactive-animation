@@ -18,24 +18,25 @@ Give some thought to **your** projects theme, how it will look and the way you w
 
 --- task ---
 
-Investigate the **Popping balloons** Scratch project.
-
-Click on the green flag to **experience** how each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
-
-Click `See  inside`{:class="block3motion"} to **investigate** the `Motion`{:class="block3motion"} blocks.
-
 --- no-print ---
 
+Investigate the following example Scratch projects.
+
+Click on the green flags below to **experience** the projects and the appearance of each sprite and how they move.
+
+**Popping balloons**:
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/425346741/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
-</div>
-
+**Animal behaviour**:
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Bouncing balls**:
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /no-print ---
