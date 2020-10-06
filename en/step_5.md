@@ -17,10 +17,29 @@ Select your first sprite and click on the **Code** tab.
 
 --- /task ---
 
-
 --- task ---
 
-Add code to make your sprite bounce around the Stage in the way you want it to.
+Add code to make your sprite bounce around the Stage in the way you want it to. 
+
+**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes the sprite move.
+
+--- no-print ---
+
+Click on the green flag to experience varying ball sprite movement in **Bouncing balls**. Each sprite uses different `point in direction`{:class="block3motion"} blocks. 
+
+Click `See  inside`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular ball sprite movement can be achieved:
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Click on the green flag to experience varying ball sprite movement in **Animal behaviour**. Each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
+
+Click `See  inside`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how the behaviour of each animal is affected by `set rotation style`{:class="block3motion"}:
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /no-print ---
 
 --- collapse ---
 ---
@@ -42,7 +61,7 @@ if on edge, bounce
 
 Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`. If your sprite moves at `45` degrees, you will find it appears to bounces off the edge of the stage in a random direction. 
 
-Before you choose `set rotation style`{:class="block3motion"}, first consider how you want your sprite the respond **when it bounces off the edge of the stage**:
+Before you choose `set rotation style`{:class="block3motion"}, first consider how you want your sprite to respond **when it bounces off the edge of the stage**:
 + `left-right`{:class="block3motion"} will cause your sprite to rotate horizontally and appear to change its direction
 + `all around`{:class="block3motion"} will make your sprite appear to rotate randomly or to create a spinning effect
 + `don't rotate`{:class="block3motion"} will stop your sprite rotating
@@ -55,57 +74,13 @@ point in direction (45)
 set rotation style [all around v]
 forever
 move (5) steps
-+turn right (15) degrees
+turn right (15) degrees
 if on edge, bounce
 ```
 
 --- /collapse --- 
 
 --- /task ---
-
---- task ---
-In Popping balloons, the **Yellow Balloon** sprite `point in direction 45`{:class="block3motion"}. Because it starts off att his angle it carries on  moving at 45 degrees whilst flipping direction when it touches the top, sides or bottom of the stage and so on. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the **Yellow Balloon** sprite's script to understand how it makes the sprite move. You will look at the top part of the program soon!:
-
-```blocks3
-when flag clicked
-set size to (80)%
-clear graphic effects :: looks
-set [ghost v] effect to (15)
-+ point in direction (45)
-show
-forever
-+ move (5) steps
-+ if on edge, bounce
-end
-```
---- /task ---
---- task ---
-
-Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage.  
-
-For more information on how to do this, search for **bounce** in **How to ... create sprite movement**.
-
---- collapse ---
----
-
-title: How to ... create sprite movement
-
----
---- /collapse ---
-
---- /task ---
-
---- no-print ---
-
-Click on the green flag to experience varying ball sprite movement in **Bouncing balls**. Each sprite uses different `point in direction`{:class="block3motion"} and `Motion`{:class="block3motion"} blocks. 
-
-Click `See  inside`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular ball sprite movement can be achieved:
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
-
 
 --- task ---
 
