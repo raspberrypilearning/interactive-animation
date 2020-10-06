@@ -34,11 +34,11 @@ This code will make a sprite start moving when the green flag is clicked. The sp
 
 ```blocks3
 when flag clicked
-point in direction (45)
-set rotation style [left-right v]
++point in direction (45)
++set rotation style [left-right v]
 forever
 move (5) steps
-if on edge, bounce
++if on edge, bounce
 ```
 
 Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`. If your sprite moves at `45` degrees, you will find it appears to bounces off the edge of the stage in a random direction. 
@@ -50,15 +50,17 @@ Before you choose `set rotation style`{:class="block3motion"}, first consider ho
 
 If you don't use the `set rotation style`{:class="block3motion"} block,  you may find your sprite may go upside down when it bounces off the edge of the stage.
 
-Increase the number of steps in `move`{:class="block3motion"}, `5`, `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
+The `forever`{:class="block3motion"} block make the sprites move continously. Increase the number of steps in `move`{:class="block3motion"}, `5`, `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
+
+You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block so each time your sprite moves it also turns.
 
 ```blocks3
 when flag clicked
 point in direction (45)
 set rotation style [all around v]
-forever
-move (5) steps
-turn right (15) degrees
++forever
++move (5) steps
++turn right (15) degrees
 if on edge, bounce
 ```
 
