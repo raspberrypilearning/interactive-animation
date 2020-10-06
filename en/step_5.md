@@ -44,11 +44,11 @@ if on edge, bounce
 Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`. If your sprite moves at `45` degrees, you will find it appears to bounces off the edge of the stage in a random direction. 
 
 Before you choose `set rotation style`{:class="block3motion"}, first consider how you want your sprite to respond **when it bounces off the edge of the stage**:
-+ `left-right`{:class="block3motion"} will cause your sprite to rotate horizontally and appear to change its direction
-+ `all around`{:class="block3motion"} will make your sprite appear to rotate randomly or to create a spinning effect
-+ `don't rotate`{:class="block3motion"} will stop your sprite rotating
++ `left-right`{:class="block3motion"}: sprite will rotate horizontally and appear to flip, changing its direction
++ `all around`{:class="block3motion"}: sprite will appear to rotate randomly or create a spinning effect
++ `don't rotate`{:class="block3motion"}: sprite won't rotate at all
 
-If you don't use the `set rotation style`{:class="block3motion"} your sprite may go upside down when it bounces off the edge of the stage.
+If you don't use the `set rotation style`{:class="block3motion"} block,  you may find your sprite may go upside down when it bounces off the edge of the stage.
 
 Increase the number of steps in `move`{:class="block3motion"}, `5`, `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
 
