@@ -19,7 +19,9 @@ Select your first sprite and click on the **Code** tab.
 
 --- task ---
 
-Add code to make your sprite bounce around the Stage in the way you want it to. Don't forget to change the speed of your sprite until you get the motion you want. It might take a few experiments to get it right.
+Add code to make your sprite bounce around the Stage in the way you want it to. 
+
+Don't forget to change the speed of your sprite until you get the motion you want. It might take a few experiments to get it right.
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program.
 
