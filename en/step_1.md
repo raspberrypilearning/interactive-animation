@@ -21,7 +21,7 @@ In this example project below, Popping balloons, the balloons move around the st
 
 
 --- no-print ---
-Click on the green flag to see this example project run. When you click on a balloon, it will pop and dissappear.
+Click on the green flag to see one of the example projects run. When you click on a balloon, it will burst, 'pop' and dissappear.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
