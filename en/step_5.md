@@ -56,7 +56,7 @@ The `forever`{:class="block3motion"} block makes the sprite move continuously. I
 
 You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
 
-**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move. **Investigate** how `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks are used differently.
+**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move. **Investigate** how the `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks are used differently:
 
 [Popping balloons](https://scratch.mit.edu/projects/425346741/editor)
 [Animal behaviour](https://scratch.mit.edu/projects/433177517/editor)
