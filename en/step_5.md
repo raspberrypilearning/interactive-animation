@@ -64,6 +64,8 @@ Before you choose `set rotation style`{:class="block3motion"}, first consider ho
 + `all around`{:class="block3motion"} will make your sprite appear to rotate randomly or to create a spinning effect
 + `don't rotate`{:class="block3motion"} will stop your sprite rotating
 
+If you don't use the `set rotation style`{:class="block3motion"} your sprite may go upside down when it bounces off the edge of the stage.
+
 Increase the number of steps in `move`{:class="block3motion"}, `5`, `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
 
 ```blocks3
@@ -83,36 +85,6 @@ if on edge, bounce
 --- task ---
 
 Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. 
-
-For more information on how to do this, search for **speed** and/or **direction** in **How to ... create sprite movement**.
-
---- collapse ---
----
-
-title: How to ... create sprite movement
-
----
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-You may want to change the way your sprite's costume rotates when it moves to stop it going upside down. 
-
-For more information on how to do this, search for **rotate sprite** in **How to ... create sprite movement**.
-
---- collapse ---
----
-
-title: How to ... create sprite movement
-
----
-
---- /collapse ---
-
---- /task ---
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program. 
 
