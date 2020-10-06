@@ -59,8 +59,8 @@ when flag clicked
 point in direction (45)
 set rotation style [all around v]
 +forever
-+move (5) steps
-+turn right (15) degrees
+move (5) steps
+turn right (15) degrees
 if on edge, bounce
 ```
 
