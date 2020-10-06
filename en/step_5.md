@@ -1,4 +1,4 @@
-## Make a sprite move
+## Make a sprite bounce
 
 Now it's time to get your first sprite moving. Start with one sprite and then add more. 
 
@@ -21,30 +21,12 @@ Select your first sprite and click on the **Code** tab.
 
 Add code to make your sprite bounce around the Stage in the way you want it to. 
 
-**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move.
-
---- /task ---
-
---- no-print ---
-
-Click on the green flag to **experience** how each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
-
-Click `See  inside`{:class="block3motion"} to explore the code.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
-</div>
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
-</div>
-
---- /no-print ---
+**Tip:** It's easier to identify issues if you make one change at a time and then run your program.
 
 --- collapse ---
 ---
 
-title: How to bounce around the Stage
+title: How to bounce sprites around the Stage
 
 ---
 
@@ -80,13 +62,31 @@ turn right (15) degrees
 if on edge, bounce
 ```
 
+**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move.
+
+--- no-print ---
+
+Click on the green flag to **experience** how each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
+
+Click `See  inside`{:class="block3motion"} to **investigate** the `Motion`{:class="block3motion"} blocks.
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
+</div>
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /no-print ---
+
 --- /collapse --- 
+
+---/task ---
 
 --- task ---
 
 Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. 
-
-**Tip:** It's easier to identify issues if you make one change at a time and then run your program. 
 
 --- /task ---
 
