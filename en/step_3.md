@@ -11,7 +11,8 @@ In this project there are three **How to ...**. Each covers a different aspect o
 + design with the Paint editor
 + share Scratch projects
 
-A **How to ...** looks like the below. Hover over the grey bar and, when it turns yellow, click the down arrow on the right-hand side to access the information in the **How to ...**.
+A **How to ...** looks like the below. Hover over the grey bar and, when it turns yellow, click the down arrow on the right-hand side to access the information in the **How to ...**. 
+
 
 --- collapse ---
 ---
@@ -20,8 +21,6 @@ title: How to ... use a How to ...
 
 ---
 
-Use a **How to ...** only when you need to. Some tasks suggest what topic you should search for in a **How to ...**. 
-
-Search a **How to ...** using '⌘F' (the 'command' and 'F' keys at the same  time). For instance, search now for the word 'command' in this ingredient. You will see it highlights whenever  the word is used in the **How to ...**.
+You only need to use a **How to ...** when you need a reminder or to understand blocks in more detail.
 
 --- /collapse ---
