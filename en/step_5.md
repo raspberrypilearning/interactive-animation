@@ -23,6 +23,8 @@ Add code to make your sprite bounce around the Stage in the way you want it to.
 
 **Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move.
 
+--- /task ---
+
 --- no-print ---
 
 Click on the green flag to **experience** how each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
@@ -87,6 +89,8 @@ if on edge, bounce
 Change the speed and direction of your sprite until you get the motion you want. It might take a few experiments to get it right. 
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program. 
+
+--- /task ---
 
 --- task ---
 
