@@ -4,25 +4,21 @@ You are going to create a Make a difference project to change someone's mood. Th
 
 You can get ideas for your own project by investigating projects created by others.
 
-
-
 --- task ---
-
-Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore the same projects which are given below.
 
 Click the green flag on each project to see the code run.
 
 Give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
 
---- /task ---
+--- print ---
 
---- task ---
+Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore the same projects which are given below.
+
+--- /print ---
 
 --- no-print ---
 
-Investigate the following example Scratch projects.
-
-Click on the green flags below to **experience** the projects and the appearance of each sprite and how they move.
+Click on the green flags below to **experience** the following example Scratch projects. Look at the appearance of each sprite and how they move.
 
 **Popping balloons**:
 <div class="scratch-preview">
