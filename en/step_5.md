@@ -42,7 +42,7 @@ if on edge, bounce
 
 Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`.
 
-Some sprites look better if you `set rotation style`{:class="block3motion"} to `left-right`{:class="block3motion"} or `none`{:class="block3motion"}.
+If you `set rotation style`{:class="block3motion"} to `left-right`{:class="block3motion"} your sprite  will  move to the left and then the right of the stage. `none`{:class="block3motion"}.
 
 Increase the number of steps in `move (5) steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
 
