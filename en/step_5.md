@@ -56,24 +56,11 @@ The `forever`{:class="block3motion"} block makes the sprite move continuously. I
 
 You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
 
-**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move. 
+**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move. **Investigate** how `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks are used differently.
 
-Click `See  inside`{:class="block3motion"} to **investigate** how `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks are used.
-
-**Popping balloons**:
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/425346741/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
-
-**Animal behaviour**:
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
-</div>
-
-**Bouncing balls**:
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
-</div>
+(Popping balloons)[https://scratch.mit.edu/projects/425346741/editor]
+(Animal behaviour)https://scratch.mit.edu/projects/433177517/editor]
+(Bouncing balls)[https://scratch.mit.edu/projects/425675232/editor]
 
 --- /collapse --- 
 
