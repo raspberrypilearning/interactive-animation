@@ -20,9 +20,25 @@ Give some thought to **your** projects theme, how it will look and the way you w
 
 Investigate the **Popping balloons** Scratch project.
 
+Click on the green flag to **experience** how each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
+
+Click `See  inside`{:class="block3motion"} to **investigate** the `Motion`{:class="block3motion"} blocks.
+
+--- no-print ---
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/425346741/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
+</div>
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /no-print ---
 
 --- /task ---
 
@@ -37,7 +53,5 @@ Select the projects where the sprite movement seems relevant to your ideas. Then
 Compare the code used in each sprite in projects as each sprite has a different **algorithm** which makes its movement unique. To do this, click on each sprite's **Code** tab.
 
 --- /task ---
-
-REPEAT POPPING BALLOONS SECTION WHEN WE HAVE MORE EXAMPLES AS EMBEDDED PROJECTS WILLBE EASIER TO LOOK AT.
 
 *[algorithm]: A set of precise instructions for performing a task.
