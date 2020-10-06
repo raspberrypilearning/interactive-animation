@@ -1,8 +1,47 @@
 ## Make a sprite move
 
-Now it's time to get your first sprite moving. Let's start with one sprite and then add more. 
+Now it's time to get your first sprite moving. Start with one sprite and then add more. 
 
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
+
+--- collapse ---
+---
+
+title: Bounce around the Stage
+
+---
+
+This code will make a sprite start moving when the green flag is clicked. The sprite will bounce and change direction when it hits the edge of the Stage. 
+
+```blocks3
+when flag clicked
+point in direction (45)
+set rotation-style [left-right v]
+forever
+move (5) steps
+if on edge, bounce
+```
+
+Change the number of degrees in `point in direction`{:class="block3motion"} to start off at a different angle. To make a sprite move up and down choose `0`. To make a sprite move left and right, choose `90`.
+
+Some sprites look better if you `set rotation-style`{:class="block3motion"} to `left-right`{:class="block3motion"} or `none`{:class="block3motion"}.
+
+Increase the number of steps in `move (5) steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
+
+```blocks3
+when flag clicked
+point in direction (45)
+set rotation-style [all around v]
+forever
+move (5) steps
++turn right (15) degrees
+if on edge, bounce
+```
+
+The `all around`{:class="block3motion"} rotation style works best to create a spinning effect.
+
+--- /collapse --- 
+
 
 --- task ---
 In Popping balloons, the **Yellow Balloon** sprite `point in direction 45`{:class="block3motion"}. Because it starts off att his angle it carries on  moving at 45 degrees whilst flipping direction when it touches the top, sides or bottom of the stage and so on. Below is the initial code **Yellow Balloon** sprite uses. Look at the bottom part of the **Yellow Balloon** sprite's script to understand how it makes the sprite move. You will look at the top part of the program soon!:
