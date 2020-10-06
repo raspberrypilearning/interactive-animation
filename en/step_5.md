@@ -21,20 +21,18 @@ Select your first sprite and click on the **Code** tab.
 
 Add code to make your sprite bounce around the Stage in the way you want it to. 
 
-**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes the sprite move.
+**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move.
 
 --- no-print ---
 
-Click on the green flag to experience varying ball sprite movement in **Bouncing balls**. Each sprite uses different `point in direction`{:class="block3motion"} blocks. 
+Click on the green flag to **experience** how each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
 
-Click `See  inside`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how a particular ball sprite movement can be achieved:
+Click `See  inside`{:class="block3motion"} to explore the code.
+
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on the green flag to experience varying ball sprite movement in **Animal behaviour**. Each sprite uses different `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} blocks. 
-
-Click `See  inside`{:class="block3motion"} the project and then click the **Code** tab for each sprite to see how the behaviour of each animal is affected by `set rotation style`{:class="block3motion"}:
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
 </div>
