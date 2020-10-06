@@ -1,6 +1,6 @@
 title: Make a difference
 hero_image: images/banner.png
-description: make-a-difference description
+description: Create a project -  relaxing, energising, funny, inspiring - to try and change someone’s mood using sprites that move over a backdrop
 version: 4
 listed: false
 copyedit: false
@@ -10,7 +10,7 @@ steps:
   - title: Get inspiration
   - title: How to  ...
   - title: Choose your theme
-  - title: Make a sprite move
+  - title: Make a sprite bounce
   - title: Adapting a sprite's appearence
   - title: User interaction
   - title: Adding more sprites
