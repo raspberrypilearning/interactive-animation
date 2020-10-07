@@ -12,6 +12,62 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 --- /task ---
 
 --- task ---
+If you know which block to use then you can get coding. 
+
+If you need a bit of help then choose one of these movement patterns as a starting point and then change it until you are happy. 
+
+--- collapse ---
+---
+
+title: Bounce across the Stage
+
+---
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Bounce up and down the Stage
+
+---
+
+--- /collapse ---
+
+
+--- collapse ---
+---
+
+title: Bounce at an angle
+
+---
+
+--- /collapse ---
+
+
+--- collapse ---
+---
+
+title: Spin around
+
+---
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Fly in a circle
+
+---
+
+--- /collapse ---
+
+
+
+--- /task ---
+
+--- task ---
 
 Select your first sprite and click on the **Code** tab. 
 
