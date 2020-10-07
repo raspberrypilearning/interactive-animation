@@ -47,11 +47,5 @@ If you share your project then others will see this name so make sure it makes s
 
 --- /task ---
 
---- task ---
-
-Save your project.
-
---- /task ---
-
 --- save ---
 
