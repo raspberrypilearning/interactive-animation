@@ -64,6 +64,8 @@ You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class=
 
 Remember to keep running your project to test it. Is the program working as you had planned?
 
+**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move.
+
 --- /task ---
 
 --- save ---
