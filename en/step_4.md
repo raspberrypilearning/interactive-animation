@@ -119,7 +119,7 @@ Before you select the drop-down from `set rotation style`{:class="block3motion"}
 + `don't rotate`{:class="block3motion"} - your sprite won't rotate at all
 [Ouch!](https://scratch.mit.edu/projects/433595822/editor)
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/433535867/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/433595822/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
