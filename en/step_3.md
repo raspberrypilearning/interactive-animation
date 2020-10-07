@@ -11,7 +11,7 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 + Which sprites will you choose? 
 + Maybe you will just start with one sprite and add more if you have time.
 
-![Image with sprites and backdrops](images/sprite-backdrop.png){:width="400px"}
+![Image with sprites and backdrops](images/sprite-backdrop.png)
 
 --- /task ---
 
