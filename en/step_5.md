@@ -29,6 +29,31 @@ You can set the size of a sprite under `when green flag clicked`{:class="block3c
 
 --- /collapse ---
 
+
+--- collapse ---
+---
+
+title: Beating heart effect
+
+---
+
+Try making a sprite grow and then shrink within a forever loop to creating a beating heart or pulsing effect:
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="243" height="201" src="https://scratch.mit.edu/projects/embed/433576259/?autostart=true" frameborder="0"></iframe>
+</div>
+
+```blocks3
+when flag clicked
+set size to 100 %
+forever
+set size to 110 %
+wait 0.5
+set set to 100 %
+```
+
+--- /collapse ---
+
 --- /task ---
 
 
@@ -50,6 +75,9 @@ title: Using graphics effects
 ```
 
 --- /collapse ---
+
+
+
 
 --- /task ---
 
