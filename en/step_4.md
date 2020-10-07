@@ -14,7 +14,7 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 --- /task ---
 
 --- task ---
-Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. 
+Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. Below is a **How to â€¦**  if you need a reminder or to understand blocks in more detail.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
