@@ -117,7 +117,7 @@ Before you select the drop-down from `set rotation style`{:class="block3motion"}
 </div>
 
 + `don't rotate`{:class="block3motion"} - your sprite won't rotate at all
-[Bird behaviour](https://scratch.mit.edu/projects/433535867/editor)
+[Ouch!](https://scratch.mit.edu/projects/433595822/editor)
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433535867/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
