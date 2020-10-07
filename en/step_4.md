@@ -50,7 +50,7 @@ Before you select the drop-down from `set rotation style`{:class="block3motion"}
 
 If you don't use the `set rotation style`{:class="block3motion"} block, you may find your sprite goes upside down when it bounces off the edge of the Stage.
 
-The `forever`{:class="block3motion"} block makes the sprite move continuously. Increase the number of steps in `move`{:class="block3motion"} `5` `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
+The `forever`{:class="block3control"} block makes the sprite move continuously. Increase the number of steps in `move`{:class="block3motion"} `5` `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
 
 You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
 
