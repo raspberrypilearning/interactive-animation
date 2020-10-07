@@ -27,6 +27,8 @@ If you set the size of a sprite to 50% it will be half as tall and half as wide.
 
 You can set the size of a sprite under `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
 
+--- /collapse ---
+
 --- /task ---
 
 
@@ -49,6 +51,9 @@ title: Using graphics effects
 
 --- /collapse ---
 
+--- /task ---
+
+--- task ---
 
 --- collapse ---
 ---
