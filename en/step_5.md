@@ -1,9 +1,53 @@
 ## Change your sprite's looks
 
-You can change the way your sprite looks by changing its costume and using graphic effects and changing its size. 
+--- task ---
+
+Change the size of your sprite to suit your project. 
+
+--- collapse ---
+---
+
+title: Setting the size of a sprite
+
+---
+
+When you add a sprite to your project its size is set to 100%. This might be too big or too small for your project. 
+
+You can set the size of a sprite by changing its Size under the Stage:
+
+![Sprite Size setting highlighted](images/sprite-size.png)
+
+You can also use code to set the size of a sprite. 
+
+```blocks3
+set size to (50) %
+```
+
+If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
+
+You can set the size of a sprite under `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
+
+--- /task ---
+
 
 --- task ---
 
+
+--- collapse ---
+---
+
+title: Using graphics effects
+
+---
+
+
+
+```blocks3
+
+
+```
+
+--- /collapse ---
 
 
 --- collapse ---
@@ -37,21 +81,6 @@ move (5) steps
 next costume
 if on edge, bounce
 wait (0.2) seconds
-```
-
---- /collapse ---
-
-
---- collapse ---
----
-
-title: How to use graphic effects
-
----
-
-```blocks3
-
-
 ```
 
 --- /collapse ---
