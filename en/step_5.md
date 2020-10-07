@@ -49,7 +49,7 @@ set size to (100) %
 forever
 set size to (110) %
 wait (0.5) seconds
-set set to (100) %
+set size to (100) %
 wait (0.5) seconds
 ```
 
