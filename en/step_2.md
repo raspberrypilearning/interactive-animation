@@ -49,7 +49,12 @@ Now **Investigate** the projects where the sprite movement seems relevant to you
 Animal behaviour  - click
 [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/433177517/editor/){:target="_blank"}
 
-**[Bouncing balls](https://scratch.mit.edu/projects/425675232/editor)**
+**Bouncing balls** - click [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425675232/editor/){:target="_blank"}
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/425675232/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
