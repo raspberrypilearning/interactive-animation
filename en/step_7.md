@@ -25,12 +25,12 @@ Rename your sprite:
 Your sprite's name will change in the Sprite list:
 ![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code atyour first sprite. 
+Your second sprite has exactly the same code as your first sprite. 
 --- /collapse ---
 
 --- /task ---
 
-You will not see the second sprite because it is sitting underneath the first sprite. Do not run the program until you have altered the second sprite's size, colour or position. 
+You will not see the second sprite because it is sitting underneath the first sprite. Do not run the program until you have altered the second sprite's position, colour, size or layers.
 
 --- task ---
 
