@@ -59,7 +59,7 @@ title: Position
 
 Drag your second sprite to the position you want it to start in.  The second sprite will go to this position when the `when the green flag clicked`{:class="block3events"}.
 
-Alternatively, use the `motion`{:class="block3motion"} block `go to x: () y: ()` as part of your set-up code so that the sprite will always start from the x and y position that you set.
+Alternatively, use the `motion`{:class="block3motion"} block `go to x: () y: ()`{:class="block3motion"} as part of your set-up code so that the sprite will always start from the x and y position that you set.
 
 **Tip**: in programming, there is often more than one way to do something.
 
@@ -92,20 +92,17 @@ Repeat the steps above with any part of the costume you have missed or for any o
 
 --- /collapse ---
 
---- collapse ---
----
+--- /task ---
 
-title: Facing and direction
+--- task ---
 
----
-
---- /collapse ---
+Do you need to alter the `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} to achieve the effect you  want? For a reminder on **How to...** do this explore the earlier step 'Make a sprite bounce'.
 
 --- /task ---
 
 --- task ---
 
-Now you can alter the size or where the sprite is layered to improve how it works 3-dimensionally with the other sprites as well as within the scene.
+Change the size or layering of the second sprite to improve how it looks in relation to the other sprites and also within the backdrop.
 
 --- collapse ---
 ---
