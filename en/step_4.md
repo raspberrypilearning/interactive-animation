@@ -129,9 +129,23 @@ title: Fly in a circle
  
 --- task ---
 
-Select your first sprite and click on the **Code** tab. Add code to make your sprite bounce around the Stage in the way you want it to. It might take a few experiments with direction and speed to get suitable behaviour for your sprite.
+Select your first sprite. If you want to use a pre-made animated sprite then explore sprites which already have a number of costumes. Otherwise you can make them yourself in the next step. 
+
+--- /task ---
+
+--- task ---
+
+Click on the **Code** tab. Add code to make your sprite bounce around the Stage in the way you want it to. It might take a few experiments with direction and speed to get suitable behaviour for your sprite.
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program.
+
+--- /task ---
+
+--- task ---
+
+Remember to keep running your project to test it. Is the program working as you had planned?
+
+**Tip**: look at the **Code** tab in the **How to ...** to understand how to make your sprite move.
 
 --- /task ---
 
@@ -152,14 +166,6 @@ turn right () degrees :: motion
 turn left () degrees :: motion
 
 ```
-
---- /task ---
-
---- task ---
-
-Remember to keep running your project to test it. Is the program working as you had planned?
-
-**Top tip**: look at the **Code** tab in the example projects to understand how their programs makes each sprite move.
 
 --- /task ---
 
