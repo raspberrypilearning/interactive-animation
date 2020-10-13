@@ -44,7 +44,8 @@ Click on the green flags below to **experience** the following example Scratch p
 
 Now **Investigate** the projects where the sprite movement seems relevant to your ideas:
 
-[Popping balloons](https://scratch.mit.edu/projects/425346741/editor)
+[Popping balloons]
+[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425346741/editor/){:target="_blank"}
 
 [Animal behaviour](https://scratch.mit.edu/projects/433177517/editor)
 
