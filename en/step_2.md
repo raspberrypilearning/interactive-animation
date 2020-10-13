@@ -54,7 +54,7 @@ Now **Investigate** the projects where the sprite movement seems relevant to you
 
 Investigate the **Code** tab  of each sprite. Each sprite has a different **algorithm** which makes its behaviour unique:
 
-+ `events`{:class="block3events"} blocks - some sprites use more than method of **user interaction**.
++ `events`{:class="block3events"} blocks - two of the projects use more than one way to create **user interaction**.
 
 + `motion`{:class="block3motion"} blocks - **compare** the code used to create the movement for each sprite.
 
