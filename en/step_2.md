@@ -42,13 +42,14 @@ Click on the green flags below to **experience** the following example Scratch p
 
 --- task ---
 
-**Investigate** the projects where the sprite movement seems relevant to your ideas. Then click on the `See inside`{:class="block3motion"} button to see the code.
-
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425346741/editor/){:target="_blank"}
+**Investigate** the projects where the sprite movement seems relevant to your ideas. Click on the `See inside`{:class="block3motion"} button to see the code.
+[Popping balloons](https://scratch.mit.edu/projects/425346741/editor)
+[Animal behaviour](https://scratch.mit.edu/projects/433177517/editor)
+[Bouncing balls](https://scratch.mit.edu/projects/425675232/editor)
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
-Compare the code used in each sprite in projects as each sprite has a different **algorithm** which makes its movement unique. To do this, click on each sprite's **Code** tab.
+Compare the code used in each sprite in projects. Each sprite has a different **algorithm** which makes its movement unique. To do this, click on each sprite's **Code** tab.
 
 --- /task ---
 
