@@ -32,7 +32,7 @@ title: Click on a chick to make it chirp and move back
 </div>
 
 
---- /collapse
+--- /collapse ---
 
 You could add an action that makes a change to a sprite and then reverses it such as growing, waiting and then shrinking. 
 
@@ -75,7 +75,8 @@ title: Click on a balloon to burst it
   <iframe src="https://scratch.mit.edu/projects/435725465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-This code makes a balloon 'pop' and uses the g
+This code makes a balloon 'pop' using sound and looks blocks. 
+
 ```blocks3
 when this sprite clicked
 change size by (10)
@@ -94,6 +95,7 @@ clear graphic effects
 ```
 
 --- /collapse ---
+
 --- /task ---
 
 --- save ---
