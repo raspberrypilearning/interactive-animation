@@ -17,9 +17,11 @@ This chick chirps and jumps backwards when you click on it:
 
 --- task ---
 
---- collapse ---
+Add code to make your sprite do something when it is clicked. You can pick on of these examples as a starting point.
 
 You can make your sprite perform an action such as playing a sound or moving when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
+
+--- collapse ---
 
 --- 
 
