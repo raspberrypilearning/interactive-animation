@@ -1,5 +1,17 @@
 ## Change your sprite's looks
 
+Now let's look at different ways to change the appearance of your sprite, such as its size, colour or graphic effects like the ghost effect.
+
+--- task ---
+
+Think about how you want your sprite to look on the screen. What size will look and work best? Do you want to use graphic effects such a the ghost effect? Does your sprite need to change costumes?
+
+[Sun size](https://scratch.mit.edu/projects/425346741/editor)
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
+</div>
+
 You will usually want to change how your sprites appear in one or more ways, such as their size, colour or graphic effects like the ghost effect.
 
 ### Setting the size
