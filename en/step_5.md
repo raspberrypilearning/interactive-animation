@@ -89,6 +89,37 @@ title: Graphic effects
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
 </div>
 
+The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects that can be used to change how your sprite appears.
+
++ colour
++ fisheye
++ whirl
++ pixelate
++ mosaic
++ brightness
++ ghost
+
+Try `setting`{:class="block3looks"} or `changing`{:class="block3looks"} the different effect values to see what each one does. Explore how different value changes make your sprite look.
+
+```blocks3
+set [whirl v] effect to (300)
+
+change [pixelate v] effect by (50)
+
+change [ghost v] effect by (75)
+wait (1) seconds
+change [ghost v] effect by (-75)
+```
+
+**Note:** If you use code that changes a graphic effect and then changes it back again, don't forget to use a `wait`{:class="block3control"} block in between.
+
+You can use a `clear graphic effects`{:class="block3looks"} block at any time to reset the effects.
+
+```blocks3
+clear graphic effects
+```
+
+
 You can use the `set size`{:class="block3looks"} or `change size`{:class="block3looks"} to create a pulsing effect, such as a beating heart.
 
 **Note:** The `set size`{:class="block3looks"} block sets size to a specific value while the `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"}, adds `10` to the value of size.
@@ -123,11 +154,6 @@ This code uses a series of `change sizes`{:class="block3looks"} and `waits`{:cla
 
 ### Special graphics effects
 
-The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects such as whirl, brightness and a ghost effect, that can be used to change how your sprites appear.
-
---- no-print ---
-![Graphic effects animation](images/graphicEffects.gif)
---- /no-print ---
 
 
 
