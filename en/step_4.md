@@ -36,14 +36,14 @@ This code makes a sprite bounce on the left-hand and right-hand edges of the Sta
 
 ```blocks3
 when flag clicked
-point in direction (180)
+point in direction (90)
 set rotation style [left-right v]
 forever
 move (5) steps
 if on edge, bounce
 ```
 
-When you add a sprite to your project it will be pointing right (`90` degrees). Change the number of degrees in `point in direction`{:class="block3motion"} block to `-90` to make a sprite point left or `90` to make a sprite point right when the green flag is clicked.
+When you add a sprite to your project it will automatically point to the right (`90` degrees) when the green flag is clicked. If you change the number of degrees in `point in direction`{:class="block3motion"} block to `-90` your sprite will point left when the green flag is clicked.
 
 Add a `set rotation  style`{:class="block3motion"} block and select the drop-down `left-right`{:class="block3motion"} so your sprite won't flip upside down when it bounces off the edge of the Stage.  
 
