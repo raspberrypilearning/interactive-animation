@@ -1,18 +1,21 @@
 ## Introduction
-You're going to create a project to try and change someone's mood using sprites that move over a backdrop. You will choose a theme for your project such as relaxing, energising, funny, inspiring or something else - it's your choice.
+You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. You might have balls bouncing around, birds that flap their wings, cars that drive across the Stage or hearts that float around. Your sprites will do something when you click on them. You might have a bird that squawks, a heart that glows or a balloon that pops. 
 
-## Skills you should have
-To complete the Make a difference project you need to have the following skills which you will have learnt when completing the first two projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) pathway: [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"} and [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}:
+Before starting this project we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) pathway: [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}, [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"} and [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}.
 
-+ Use the tools in the Paint editor to create your own stress ball sprite
-+ Add a `sound`{:class="block3sound"} to your stress ball that is played when clicked
-+ Add `graphic effects`{:class="block3looks"} to your stress ball to squash it
-+ Use `Motion`{:class="block3motion"} blocks to create animated butterfly sprites
-+ Use a `forever`{:class="block3control"} loop to make the butterflies fly repeatedly in the same pattern
-+ Use the Paint editor to create your own unique butterfly sprites
-+ How to create costumes in the Paint editor
+--- collapse ---
+---
+title: Skills you should have
+---
++ How to add code to sprites and a backdrop
++ How to use the tools in the Paint editor to add details to a sprite
++ How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
++ How to use `motion`{:class="block3motion"} blocks to create animation
++ How to use costumes to customise sprites
++ How to use the `forever`{:class="block3control"} block
++ How use use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
 
-You will now apply the above skills to create your own project where you will choose your own sprites and backdrop to create a unique interactive animation.
+--- /collapse ---
 
 ## What you will make
 In this example project below, Popping balloons, the balloons move around the stage in different ways using loops. 
@@ -23,6 +26,7 @@ In this example project below, Popping balloons, the balloons move around the st
 --- no-print ---
 Click on the green flag to see one of the example projects run. When you click on a balloon, it will burst, 'pop' and dissappear.
 
+**Balloon pop** <a href="https://scratch.mit.edu/projects/425346741/"><span style="background-color: #4d97ff; color: white; font-weight: bold; padding: .7rem; border-radius:.25rem">See Inside</span></a>
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
 </div>

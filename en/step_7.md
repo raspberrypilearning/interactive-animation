@@ -12,40 +12,25 @@ title: Copy a sprite
 
 ---
 
-Right click on your first sprite and a pop up will appear.
+Right click on your first sprite in the Sprite list below the Stage (or if you are using a tablet, tap and hold):
 ![Image right click first sprite](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select 'duplicate'
+Select 'duplicate'. This will create a copy of your first 1 sprite with the suffix '2'.
+:
 ![Image duplicate sprite](images/challenge1-duplicate-sprite.png){:width="300px"}
 
-Rename your sprite.
+Rename your sprite:
 ![Image rename sprite](images/challenge1-rename-sprite.png){:width="300px"}
 
-Your sprite's name will change in the Sprite list
+Your sprite's name will change in the Sprite list:
 ![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
 
+Your second sprite has exactly the same code atyour first sprite. 
 --- /collapse ---
-
 
 --- /task ---
 
---- task ---
-
-Think about how this sprite will look different to the first sprite. 
-
-Change the new sprite's costume, or edit the costume with the paint editor so that it looks different from your first sprite. 
-
---- collapse ---
----
-
-title: How to ... design with the Paint editor
-
----
---- /collapse ---
-
-
---- /task ---
-
+You will not see the second sprite because it is sitting underneath the first sprite. Do not run the program until you have altered the second sprite's size, colour or position. 
 
 --- task ---
 
@@ -53,49 +38,71 @@ How big should the sprite be?
 Which direction will it point in?
 Will the sprite appear behind or in front or other sprites?
 
-For more infortmation, search **layers** in the **How to ... create graphic effects**
-
---- collapse ---
----
-
-title: How to ... create graphic effects
-
----
---- /collapse ---
-
---- /task ---
-
---- task ---
-
 Consider how this sprite might move differently to the first sprite. 
 
-Explore different movement patterns.
-
-For more infortmation, search **spin** and **circle** in the **How to ... create graphic effects**
-
---- collapse ---
----
-
-title: How to ... create graphic effects
-
----
---- /collapse ---
+Explore different movement patterns. See step 4
 
 --- /task ---
 
 --- task ---
 
-Make sure you have selected the sprite that you want to change and click on the **Code** tab.
+Selected the second sprite in the Sprite list and click on the **Code** tab.
 
 Edit the code so that the new sprite does what you want it to do.
 
+--- collapse ---
+---
+
+title: Position
+
+---
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Size
+
+---
+Do you need to change the size of the sprites in relation to each other?
+
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Colour
+
+---
+--- /collapse ---
+
+--- collapse ---
+---
+
+title: Facing and direction
+
+---
+
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
 
-Do you need to change the size of the sprites in relation to each other?
+Now you can alter where the sprite comes in layers to improve how it sits 3-dimensionally within the scene.
+
+--- collapse ---
+---
+
+title: Layers
+
+---
+
+--- /collapse ---
 
 --- /task ---
+
+You may want to tweak the size. It sometimes takes...
 
 --- task ---
 
