@@ -31,6 +31,27 @@ title: Bounce across the Stage
 title: Bounce up and down the Stage
 
 ---
+[Ouch!](https://scratch.mit.edu/projects/433595822/editor)
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/433595822/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+This code makes a sprite bounce up and down the Stage when the green flag is clicked:
+
+```blocks3
+when flag clicked
+point in direction (0)
+set rotation style [don't rotate v]
+forever
+move (5) steps
+if on edge, bounce
+```
+
+Change the number of degrees in `point in direction`{:class="block3motion"} block to `0` to make a sprite point upwards when the green flag is clicked.
+
+Adding `don't rotate`{:class="block3motion"} will mean yout sprite won't rotate at all, even when it bounces.
+
+Find out how to make your sprite change costume in the next step **Change your sprite's looks**.
 
 --- /collapse ---
 
