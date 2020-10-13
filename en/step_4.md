@@ -115,13 +115,27 @@ Add a `set rotation  style`{:class="block3motion"} block and select the drop-dow
 title: Spin around
 
 ---
+[Batty](https://scratch.mit.edu/projects/435704980/editor)
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/435704980/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+This code makes a sprite spin when it is clicked:
+
+```blocks3
+when flag clicked
+forever
+turn right () degrees :: motion
+```
+
+Change the degrees by which your sprite turns to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to spin.
 
 --- /collapse ---
 
 --- collapse ---
 ---
 
-title: Fly in a circle
+title: Move in a circle
 
 ---
 [Moon](https://scratch.mit.edu/projects/435701055/editor)
@@ -137,6 +151,8 @@ forever
 move (1) steps
 turn right () degrees :: motion
 ```
+
+Change the degrees by which your sprite `moves`{:class="block3control"} to `1` and `turns`{:class="block3control"} to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to move in a big cirle.
 
 --- /collapse ---
 
