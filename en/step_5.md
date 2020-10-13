@@ -1,8 +1,12 @@
 ## Change your sprite's looks
 
+You will usually want to change how your sprites appear in one or more ways, such as their size, colour or graphic effects like the ghost effect.
+
+Let's start by changing the size of your sprite to suit your project.
+
 --- task ---
 
-Change the size of your sprite to suit your project. 
+Go to the `Looks`{:class="block3looks"} block menu and grab a `set size to 100%`{:class="block3looks"} block.
 
 --- collapse ---
 ---
