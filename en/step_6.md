@@ -33,6 +33,10 @@ title: Click on a chick to make it chirp and move back
   <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
+```blocks3
+play sound [chrip v] until done
+move (-50)
+```
 
 --- /collapse ---
 
@@ -82,7 +86,7 @@ This code makes a balloon 'pop' using sound and looks blocks.
 ```blocks3
 when this sprite clicked
 change size by (10)
-change brightness effect by (25)
+change [brightness v] effect by (25)
 wait (0.1) seconds
 play sound [pop v] until done
 set [ghost v] effect to (100)
