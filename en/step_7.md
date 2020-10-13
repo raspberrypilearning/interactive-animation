@@ -46,9 +46,14 @@ Explore different movement patterns. See step 4
 
 --- task ---
 
-Selected the second sprite in the Sprite list and click on the **Code** tab.
+Selected the second sprite in the Sprite list and click on its **Code** tab.
 
-Edit the code so that the new sprite does what you want it to do.
+Now edit the code so that the new sprite does what you want it to do. 
++ You may want to delete blocks of code that you do not need. To do this drag individual blocks away from the main script, leaving them with in the Code window. 
++ Or delete the blocks of code for good by dragging them towards the Blocks menu.
++ Select the block you want to delete and right-click. Choose the 'delete block' option.
+![Image showing delete block option(images/challenge1-delete-block-option.png){:width="300px"}
+
 
 --- collapse ---
 ---
