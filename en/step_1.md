@@ -29,7 +29,7 @@ Click on the green flag to see one of the example projects run. When you click o
 **Balloon pop** - <a href="https://scratch.mit.edu/projects/425346741/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435808726/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
