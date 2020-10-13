@@ -4,7 +4,6 @@ Now it's time to get your first sprite moving. Start with one sprite and then ad
 
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
 
-
 --- task ---
 
 Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line."
@@ -12,9 +11,10 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 --- /task ---
 
 --- task ---
-If you know which block to use then you can get coding. 
 
-If you need a bit of help then choose one of these movement patterns as a starting point and then change it until you are happy. 
+**How to ...**: if you need a bit of help on create your sprite's movement and to make your sprite to bounce when it touches the edge of the Stage, choose one of the patterns below as a starting point.
+
+If you know which block to use then you can get coding.
 
 --- collapse ---
 ---
@@ -125,18 +125,11 @@ title: Fly in a circle
 --- /collapse ---
 
 
-
 --- /task ---
-
+ 
 --- task ---
 
-Select your first sprite and click on the **Code** tab. 
-
---- /task ---
-
---- task ---
-
-Add code to make your sprite bounce around the Stage in the way you want it to. It might take a few experiments with direction and speed to get suitable behaviour for your sprite.
+Select your first sprite and click on the **Code** tab. Add code to make your sprite bounce around the Stage in the way you want it to. It might take a few experiments with direction and speed to get suitable behaviour for your sprite.
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program.
 
@@ -144,13 +137,17 @@ Add code to make your sprite bounce around the Stage in the way you want it to. 
 
 --- task ---
 
-The `forever`{:class="block3control"} block makes the sprite keep moving. Increase the number of steps in `move`{:class="block3motion"} `5` `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower. 
+Increase the number of steps in `move`{:class="block3motion"} `5` `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower.
 
 --- /task ---
 
 --- task ---
 
 You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
+
+turn right () degrees :: motion
+
+turn left () degrees :: motion
 
 --- /task ---
 
