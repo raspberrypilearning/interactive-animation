@@ -6,17 +6,32 @@ Now let's look at different ways to change the appearance of your sprite, such a
 
 Think about how you want your sprite to look on the screen. What size will look and work best? Do you want to use graphic effects such a the ghost effect? Does your sprite need to change costumes?
 
-[Sun size](https://scratch.mit.edu/projects/425346741/editor)
+[**Sun size:**](https://scratch.mit.edu/projects/425346741/editor)
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
 </div>
 
-### Setting the size
-
-Let's start by changing the size of your sprite to suit your project. 
 --- /task ---
+
 --- task ---
+
+**How to ...:** have a quick look at the reminders below for any `looks`{:class="block3looks"} effects you want to try out. Have a play around and investigate any effects that are new to you. 
+
+**Hint:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you are not keen on, or make little tweeks as you go along.
+
+--- collapse ---
+---
+
+title: Set size
+
+---
+
+
+
+
+
+**Old Markdown below**
 
 Go to the `Looks`{:class="block3looks"} block menu and grab a `set size`{:class="block3looks"} block.
 
