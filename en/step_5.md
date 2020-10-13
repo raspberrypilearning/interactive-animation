@@ -61,6 +61,11 @@ end
 
 --- /task ---
 
+### Special graphics effects
+
+The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects such as whirl, brightness and a ghost effect, that can be used to change how your sprites appear.
+
+
 
 --- task ---
 
