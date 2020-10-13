@@ -12,8 +12,6 @@ Think about how you want your sprite to look on the screen. What size will look 
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You will usually want to change how your sprites appear in one or more ways, such as their size, colour or graphic effects like the ghost effect.
-
 ### Setting the size
 
 Let's start by changing the size of your sprite to suit your project. 
