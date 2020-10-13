@@ -8,6 +8,20 @@ Let's start by changing the size of your sprite to suit your project.
 
 Go to the `Looks`{:class="block3looks"} block menu and grab a `set size to 100%`{:class="block3looks"} block.
 
+```blocks3
+set size to (65) %
+```
+
+Raise or lower the value to make your sprite larger or smaller than it's default size. Play around with the value until the size looks right for your project.
+
+--- no-print ---
+![Set your sprite's size](images/setSize.gif){:width="600px"}
+--- /no-print ---
+
+--- print-only ---
+![Set your sprite's size](images/setSize.png){:width="600px"}
+--- /print-only ---
+
 --- collapse ---
 ---
 
