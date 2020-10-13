@@ -12,7 +12,7 @@ Give some thought to **your** projects theme, how it will look and the way you w
 
 --- print-only ---
 
-Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore the same projects which are given below.
+Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore some projects which are given below.
 
 --- /print-only ---
 
@@ -44,12 +44,12 @@ Click on the green flags below to **experience** the following example Scratch p
 
 Now **Investigate** the projects where the sprite movement seems relevant to your ideas:
 
-**Popping balloons** - click [here](https://scratch.mit.edu/projects/425346741/editor) to `see inside`{:class="block3motion"}
+**Popping balloons** - click [here](https://scratch.mit.edu/projects/425346741/editor){:target="_blank"} to `see inside`{:class="block3motion"}
 
 Animal behaviour  - click
 [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/433177517/editor/){:target="_blank"}
 
-`see inside`{:class="block3motion"} **[Bouncing balls]**(https://scratch.mit.edu/projects/425675232/editor/){:target="_blank"}
+**Bouncing balls** - click [here](https://scratch.mit.edu/projects/425675232/editor){:target="_blank"}
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
