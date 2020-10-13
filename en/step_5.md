@@ -39,7 +39,7 @@ You can use the `change size`{:class="block3looks"} block to create pulsing effe
 --- collapse ---
 ---
 
-title: Beating heart effect
+title: How to make a beating heart effect
 
 ---
 
@@ -64,6 +64,10 @@ end
 ### Special graphics effects
 
 The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects such as whirl, brightness and a ghost effect, that can be used to change how your sprites appear.
+
+--- no-print ---
+![Graphic effects animation](images/graphicEffects.gif)
+--- /no-print ---
 
 
 
