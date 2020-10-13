@@ -51,7 +51,7 @@ title: Click to change and then change back
 
 ---
 
-You could add an action that makes a change to a sprite and then reverses it such as growing, waiting and then shrinking. 
+You can add actions that make a change to a sprite and then reverse them such as growing, waiting and then shrinking. 
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435723273/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
