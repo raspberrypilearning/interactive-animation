@@ -42,7 +42,7 @@ Click on the green flags below to **experience** the following example Scratch p
 
 --- task ---
 
-Now **Investigate** the projects where the sprite movement seems relevant to your ideas:
+Now **Investigate** the projects where the sprite movement seems relevant to your ideas. Click `See inside`{:class="block3motion"} once inside the project:
 
 **Popping balloons** - <a href="https://scratch.mit.edu/projects/435808726/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 
