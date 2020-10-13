@@ -122,7 +122,7 @@ This code makes a sprite spin when it is clicked:
 ```blocks3
 when flag clicked
 forever
-turn right () degrees :: motion
+turn right (1) degrees :: motion
 ```
 
 Change the degrees by which your sprite turns to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to spin.
@@ -146,7 +146,7 @@ This code makes a sprite fly in a circle when it is clicked:
 when flag clicked
 forever
 move (1) steps
-turn right () degrees :: motion
+turn right (1) degrees :: motion
 ```
 
 Change the degrees by which your sprite `moves`{:class="block3control"} to `1` and `turns`{:class="block3control"} to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to move in a big cirle.
