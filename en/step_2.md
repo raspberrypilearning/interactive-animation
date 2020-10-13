@@ -19,7 +19,7 @@ Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550)
 
 --- no-print ---
 
-Click on the green flags below to **experience** the following example Scratch projects. Look at the appearance of each sprite and how they move.
+Click on the green flags below to **experience** the following example Scratch projects. Look at the appearance of each sprite and how they move:
 
 **Popping balloons**:
 <div class="scratch-preview">
@@ -42,14 +42,20 @@ Click on the green flags below to **experience** the following example Scratch p
 
 --- task ---
 
-**Investigate** the projects where the sprite movement seems relevant to your ideas. Click on the `See inside`{:class="block3motion"} button to see the code.
+Now **Investigate** the projects where the sprite movement seems relevant to your ideas:
+
 [Popping balloons](https://scratch.mit.edu/projects/425346741/editor)
+
 [Animal behaviour](https://scratch.mit.edu/projects/433177517/editor)
+
 [Bouncing balls](https://scratch.mit.edu/projects/425675232/editor)
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
-Compare the code used in each sprite in projects. Each sprite has a different **algorithm** which makes its movement unique. To do this, click on each sprite's **Code** tab.
+Investigate their **Code** tab to compare the code used in each sprite. Each sprite has a different **algorithm** which makes its movement unique. 
+
+Investigate their **Costumes** tab. Some sprites have more than one **costume** which helps to make the animation or interaction more realistic. 
+
 
 --- /task ---
 
