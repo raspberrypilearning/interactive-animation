@@ -34,19 +34,29 @@ You will not see the second sprite because it is sitting underneath the first sp
 
 --- task ---
 
-Make sure you have selected the sprite that you want to change and click on the **Code** tab.
-
-Edit the code so that the new sprite does what you want it to do.
-
 How big should the sprite be? 
 Which direction will it point in?
 Will the sprite appear behind or in front or other sprites?
 
 Consider how this sprite might move differently to the first sprite. 
 
-Explore different movement patterns including.... direction.
+Explore different movement patterns. See step 4
 
 --- /task ---
+
+--- task ---
+
+Selected the second sprite in the Sprite list and click on the **Code** tab.
+
+Edit the code so that the new sprite does what you want it to do.
+
+--- collapse ---
+---
+
+title: Position
+
+---
+--- /collapse ---
 
 --- collapse ---
 ---
@@ -62,14 +72,6 @@ Do you need to change the size of the sprites in relation to each other?
 ---
 
 title: Colour
-
----
---- /collapse ---
-
---- collapse ---
----
-
-title: Position
 
 ---
 --- /collapse ---
@@ -97,6 +99,8 @@ title: Layers
 ---
 
 --- /collapse ---
+
+--- /task ---
 
 You may want to tweak the size. It sometimes takes...
 
