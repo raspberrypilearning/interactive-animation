@@ -76,7 +76,6 @@ Find out how to make your sprite change costume when it bounces off the edge in 
 
 --- /collapse ---
 
-
 --- collapse ---
 ---
 
@@ -140,6 +139,8 @@ Select your first sprite and click on the **Code** tab.
 Add code to make your sprite bounce around the Stage in the way you want it to. It might take a few experiments with direction and speed to get suitable behaviour for your sprite.
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program.
+
+--- /task ---
 
 --- task ---
 
