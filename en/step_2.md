@@ -52,13 +52,13 @@ Now **Investigate** the projects where the sprite movement seems relevant to you
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
-Investigate the **Code** tab  of each sprites. They all have a different **algorithm** which makes their behaviour unique:
+Investigate the **Code** tab  of each sprite. Each sprite has a different **algorithm** which makes its behaviour unique:
 
-+ `events`{:class="block3events"} blocks - some sprites use more than one way of controlling their animation and/or interaction.
++ `events`{:class="block3events"} blocks - some sprites use more than method of **user interaction**.
 
-+ `motion`{:class="block3motion"} blocks - compare the code used for each sprite to create their movement.
++ `motion`{:class="block3motion"} blocks - **compare** the code used to create the movement for each sprite.
 
-+ explore how various `looks`{:class="block3looks"} blocks are used to alter the size and apperence of a sprite.
++ explore how various `looks`{:class="block3looks"} blocks are used to alter the size and **appearance** of a sprite.
 
 Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
