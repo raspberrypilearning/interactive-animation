@@ -33,7 +33,10 @@ title: Click on a chick to make it chirp and move back
   <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
+Add code blocks under a `when this sprite clicked`{:class="block3events"} to run them when the sprite is clicked. This example plays a sound and move the sprite backwards. It can be used with a moving sprite. 
+
 ```blocks3
+when this sprite clicked
 play sound [chrip v] until done
 move (-50) steps
 ```
