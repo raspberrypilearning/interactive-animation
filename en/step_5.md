@@ -60,77 +60,66 @@ You can use the `set size`{:class="block3looks"} or `change size`{:class="block3
 **Note:** The `set size`{:class="block3looks"} block sets size to a specific value while the `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"}, adds `10` to the value of size.
 
 ```blocks3
-set size to (50) %
+when flag clicked
+set size to (160) %
+forever
+change size by (40)
+wait (0.2) seconds
+change size by (20)
+wait (0.2) seconds
+change size by (-20)
+wait (0.2) seconds
+change size by (-40)
+wait (0.2) seconds
+end
 ```
 
-If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
-
-If place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
-
-You can also quickly set the size of a sprite by changing its Size under the Stage:
-
-![Sprite Size setting highlighted](images/spriteSize.png){:width="400px"}
-
+This code uses a series of `change sizes`{:class="block3looks"} and `waits`{:class="block3control"} to make the heart grow and shrink. Try creating your own pulsating sprite.
 
 --- /collapse ---
-
-
-
-
-**Old Markdown below**
-
-Go to the `Looks`{:class="block3looks"} block menu and grab a `set size`{:class="block3looks"} block.
-
-Raise or lower the value to make your sprite larger or smaller than it's default size. Play around with the value until the size looks right for your project.
-
-```blocks3
-set size to (160) %
-```
---- no-print ---
-![Set your sprite's size](images/setSize.gif)
---- /no-print ---
-**Note:** If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide.
-
-You can place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
-
---- /task ---
-
-### Using change size
-
-As well as `set size`{:class="block3looks"} you can use `change size`{:class="block3looks"} blocks to increase or reduce the `size`{:class="block3looks"} value.
-
---- task ---
-
-You can use the `change size`{:class="block3looks"} block to create pulsing effects such as a beating heart.
-
---- no-print ---
-![Beating heart animation](images/beatingHeart.gif)
---- /no-print ---
 
 --- collapse ---
 ---
-
-title: How to make a beating heart effect
-
+title: Graphic effects
 ---
 
-Try making a sprite grow and then shrink within a forever loop to creating a beating heart or pulsing effect:
+**Rooster effects** - <a href="https://scratch.mit.edu/projects/435730522/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
+</div>
+
+You can use the `set size`{:class="block3looks"} or `change size`{:class="block3looks"} to create a pulsing effect, such as a beating heart.
+
+**Note:** The `set size`{:class="block3looks"} block sets size to a specific value while the `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"}, adds `10` to the value of size.
 
 ```blocks3
 when flag clicked
-set size to (100) %
+set size to (160) %
 forever
-repeat (20)
-change size by (3)
-end
-repeat (20)
-change size by (-3)
+change size by (40)
+wait (0.2) seconds
+change size by (20)
+wait (0.2) seconds
+change size by (-20)
+wait (0.2) seconds
+change size by (-40)
+wait (0.2) seconds
 end
 ```
 
+This code uses a series of `change sizes`{:class="block3looks"} and `waits`{:class="block3control"} to make the heart grow and shrink. Try creating your own pulsating sprite.
+
 --- /collapse ---
 
+
+
+
+
+
 --- /task ---
+
+**Old Markdown below**
 
 ### Special graphics effects
 
