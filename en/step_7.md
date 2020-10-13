@@ -1,15 +1,29 @@
 ## Add more sprites
-Now you've got one sprite moving the way you want it to, let's add another. 
+Now you've got one sprite moving the way you want it to, you could add another sprite to make your animation more dynamic. 
 
 --- task ---
-Duplicate your first sprite to create the starting point for the next. The code gets copied too which saves you time.
+
+Start  by duplicating your first sprite to create the starting point for the next. The code gets copied too which saves you time.
 
 --- collapse ---
 ---
 
-title: How to ... set-up project, backdrop and sprite
+title: Copy a sprite
 
 ---
+
+Right click on your first sprite and a pop up will appear.
+![Image right click first sprite](images/challenge1-right-click-sprite.png){:width="300px"}
+
+Select 'duplicate'
+![Image duplicate sprite](images/challenge1-duplicate-sprite.png){:width="300px"}
+
+Rename your sprite.
+![Image rename sprite](images/challenge1-rename-sprite.png){:width="300px"}
+
+Your sprite's name will change in the Sprite list
+![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
+
 --- /collapse ---
 
 
