@@ -68,19 +68,28 @@ Alternatively, use the `motion`{:class="block3motion"} block `go to x: () y: ()`
 --- collapse ---
 ---
 
-title: Size
-
----
-Do you need to change the size of the sprites in relation to each other?
-
---- /collapse ---
-
---- collapse ---
----
-
 title: Colour
 
 ---
+
+Change  the colour of your sprite. Click on the second sprite in the Sprite menu. Then select its **Costumes** tab.
+
+Use the **arrow tool** to highlight whichever part of the costume you want to change colour.
+
+![Image showing arrow tool in Paint editor](images/challenge1-arrow-tool.png){:width="300px"}
+
+![Image showing arrow tool selecting shape](images/challenge1-arrow-tool-selecting-shape.png){:width="300px"}
+
+Go to the **Fill tool** and select the colour. It will automatically fill the shape that you have selected.
+
+![Image showing Fill tool in Paint editor](images/challenge1-fill-tool.png){:width="300px"}
+
+![Image showing shape colour changing](images/challenge1-change-shape-colour.png){:width="300px"}
+
+![Image showing final change](images/challenge1-change-costume-colour.png){:width="300px"}
+
+Repeat the steps above with any part of the costume you have missed or for any other part of the costume you want to changet he colour of.
+
 --- /collapse ---
 
 --- collapse ---
@@ -96,7 +105,7 @@ title: Facing and direction
 
 --- task ---
 
-Now you can alter where the sprite comes in layers to improve how it sits 3-dimensionally within the scene.
+Now you can alter the size or where the sprite is layered to improve how it works 3-dimensionally with the other sprites as well as within the scene.
 
 --- collapse ---
 ---
