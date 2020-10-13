@@ -9,9 +9,14 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line."
 
 [Hum](https://scratch.mit.edu/projects/435667657/editor)
+
+--- no-print ---
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435667657/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /no-print ---
 
 --- /task ---
 
@@ -28,9 +33,13 @@ title: Bounce across the Stage
 
 ---
 [Groovy!](https://scratch.mit.edu/projects/433535326/editor)
+
+--- no-print ---
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433535326/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /no-print ---
 
 This code makes a sprite bounce on the left-hand and right-hand edges of the Stage. Because the sprite rotates horizontally it appears to flip when changing its direction `when flag  clicked`{:class="block3events"} is clicked:
 
@@ -56,9 +65,14 @@ title: Bounce up and down the Stage
 
 ---
 [Ouch!](https://scratch.mit.edu/projects/433595822/editor)
+
+--- no-print ---
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433595822/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /no-print ---
 
 This code makes a sprite bounce up and down the Stage when the green flag is clicked:
 
@@ -84,9 +98,14 @@ title: Bounce at an angle
 
 ---
 [Boing!](https://scratch.mit.edu/projects/433536479/editor)
+
+--- no-print ---
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433536479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /no-print ---
 
 This code makes a sprite appear to rotate randomly when the green flag is clicked:
 
@@ -113,9 +132,14 @@ title: Spin around
 
 ---
 [Batty](https://scratch.mit.edu/projects/435704980/editor)
+
+--- no-print ---
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435704980/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /no-print ---
 
 This code makes a sprite spin when it is clicked:
 
@@ -135,10 +159,16 @@ Change the degrees by which your sprite turns to `1` within a `forever`{:class="
 title: Move in a circle
 
 ---
+
 [Moon](https://scratch.mit.edu/projects/435701055/editor)
+
+--- no-print ---
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435701055/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
+--- /no-print ---
 
 This code makes a sprite fly in a circle when it is clicked:
 
