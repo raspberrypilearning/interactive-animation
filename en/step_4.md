@@ -17,7 +17,7 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 
 --- task ---
 
-**How to ...**: if you need a reminder about how to create your sprite's movement and it bounce when it touches the edge of the Stage, choose one of the patterns below as a starting point.
+**How to ...**: if you need a reminder about how to create your sprite's movement when it bounces on the edge of the Stage, choose one of the patterns below as a starting point.
 
 If you know which block to use then move to the next step.
 
