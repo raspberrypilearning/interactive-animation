@@ -1,6 +1,6 @@
 ## User interaction
 
-Now you're going to make your sprite do something `when this sprite clicked`{:class="block3events"}. Your sprite could play a sound or change the way it looks or both. It's up to you. 
+Now you're going to make your sprite do something `when this sprite clicked`{:class="block3events"}. Your sprite could play a `sound`{:class="block3sound"}, `move`{:class="block3motion"},  or change the way it `looks`{:class="block3looks"} or any combination. It's up to you. 
 
 --- task ---
 
@@ -17,17 +17,17 @@ This chick chirps and jumps backwards when you click on it:
 
 --- task ---
 
-Add code to make your sprite do something when it is clicked. You can pick on of these examples as a starting point.
-
-You can make your sprite perform an action such as playing a sound or moving when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
+Add code to make your sprite do something when it is clicked. You can pick one of these examples as a starting point.
 
 --- collapse ---
 
 --- 
 
-title: Click on a chick to make it chirp and move back
+title: Click to make sound and motion
 
 ---
+
+You can make your sprite perform an action such as playing a sound or moving when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -37,20 +37,21 @@ Add code blocks under a `when this sprite clicked`{:class="block3events"} to run
 
 ```blocks3
 when this sprite clicked
-play sound [chrip v] until done
+play sound [chirp v] until done
 move (-50) steps
 ```
 
 --- /collapse ---
 
-You could add an action that makes a change to a sprite and then reverses it such as growing, waiting and then shrinking. 
 
 --- collapse ---
 ---
 
-title: Click on a ball to squash it
+title: Click to change and then change back
 
 ---
+
+You could add an action that makes a change to a sprite and then reverses it such as growing, waiting and then shrinking. 
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435723273/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -67,24 +68,21 @@ set [fisheye v] effect to (0)
 set size to (100)
 ```
 
-You could move the sprite and then move it in the opposite direction. 
-
 --- /collapse ---
-
-You could make your sprite change when you click on it and then reset it when the green flag is clicked. 
 
 --- collapse ---
 ---
 
-title: Click on a balloon to burst it
+title: Click to make a change, reset with green flag
 
 ---
+You can make your sprite change when you click on it and then reset it when the green flag is clicked. 
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435725465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-This code makes a balloon 'pop' using sound and looks blocks. 
+This code makes a balloon 'pop' using `sound`{:class="block3sound"} and `looks`{:class="block3looks"} blocks. 
 
 ```blocks3
 when this sprite clicked
