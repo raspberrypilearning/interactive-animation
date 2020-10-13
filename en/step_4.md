@@ -43,11 +43,10 @@ move (5) steps
 if on edge, bounce
 ```
 
-When you add a sprite to your project it will automatically point to the right (`90` degrees) when the green flag is clicked. If you change the number of degrees in `point in direction`{:class="block3motion"} block to `-90` your sprite will point left when the green flag is clicked.
+The `point in direction`{:class="block3motion"} block automatically points your sprite to the right (`90` degrees) when the `green flag is clicked`{:class="block3events"}. If you change the number of degrees to `-90` your sprite will point left.
 
 Add a `set rotation  style`{:class="block3motion"} block and select the drop-down `left-right`{:class="block3motion"} so your sprite won't flip upside down when it bounces off the edge of the Stage.  
 
-Find out how to make your sprite change costume when it bounces off the edge in the next step **Change your sprite's looks**.
 --- /collapse ---
 
 --- collapse ---
@@ -75,8 +74,6 @@ if on edge, bounce
 Change the number of degrees in `point in direction`{:class="block3motion"} block to `0` to make a sprite point upwards when the green flag is clicked.
 
 Add a `set rotation  style`{:class="block3motion"} block and select the drop-down `don't rotate`{:class="block3motion"} to stop your sprite rotating, even when it bounces.
-
-Find out how to make your sprite change costume when it bounces off the edge in the next step **Change your sprite's looks**.
 
 --- /collapse ---
 
