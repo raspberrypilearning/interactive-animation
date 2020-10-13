@@ -15,7 +15,7 @@ Think about how you want your sprite to look on the screen. What size will look 
 ### Setting the size
 
 Let's start by changing the size of your sprite to suit your project. 
-
+--- /task ---
 --- task ---
 
 Go to the `Looks`{:class="block3looks"} block menu and grab a `set size`{:class="block3looks"} block.
