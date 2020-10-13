@@ -119,69 +119,13 @@ You can use a `clear graphic effects`{:class="block3looks"} block at any time to
 clear graphic effects
 ```
 
-
-You can use the `set size`{:class="block3looks"} or `change size`{:class="block3looks"} to create a pulsing effect, such as a beating heart.
-
-**Note:** The `set size`{:class="block3looks"} block sets size to a specific value while the `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"}, adds `10` to the value of size.
-
-```blocks3
-when flag clicked
-set size to (160) %
-forever
-change size by (40)
-wait (0.2) seconds
-change size by (20)
-wait (0.2) seconds
-change size by (-20)
-wait (0.2) seconds
-change size by (-40)
-wait (0.2) seconds
-end
-```
-
-This code uses a series of `change sizes`{:class="block3looks"} and `waits`{:class="block3control"} to make the heart grow and shrink. Try creating your own pulsating sprite.
-
 --- /collapse ---
-
-
-
 
 
 
 --- /task ---
 
-**Old Markdown below**
-
-### Special graphics effects
-
-
-
-
---- task ---
-
-
---- collapse ---
----
-
-title: Using graphics effects
-
----
-
-
-
-```blocks3
-
-
-```
-
---- /collapse ---
-
-
-
-
---- /task ---
-
---- task ---
+**Yet to be edited Markdown below this point**
 
 --- collapse ---
 ---
