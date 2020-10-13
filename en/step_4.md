@@ -27,13 +27,12 @@ If you know which block to use then move to the next step.
 title: Bounce across the Stage
 
 ---
-+ `left-right`{:class="block3motion"} - your sprite will rotate horizontally and appear to flip, changing its direction
 [Groovy!](https://scratch.mit.edu/projects/433535326/editor)
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433535326/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-This code makes a sprite bounce on the left-hand and right-hand edges of the Stage when the green flag is clicked:
+This code makes a sprite bounce on the left-hand and right-hand edges of the Stage. Because the sprite rotates horizontally it appears to flip when changing its direction `when flag  clicked`{:class="block3control"} is clicked:
 
 ```blocks3
 when flag clicked
