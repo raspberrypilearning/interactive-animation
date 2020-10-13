@@ -32,7 +32,7 @@ title: Bounce across the Stage
   <iframe src="https://scratch.mit.edu/projects/433535326/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-This code makes a sprite bounce on the left-hand and right-hand edges of the Stage. Because the sprite rotates horizontally it appears to flip when changing its direction `when flag  clicked`{:class="block3control"} is clicked:
+This code makes a sprite bounce on the left-hand and right-hand edges of the Stage. Because the sprite rotates horizontally it appears to flip when changing its direction `when flag  clicked`{:class="block3events"} is clicked:
 
 ```blocks3
 when flag clicked
