@@ -27,8 +27,6 @@ title: Set size
 
 When you add a sprite to your project its size is set to 100%. This might be too big or too small for your project. 
 
-
-
 You can use code to set the size of a sprite. 
 
 ```blocks3
@@ -37,11 +35,11 @@ set size to (50) %
 
 If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
 
-You can set the size of a sprite under `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
+If place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
 
 You can also quickly set the size of a sprite by changing its Size under the Stage:
 
-![Sprite Size setting highlighted](images/spriteSize.png)
+![Sprite Size setting highlighted](images/spriteSize.png){:width="400px"}
 
 
 --- /collapse ---
