@@ -8,7 +8,7 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 
 Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line."
 
-[Buzz](https://scratch.mit.edu/projects/435667657/editor)
+[Hum](https://scratch.mit.edu/projects/435667657/editor)
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435667657/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
