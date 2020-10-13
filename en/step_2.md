@@ -23,7 +23,7 @@ Click on the green flags below to **experience** the following example Scratch p
 
 **Popping balloons**:
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/425346741/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/435808726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 **Animal behaviour**:
@@ -44,7 +44,7 @@ Click on the green flags below to **experience** the following example Scratch p
 
 Now **Investigate** the projects where the sprite movement seems relevant to your ideas:
 
-**Popping balloons** - click [here](https://scratch.mit.edu/projects/425346741/editor){:target="_blank"} to `see inside`{:class="block3motion"}
+**Popping balloons** - click [here](https://scratch.mit.edu/projects/435808726/editor){:target="_blank"} to `see inside`{:class="block3motion"}
 
 **Animal behaviour**  - click
 [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/433177517/editor/){:target="_blank"}
