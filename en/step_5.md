@@ -44,6 +44,36 @@ You can also quickly set the size of a sprite by changing its Size under the Sta
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: Change size to create a pulsing effect
+---
+
+**Beating heart** - <a href="https://scratch.mit.edu/projects/435725413/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435725413/?autostart=false" frameborder="0"></iframe>
+</div>
+
+You can use the `set size`{:class="block3looks"} or `change size`{:class="block3looks"} to create a pulsing effect, such as a beating heart.
+
+**Note:** The `set size`{:class="block3looks"} block sets size to a specific value while the `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"}, adds `10` to the value of size.
+
+```blocks3
+set size to (50) %
+```
+
+If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
+
+If place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
+
+You can also quickly set the size of a sprite by changing its Size under the Stage:
+
+![Sprite Size setting highlighted](images/spriteSize.png){:width="400px"}
+
+
+--- /collapse ---
+
 
 
 
