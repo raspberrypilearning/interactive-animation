@@ -145,9 +145,13 @@ Increase the number of steps in `move`{:class="block3motion"} `5` `steps`{:class
 
 You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
 
+```blocks3
+
 turn right () degrees :: motion
 
 turn left () degrees :: motion
+
+```
 
 --- /task ---
 
