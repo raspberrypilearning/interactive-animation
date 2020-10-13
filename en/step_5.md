@@ -121,17 +121,15 @@ clear graphic effects
 
 --- /collapse ---
 
-
-
 --- /task ---
 
 **Yet to be edited Markdown below this point**
 
+--- task ---
+
 --- collapse ---
 ---
-
 title: How to create a simple sprite animation
-
 ---
 
 Use `next costume`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} to create an animation: 
