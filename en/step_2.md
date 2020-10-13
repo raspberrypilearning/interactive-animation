@@ -52,7 +52,7 @@ Animal behaviour  - click
 **Bouncing balls** - click [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425675232/editor/){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/425675232/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/425675232/editor/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 
