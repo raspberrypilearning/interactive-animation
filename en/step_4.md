@@ -111,7 +111,7 @@ Before you select the drop-down from `set rotation style`{:class="block3motion"}
 </div>
 
 + `all around`{:class="block3motion"} - your sprite will appear to rotate randomly and, depending on the speed, can create a spinning effect
-[Dragonfly behaviour](https://scratch.mit.edu/projects/433536479/editor)
+[Boing!](https://scratch.mit.edu/projects/433536479/editor)
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433536479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
