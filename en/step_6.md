@@ -35,7 +35,7 @@ title: Click on a chick to make it chirp and move back
 
 ```blocks3
 play sound [chrip v] until done
-move (-50)
+move (-50) steps
 ```
 
 --- /collapse ---
