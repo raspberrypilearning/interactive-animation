@@ -56,6 +56,13 @@ Edit the code so that the new sprite does what you want it to do.
 title: Position
 
 ---
+
+Drag your second sprite to the position you want it to start in.  The second sprite will go to this position when the `when the green flag clicked`{:class="block3events"}.
+
+Alternatively, use the `motion`{:class="block3motion"} block `go to x: () y: ()` as part of your set-up code so that the sprite will always start from the x and y position that you set.
+
+**Tip**: in programming, there is often more than one way to do something.
+
 --- /collapse ---
 
 --- collapse ---
