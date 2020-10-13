@@ -46,10 +46,10 @@ Now **Investigate** the projects where the sprite movement seems relevant to you
 
 **Popping balloons** - click [here to](https://scratch.mit.edu/projects/425346741/editor) to `see inside`{:class="block3motion"}
 
-[Animal behaviour]  - click
+Animal behaviour  - click
 [![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/433177517/editor/){:target="_blank"}
 
-[Bouncing balls](https://scratch.mit.edu/projects/425675232/editor)
+**[Bouncing balls](https://scratch.mit.edu/projects/425675232/editor)**
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
