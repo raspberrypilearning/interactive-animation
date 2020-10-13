@@ -1,12 +1,10 @@
 ## User interaction
 
-In the Popping balloons project, when the user clicks on a balloon, it slightly increases in size and changes colour just a second before the balloon pops and dissappears.
-
-You now need to create the user interaction for your project with a new script beginning with `when this sprite clicked`{:class="block3events"}. What happens when the user clicks the sprite is going to be up to you. 
+Now you're going to make your sprite do something `when this sprite clicked`{:class="block3events"}. Your sprite could play a sound or change the way it looks or both. It's up to you. 
 
 --- task ---
 
-Look below at the program used in the **Yellow Balloon** sprite. The `Looks`{:class="block3looks"} blocks have been highlighted. As before, read the program so you can understand what each `Looks`{:class="block3looks"} block does:
+Look below at the code used in the **Yellow Balloon** sprite. The `Looks`{:class="block3looks"} blocks have been highlighted. As before, read the code so you can understand what each `Looks`{:class="block3looks"} block does:
 
 ```blocks3
 when this sprite clicked
@@ -19,16 +17,17 @@ play sound [pop v] until done
 
 --- /task ---
 
-You now need to consider what is the most fitting change in `graphic effect`{:class="block3looks"} for your sprite as a result of the user clicking it. 
+What will your sprite do when the user clicks on it? 
+
+Here are some more examples that you could use as a starting point. 
 
 --- task ---
 
-Explore **change** or **set** in the **How to ... create graphic effect** to remind yourself of all the range of `graphic effect`{:class="block3looks"} blocks.
 
 --- collapse ---
 ---
 
-title: How to ... create graphic effect
+title: Example 1
 
 ---
 --- /collapse ---
