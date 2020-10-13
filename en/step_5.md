@@ -6,7 +6,7 @@ Now let's look at different ways to change the appearance of your sprite, such a
 
 Think about how you want your sprite to look on the screen. What size will look and work best? Do you want to use graphic effects such a the ghost effect? Does your sprite need to change costumes?
 
-**Sun** - <a href="https://scratch.mit.edu/projects/425346741/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+**Sun** - <a href="https://scratch.mit.edu/projects/425346741/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
@@ -22,10 +22,28 @@ Think about how you want your sprite to look on the screen. What size will look 
 
 --- collapse ---
 ---
-
 title: Set size
-
 ---
+
+When you add a sprite to your project its size is set to 100%. This might be too big or too small for your project. 
+
+
+
+You can use code to set the size of a sprite. 
+
+```blocks3
+set size to (50) %
+```
+
+If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
+
+You can set the size of a sprite under `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
+
+You can also quickly set the size of a sprite by changing its Size under the Stage:
+
+![Sprite Size setting highlighted](images/spriteSize.png)
+
+
 --- /collapse ---
 
 
