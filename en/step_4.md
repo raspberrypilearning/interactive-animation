@@ -22,7 +22,28 @@ If you need a bit of help then choose one of these movement patterns as a starti
 title: Bounce across the Stage
 
 ---
++ `left-right`{:class="block3motion"} - your sprite will rotate horizontally and appear to flip, changing its direction
+[Groovy!](https://scratch.mit.edu/projects/433535326/editor)
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/433535326/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
+This code makes a sprite bounce on the left-hand and right-hand edges of the Stage when the green flag is clicked:
+
+```blocks3
+when flag clicked
+point in direction (180)
+set rotation style [left-right v]
+forever
+move (5) steps
+if on edge, bounce
+```
+
+When you add a sprite to your project it will be pointing right (`90` degrees). Change the number of degrees in `point in direction`{:class="block3motion"} block to `-90` to make a sprite point left or `90` to make a sprite point right when the green flag is clicked.
+
+Add a `set rotation  style`{:class="block3motion"} block and select the drop-down `left-right`{:class="block3motion"} so your sprite won't flip upside down when it bounces off the edge of the Stage.  
+
+Find out how to make your sprite change costume when it bounces off the edge in the next step **Change your sprite's looks**.
 --- /collapse ---
 
 --- collapse ---
@@ -49,9 +70,9 @@ if on edge, bounce
 
 Change the number of degrees in `point in direction`{:class="block3motion"} block to `0` to make a sprite point upwards when the green flag is clicked.
 
-Adding `don't rotate`{:class="block3motion"} will mean yout sprite won't rotate at all, even when it bounces.
+Adding `don't rotate`{:class="block3motion"} will mean your sprite won't rotate at all, even when it bounces.
 
-Find out how to make your sprite change costume in the next step **Change your sprite's looks**.
+Find out how to make your sprite change costume when it bounces off the edge in the next step **Change your sprite's looks**.
 
 --- /collapse ---
 
