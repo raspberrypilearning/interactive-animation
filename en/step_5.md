@@ -26,7 +26,7 @@ Think about how you want your sprite to look on the screen. What size will look 
 title: Set size
 
 ---
-
+--- /collapse ---
 
 
 
