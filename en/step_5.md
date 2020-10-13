@@ -2,6 +2,8 @@
 
 You will usually want to change how your sprites appear in one or more ways, such as their size, colour or graphic effects like the ghost effect.
 
+### Setting the size
+
 Let's start by changing the size of your sprite to suit your project. 
 
 --- task ---
@@ -14,34 +16,15 @@ Raise or lower the value to make your sprite larger or smaller than it's default
 set size to (160) %
 ```
 --- no-print ---
-![Set your sprite's size](images/setSize.gif){:width="400px"}
+![Set your sprite's size](images/setSize.gif)
 --- /no-print ---
 **Note:** If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide.
 
---- collapse ---
----
+You can place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
 
-title: Setting the size of a sprite
+### Using change size
 
----
 
-When you add a sprite to your project its size is set to 100%. This might be too big or too small for your project. 
-
-You can set the size of a sprite by changing its Size under the Stage:
-
-![Sprite Size setting highlighted](images/sprite-size.png)
-
-You can also use code to set the size of a sprite. 
-
-```blocks3
-set size to (50) %
-```
-
-If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
-
-You can set the size of a sprite under `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
-
---- /collapse ---
 
 
 --- collapse ---
@@ -186,3 +169,28 @@ title: How to ... create graphic effects
 --- /task ---
 
 --- save ---
+
+--- collapse ---
+---
+
+title: Setting the size of a sprite
+
+---
+
+When you add a sprite to your project its size is set to 100%. This might be too big or too small for your project. 
+
+You can set the size of a sprite by changing its Size under the Stage:
+
+![Sprite Size setting highlighted](images/sprite-size.png)
+
+You can also use code to set the size of a sprite. 
+
+```blocks3
+set size to (50) %
+```
+
+If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
+
+You can set the size of a sprite under `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
+
+--- /collapse ---
