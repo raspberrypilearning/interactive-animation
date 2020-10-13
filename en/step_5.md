@@ -22,10 +22,19 @@ set size to (160) %
 
 You can place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
 
+--- /task ---
+
 ### Using change size
 
+As well as `set size`{:class="block3looks"} you can use `change size`{:class="block3looks"} blocks to increase or reduce the `size`{:class="block3looks"} value.
 
+--- task ---
 
+You can use the `change size`{:class="block3looks"} block to create pulsing effects such as a beating heart.
+
+--- no-print ---
+![Beating heart animation](images/beatingHeart.gif)
+--- /no-print ---
 
 --- collapse ---
 ---
@@ -36,18 +45,16 @@ title: Beating heart effect
 
 Try making a sprite grow and then shrink within a forever loop to creating a beating heart or pulsing effect:
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="243" height="201" src="https://scratch.mit.edu/projects/embed/433576259" frameborder="0"></iframe>
-</div>
-
 ```blocks3
 when flag clicked
 set size to (100) %
 forever
-set size to (110) %
-wait (0.5) seconds
-set size to (100) %
-wait (0.5) seconds
+repeat (20)
+change size by (3)
+end
+repeat (20)
+change size by (-3)
+end
 ```
 
 --- /collapse ---
