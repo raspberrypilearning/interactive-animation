@@ -84,11 +84,14 @@ Go to the **Fill tool** and select the colour. It will automatically fill the sh
 
 ![Image showing Fill tool in Paint editor](images/challenge1-fill-tool.png){:width="300px"}
 
+Repeat the steps above with any part of the costume you have missed or for any other part of the costume you want to change the colour of.
+
+![Image showing shape colour changing](images/challenge1-select-another-shape.png){:width="300px"}
+
 ![Image showing shape colour changing](images/challenge1-change-shape-colour.png){:width="300px"}
 
 ![Image showing final change](images/challenge1-change-costume-colour.png){:width="300px"}
 
-Repeat the steps above with any part of the costume you have missed or for any other part of the costume you want to changet he colour of.
 
 --- /collapse ---
 
