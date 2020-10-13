@@ -105,7 +105,7 @@ Change the number of degrees in `point in direction`{:class="block3motion"} bloc
 
 Before you select the drop-down from `set rotation style`{:class="block3motion"}, first consider how you want your sprite to respond **when it bounces off the edge of the Stage**:
 + `left-right`{:class="block3motion"} - your sprite will rotate horizontally and appear to flip, changing its direction
-[Bear behaviour](https://scratch.mit.edu/projects/433535326/editor)
+[Groovy!](https://scratch.mit.edu/projects/433535326/editor)
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433535326/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
