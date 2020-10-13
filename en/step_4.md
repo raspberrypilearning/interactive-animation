@@ -124,6 +124,19 @@ title: Spin around
 title: Fly in a circle
 
 ---
+[Moon](https://scratch.mit.edu/projects/435701055/editor)
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/435701055/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+This code makes a sprite fly in a circle when it is clicked:
+
+```blocks3
+when flag clicked
+forever
+move (1) steps
+turn right () degrees :: motion
+```
 
 --- /collapse ---
 
