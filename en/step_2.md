@@ -44,13 +44,11 @@ Click on the green flags below to **experience** the following example Scratch p
 
 Now **Investigate** the projects where the sprite movement seems relevant to your ideas:
 
-**Popping balloons** - click [here](https://scratch.mit.edu/projects/435808726/editor){:target="_blank"} to `see inside`{:class="block3motion"}
+**Popping balloons** - <a href="https://scratch.mit.edu/projects/435808726/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 
-**Animal behaviour**  - click
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/433177517/editor/){:target="_blank"}
+**Animal behaviour** - <a href="https://scratch.mit.edu/projects/433177517/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 
-[Bouncing balls]  - click
-[![See inside icon](images/see_inside.png)](https://scratch.mit.edu/projects/425675232){:target="_blank"}
+**Bouncing balls** - <a href="https://scratch.mit.edu/projects/425675232/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 
 **Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
