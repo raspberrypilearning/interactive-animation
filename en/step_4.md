@@ -8,6 +8,11 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 
 Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line."
 
+[Buzz](https://scratch.mit.edu/projects/435667657/editor)
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/435667657/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
 --- /task ---
 
 --- task ---
@@ -82,13 +87,12 @@ Find out how to make your sprite change costume when it bounces off the edge in 
 title: Bounce at an angle
 
 ---
-+ `all around`{:class="block3motion"} - your sprite will appear to rotate randomly and, depending on the speed, can create a spinning effect
 [Boing!](https://scratch.mit.edu/projects/433536479/editor)
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433536479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-This code makes a sprite bounce all around the Stage when the green flag is clicked:
+This code makes a sprite appear to rotate randomly when the green flag is clicked:
 
 ```blocks3
 when flag clicked
