@@ -4,61 +4,96 @@ Now you're going to make your sprite do something `when this sprite clicked`{:cl
 
 --- task ---
 
-Look below at the code used in the **Yellow Balloon** sprite. The `Looks`{:class="block3looks"} blocks have been highlighted. As before, read the code so you can understand what each `Looks`{:class="block3looks"} block does:
+Decide what you want your sprite to do when the user clicks or taps on it. Choose an action that makes sense for your sprite. 
 
-```blocks3
-when this sprite clicked
-+ change size by (10)
-wait (0.1) seconds
-+ change [colour v] effect by (15)
-play sound [pop v] until done
-+ change [ghost v] effect by (100)
-```
+This chick chirps and jumps backwards when you click on it:
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
 --- /task ---
 
-What will your sprite do when the user clicks on it? 
-
-Here are some more examples that you could use as a starting point. 
 
 --- task ---
 
+--- collapse ---
+
+You can make your sprite perform an action such as playing a sound or moving when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
+
+--- 
+
+title: Click on a chick to make it chirp and move back
+
+---
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+
+--- /collapse
+
+You could add an action that makes a change to a sprite and then reverses it such as growing, waiting and then shrinking. 
 
 --- collapse ---
 ---
 
-title: Example 1
+title: Click on a ball to squash it
 
 ---
---- /collapse ---
 
---- /task ---
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/435723273/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
 
---- task ---
-
-Under `when this sprite clicked`{:class="block3events"} you could add a `change size by`{:class="block3looks"} block if you think it suits your project. And/or adding a `change colour effect by`{:class="block3looks"} block with a `value` may be suitable. 
-
-**Tip:** You can choose a value from a range -  explore the extent of the range by putting in different values and running the project. As with the choosing the size for your sprite, you will need to play about with a value until it looks right for your project.
-
-Run your project every time you add a block or change a value. It's the only way to see if your program is working and what affect the `Looks`{:class="block3events"} blocks and values are having on your sprite.
-
-You will need to add a `change ghost effect by`{:class="block3events"} block with a value of `100` if you want your sprite to disappear at the end of the sequence once it's been clicked by the user.
-
---- /task ---
-
---- task ---
-Notice the **Yellow Balloon** sprite uses a `wait`{:class="block3control"} block. In this example, the `wait`{:class="block3control"} block slows down the `change size by 10`{:class="block3looks"} block so the change is visible in the sequence before the other `Looks`{:class="block3looks"} blocks run.
-
-You may need a `wait`{:class="block3control"} block in your project or you may need a number of `wait`{:class="block3control"} blocks. Again, you will need to change the `value` of seconds until it appears suitable for your project.
+This code will grow a sprite and apply the fisheye effect for one second and then return to normal:
 
 ```blocks3
 when this sprite clicked
-change size by (10)
-+ wait (0.1) seconds
-change [colour v] effect by (15)
-play sound [pop v] until done
-change [ghost v] effect by (100)
+set size to (110)
+set [fisheye v] effect to (50)
+wait (0.5) seconds
+set [fisheye v] effect to (0)
+set size to (100)
 ```
+
+You could move the sprite and then move it in the opposite direction. 
+
+--- /collapse ---
+
+You could make your sprite change when you click on it and then reset it when the green flag is clicked. 
+
+--- collapse ---
+---
+
+title: Click on a balloon to burst it
+
+---
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/435725465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+This code makes a balloon 'pop' and uses the g
+```blocks3
+when this sprite clicked
+change size by (10)
+change brightness effect by (25)
+wait (0.1) seconds
+play sound [pop v] until done
+set [ghost v] effect to (100)
+```
+
+You need to make sure you also have set up code so that your balloon is not popped when you start your project:
+
+```blocks3
+when flag clicked
+set size to (100)
+clear graphic effects
+```
+
+--- /collapse ---
 --- /task ---
 
 --- save ---
