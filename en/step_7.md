@@ -3,9 +3,7 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-**Investigate** the example projects where the sprite movement seems relevant to your ideas. 
-
-**Tip**: Professional programmers explore and take inspiration from code created by other programmers.
+**Investigate** the example projects. Which sprite movement seems relevant to your ideas? Professional programmers explore and take inspiration from code created by other programmers.
 
 **Popping balloons** - <a href="https://scratch.mit.edu/projects/435808726/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
@@ -19,13 +17,13 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-Now compare the code used in the sprites by exploring their **Code** tab. Each sprite has a different **algorithm** which makes its behaviour unique:
-
-+ `events`{:class="block3events"} blocks - two of the projects use more than one way to create **user interaction**.
+In the example projects, now compare the code used the relevant sprites by exploring their **Code** tab. Each sprite has a different **algorithm** which makes its behaviour unique:
 
 + `motion`{:class="block3motion"} blocks - **compare** the code used to create the movement for each sprite.
 
 + explore how various `looks`{:class="block3looks"} blocks are used to alter the size and **appearance** of a sprite.
+
++ `events`{:class="block3events"} blocks - two of the projects use more than one way to create **user interaction**.
 
 Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
@@ -34,9 +32,9 @@ Investigate the **Costumes** tab:
 
 --- task ---
 
-Ask yourself the following questions about the second sprite:
-+ If your first sprite came with a series of costumes, do you want to make the costumes this time?
-+ What position will it start from?
+Ask yourself the following questions about your second sprite:
++ If your first sprite came with a series of costumes, do you want to make costumes this time?
++ What position will your second sprite start from?
 + Does it need to be a different colour?
 + How big should it be? 
 + Which direction should it point in?
@@ -49,8 +47,8 @@ Ask yourself the following questions about the second sprite:
 
 Choose one of these three methods to create a second sprite: 
 + Duplicate your first sprite if you want multiples of the same sprite
-+ create a new sprite and copy over the first sprite's code 
-+ create a new sprite and start coding it from the beginning
++ Create a new sprite and copy over the first sprite's code 
++ Create a new sprite and start coding it from the beginning
 
 --- collapse ---
 ---
@@ -148,6 +146,10 @@ Repeat the steps above with any part of the costume you have missed or for any o
 
 For a reminder on **How to...** change the second sprite's size go to the earlier step 'Change your sprite's looks'.
 
+--- /task ---
+
+--- task ---
+
 Do you need to delete blocks of code?
 
 --- collapse ---
@@ -198,7 +200,6 @@ Or, use a `go to front layer`{:class="block3looks"} block to the relevant sprite
 ```blocks3
 go to [front v] layer
 ```
-
 
 --- /collapse ---
 
