@@ -19,7 +19,7 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-Now compare sprites and/or projects code. Explore the **Code** tab of each sprite. Each sprite has a different **algorithm** which makes its behaviour unique:
+Now compare the code used in the sprites by exploring their **Code** tab. Each sprite has a different **algorithm** which makes its behaviour unique:
 
 + `events`{:class="block3events"} blocks - two of the projects use more than one way to create **user interaction**.
 
