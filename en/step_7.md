@@ -54,7 +54,7 @@ Ask yourself the following questions about your second sprite:
 
 --- task ---
 
-Choose one of these three methods to create a second sprite: 
+Choose one of these three methods to create your second sprite: 
 + Duplicate your first sprite if you want multiples of the same sprite
 + Create a new sprite and copy over the first sprite's code 
 + Create a new sprite and start coding it from the beginning
@@ -102,9 +102,7 @@ Your second sprite has exactly the same code as your first sprite. Do not run th
 
 --- task ---
 
-Selected the second sprite in the Sprite list and click on its **Code** tab. Now edit the code so that the new sprite does what you want it to do. 
-
-Alter the second sprite's position, colour or size. 
+Click on the **Code** tab of the second sprite. Alter the second sprite's position, colour or size. 
 
 --- collapse ---
 ---
@@ -183,13 +181,15 @@ You can delete blocks of code in a number of ways:
 
 --- task ---
 
-Go back to the step 'Make a sprite bounce' to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
+Now edit the code so that the new sprite animates theway you want it to. 
+
+Go to the step **Make a sprite bounce** for a reminder on how to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
 
 --- /task ---
 
 --- task ---
 
-Change where your second sprite sits in relation to the first sprite. Layering sprites helps them appear to sit 3-dimensionally within the backdrop.
+Change how your second sprite appears in relation to the first sprite. Layering sprites helps sprites appear 3-dimensionally in relation to each other and within the backdrop.
 
 --- collapse ---
 ---
