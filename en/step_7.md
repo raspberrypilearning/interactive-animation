@@ -3,12 +3,12 @@ Now you've got one sprite moving the way you want it to, you could add another s
 
 --- task ---
 
-Start  by duplicating your first sprite to create the starting point for the next. The code gets copied too which saves you time.
+Either duplicate your first sprite to create the starting point for the next. The code gets copied too which saves you time.
 
 --- collapse ---
 ---
 
-title: Copy a sprite
+title: Duplicate a sprite
 
 ---
 
@@ -25,20 +25,39 @@ Rename your sprite:
 Your sprite's name will change in the Sprite list:
 ![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
 
-Your second sprite has exactly the same code as your first sprite. 
 --- /collapse ---
 
+Or select a new sprite and copy the code from the first sprite to the second sprite
+
+--- collapse ---
+---
+
+title: Copy sprite code
+
+---
+In the Sprite menu, go to **Choose a Sprite** and select your second sprite.
+
+Click the first sprite and go to its **Code** tab. Drag the code that is int he first sprite to the second sprite. M<akesure you copy all thecode scriptsthatyou have created.,You may have one script that starts with `when the green flag clicked`{:class="block3events"}andanother that starts with `when thissprite clicked`{:class="block3events"}.
+
+![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
+
+--- /collapse ---
 --- /task ---
 
-You will not see the second sprite because it is sitting underneath the first sprite. Do not run the program until you have altered the second sprite's position, colour, size or layers.
+Remember, your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite as you will not see the second sprite because it is sitting underneath the first sprite.
 
 --- task ---
 
-Ask yourself the following questions:
-+ How will the second sprite might move differently to the first sprite? Explore different movement patterns.
+Your could alter the second sprite's position, colour or size. Ask yourself the following questions:
++ What position will your second sprite start from?
++ What colour will the second sprite be? Or do you want to change the sprite altogehter?
 + How big should the second sprite be? 
 + Which direction should the second sprite point in?
++ How will the second sprite move differently to the first sprite? What pattern of movement will it have?
+
 + Will the sprite appear behind or in front or other sprites?
+
+
 
 --- /task ---
 
