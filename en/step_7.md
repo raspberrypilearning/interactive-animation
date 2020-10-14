@@ -3,14 +3,9 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-**Investigate** the example projects where the sprite movement seems relevant to your ideas. Professional programmers explore and take inspiration from code created by other programmers.
+**Investigate** the example projects where the sprite movement seems relevant to your ideas. 
 
---- collapse ---
----
-
-title: Investigate a project's code
-
----
+**Tip**: Professional programmers explore and take inspiration from code created by other programmers.
 
 **Popping balloons** - <a href="https://scratch.mit.edu/projects/435808726/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
@@ -20,7 +15,10 @@ title: Investigate a project's code
 
 **Love hearts** - <a href="https://scratch.mit.edu/projects/408665598/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
-Investigate the **Code** tab of each sprite. Each sprite has a different **algorithm** which makes its behaviour unique:
+
+--- /task ---
+
+Now compare sprites and/or projects code. Explore the **Code** tab of each sprite. Each sprite has a different **algorithm** which makes its behaviour unique:
 
 + `events`{:class="block3events"} blocks - two of the projects use more than one way to create **user interaction**.
 
@@ -31,11 +29,7 @@ Investigate the **Code** tab of each sprite. Each sprite has a different **algor
 Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
 
-*[algorithm]: A set of precise instructions for performing a task.
 
---- /collapse ---
-
---- /task ---
 
 --- task ---
 
@@ -198,5 +192,7 @@ You may want to tweak the position, size, layers etc of your second sprite. It m
 If you have time, keep adding more sprites. Make each one a little different to the others. 
 
 --- /task ---
+
+*[algorithm]: A set of precise instructions for performing a task.
 
 --- save ---
