@@ -1,19 +1,22 @@
 ## Animate your sprite
 
-Now let's look at how you can change the way your sprite looks. You can make changes to the way your sprite always looks, or you can switch between different looks to create animation effects. 
-
+Now you are going to change the way your sprite looks. You can make changes to the way your sprite always looks, or you can switch between different looks to create animation effects. 
 
 --- task ---
 First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects to change the appearance of your sprite?
 
-This ghost is big and you can see the backdrop through it:
+This jellyfish is big and you can see the backdrop through it:
 
-**Ghost effect** - <a href="https://scratch.mit.edu/projects/436178949/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Jellyfish** - <a href="https://scratch.mit.edu/projects/436178949/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/436178949/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Only make changes to your sprite if it makes sense. If you are already happy with the way your sprite looks you can move to the next task.
+
+--- /task ---
+Add code to your sprite to change the way it looks. Only make changes to your sprite if it makes sense. If you are already happy with the way your sprite looks you can move to the next task.
+
+You can use these examples to get started:
 
 --- collapse ---
 ---
@@ -89,12 +92,17 @@ Now consider adding an animation effect to make your sprite look more interestin
 
 This ghost creates an animation effect by changing its costume and brightness:
 
-**Ghost effect** - <a href="https://scratch.mit.edu/projects/436153078/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Ghost animation** - <a href="https://scratch.mit.edu/projects/436153078/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/436153078/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Choose one of these ideas as a starting point and make changes to get the effect you want. 
+--- /task ---
+
+--- task ---
+Add code to your sprite to create an animation effect. If you don't think your sprite needs an animation you can skip this task. 
+
+Choose one of these examples as a starting point and make changes to get the effect you want:
 
 --- collapse ---
 ---
