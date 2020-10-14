@@ -15,10 +15,11 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- /task ---
 
+Each sprite has a different algorithm which makes its behaviour unique.
+
 --- task ---
 
-In the example projects, now compare the programs of sprites whose movement and appearance are relevant to your project. Each sprite has a different algorithm which makes its behaviour unique.
-
+In the example projects, now compare the programs of sprites whose movement and appearance are relevant to your project. 
 --- collapse ---
 ---
 
