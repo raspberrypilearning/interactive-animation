@@ -8,7 +8,7 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- print ---
 
-Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
+Have a look at the [Make a difference](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
 
 --- /print ---
 
