@@ -1,4 +1,4 @@
-## Looks and animation
+## Animate your sprite
 
 Now let's look at how you can change the way your sprite looks. You can make changes to the way your sprite always looks, or you can switch between different looks to create animation effects. 
 
