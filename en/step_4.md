@@ -189,7 +189,7 @@ Change the degrees by which your sprite `moves`{:class="block3control"} to `1` a
  
 --- task ---
 
-Select your first sprite. If you want to use a pre-made animated sprite then explore sprites which already have a number of costumes. Otherwise you can make them yourself in the next step. 
+Select your first sprite.
 
 --- /task ---
 
