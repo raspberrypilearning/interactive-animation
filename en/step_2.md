@@ -8,7 +8,9 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- no-print ---
 
-Click the green flags below to **experience** the example Scratch projects. Look at the appearance of each sprite and how they move. Can you identify the projects where the sprites are interactive?:
+Click the green flags below to **experience** the example Scratch projects. Look at the appearance of each sprite and how they move. Can you identify the projects where the sprites are interactive?
+
+Give some thought to **your** project's theme, how it will look and the way you want **your** sprites to move:
 
 **Popping balloons**:
 <div class="scratch-preview">
