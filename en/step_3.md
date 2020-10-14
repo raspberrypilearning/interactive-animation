@@ -4,7 +4,7 @@ Now it's time to start working on your own project. You may be bursting with ide
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, to look at the range of sprites and backgrounds, and take 5 minutes to think about **your** Make a difference project. 
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, to look at the range of sprites and backdrops, and take 5 minutes to think about **your** Make a difference project. 
 
 + What mood do you want to create? Relaxing, Energising, Funny?
 + Which backdrop will you choose? 
@@ -16,7 +16,7 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=�
 --- /task ---
 
 --- task ---
-Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. Below is a **How to …**  if you need a reminder or to understand blocks in more detail.
+Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. Below is an example of a **How to …**. You can use these if you need a reminder or to understand blocks in more detail.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
@@ -30,6 +30,7 @@ Add your first sprite. You will always be able to change the way it looks or add
 --- /task ---
 
 --- task ---
+
 Give your project a name that matches your theme. 
 
 --- collapse ---
