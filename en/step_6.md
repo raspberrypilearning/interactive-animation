@@ -29,6 +29,7 @@ title: Click to make sound and motion
 
 You can make your sprite perform an action such as playing a sound or moving when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
 
+** Chirp and jump back when clicked ** - <a href="https://scratch.mit.edu/projects/435649420/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -53,6 +54,7 @@ title: Click to change and then change back
 
 You can add actions that make a change to a sprite and then reverse them such as growing, waiting and then shrinking. 
 
+** Squash ball when clicked ** - <a href="https://scratch.mit.edu/projects/435723273/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435723273/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -78,6 +80,7 @@ title: Click to make a change, reset with green flag
 ---
 You can make your sprite change when you click on it and then reset it when the green flag is clicked. 
 
+**Balloon pop when clicked** - <a href="https://scratch.mit.edu/projects/435725465/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435725465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -102,6 +105,11 @@ clear graphic effects
 ```
 
 --- /collapse ---
+
+--- /task ---
+
+--- task ---
+Keep changing and testing your code until you are happy with the way your sprite reacts when you click on it. 
 
 --- /task ---
 
