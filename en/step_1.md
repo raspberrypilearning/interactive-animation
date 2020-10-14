@@ -1,7 +1,7 @@
 ## Introduction
 Create a project - relaxing, energising, funny, inspiring - to try and change someone’s mood using sprites that move over a backdrop.
 
-You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. Your prooject might have balls bouncing around, birds that flap their wings, cars that drive across the Stage or hearts that float around. Your sprites could do something when you click on them. You could have a bird that squawks, a heart that glows or a balloon that pops.
+You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. Your project might have balls bouncing around, birds that flap their wings, cars that drive across the Stage or hearts that float around. Your sprites could do something when you click on them. You could have a bird that squawks, a heart that glows or a balloon that pops.
 
 Before starting this project we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) pathway: [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}, [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"} and [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}.
 
