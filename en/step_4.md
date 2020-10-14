@@ -212,7 +212,7 @@ Remember to keep running your project to test it. Is the program working as you 
 
 --- task ---
 
-Increase the number of steps in `move`{:class="block3motion"} `5` `steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower.
+Increase the number of steps in `move ( ) steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower.
 
 --- /task ---
 
