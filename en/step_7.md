@@ -2,17 +2,20 @@
 .keyword {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
+  font-weight:bold;
+  border-bottom: 2px dotted black;
 }
 
 .keyword .definition {
   visibility: hidden;
   width: 120px;
-  background-color: black;
-  color: white;
-  text-align: center;
+  background-color: white;
+  color: black;
+  text-align: left;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 10px;
+  border-width: 2px;
+  border-style: solid;
   position: absolute;
   z-index: 1;
 }
