@@ -42,7 +42,7 @@ title: What you will learn
 ---
 
 + How to apply your skills to realise your own project ideas
-+ How to debug your program
++ How to select the appropriate block for your plan
 + How to reflect on your learning
 
 --- /collapse ---
