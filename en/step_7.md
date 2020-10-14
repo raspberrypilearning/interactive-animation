@@ -1,9 +1,9 @@
 ## Add more sprites
-Now you've got one sprite moving the way you want it to, add another sprite to make your animation more dynamic. 
+Now you've got one sprite moving the way you want it to, add another sprite to make your animation more dynamic.
 
 --- task ---
 
-**Investigate** the example projects where the sprite movement seems relevant to your ideas.
+**Investigate** the example projects where the sprite movement seems relevant to your ideas. Professional programmers explore and take inspiration from code created by other programmers.
 
 --- collapse ---
 ---
@@ -19,8 +19,6 @@ title: How to investigate a project's code
 **Bouncing balls** - <a href="https://scratch.mit.edu/projects/425675232/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 **Love hearts** - <a href="https://scratch.mit.edu/projects/408665598/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
-
-**Tip:** Professional programmers explore and take inspiration from code created by other programmers.
 
 Investigate the **Code** tab of each sprite. Each sprite has a different **algorithm** which makes its behaviour unique:
 
