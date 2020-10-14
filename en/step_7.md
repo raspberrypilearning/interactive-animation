@@ -1,3 +1,27 @@
+<style>
+.keyword {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.keyword .definition {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.keyword:hover .definition {
+  visibility: visible;
+}
+</style>
+
 ## Add more sprites
 Now you've got one sprite moving the way you want it to, add another sprite to make your animation more dynamic.
 
@@ -15,7 +39,7 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- /task ---
 
-Each sprite has a different algorithm which makes its behaviour unique.
+Each sprite has a different <span class="keyword">algorithm<span class="definition">A set of precise instructions for performing a task.</span></span> which makes its behaviour unique.
 
 --- task ---
 
@@ -226,5 +250,5 @@ If you have time, keep adding more sprites. Make each one a little different to 
 
 --- save ---
 
-*[algorithm]: A set of precise instructions for performing a task.
+* [algorithm]: A set of precise instructions for performing a task.
 
