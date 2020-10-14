@@ -18,26 +18,9 @@ title: Skills you should have
 --- /collapse ---
 
 ## What you will make
-In this example project below, Popping balloons, the balloons move around the stage in different ways using loops. 
+In these example images taken from project sprites are animated in different ways using loops. 
 
---- task ---
-
-
---- no-print ---
-Click on the green flag to see one of the example projects run. When you click on a balloon, it will burst, 'pop' and dissappear.
-
-**Balloon pop** - <a href="https://scratch.mit.edu/projects/425346741/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435808726/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
 ![Complete project](images/showcase_static.png){:width="400px"}
---- /print-only ---
-
---- /task ---
 
 --- collapse ---
 ---
