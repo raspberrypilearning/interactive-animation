@@ -8,11 +8,12 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 
 Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line." 
 
+--- no-print ---
+
 `See inside`{:class="block3motion"} buttons in Scratch projects allow you to **investigate** a project's code. Click on the button below to explore the project 'Hum'.
 
 **Hum** - <a href="https://scratch.mit.edu/projects/435667657/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
---- no-print ---
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435667657/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -32,9 +33,10 @@ Now start making your sprite move. If you need a reminder about how to create yo
 title: Bounce across the Stage
 
 ---
+--- no-print ---
+
 **Groovy!** - <a href="https://scratch.mit.edu/projects/433535326/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
---- no-print ---
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433535326/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -64,9 +66,9 @@ Add a `set rotation  style`{:class="block3motion"} block and select the drop-dow
 title: Bounce up and down the Stage
 
 ---
-**Ouch!** - <a href="https://scratch.mit.edu/projects/433595822/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
-
 --- no-print ---
+
+**Ouch!** - <a href="https://scratch.mit.edu/projects/433595822/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433595822/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -97,9 +99,10 @@ Add a `set rotation  style`{:class="block3motion"} block and select the drop-dow
 title: Bounce at an angle
 
 ---
-**Boing!** - <a href="https://scratch.mit.edu/projects/433536479/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 --- no-print ---
+
+**Boing!** - <a href="https://scratch.mit.edu/projects/433536479/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433536479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -131,9 +134,9 @@ Add a `set rotation  style`{:class="block3motion"} block and select the drop-dow
 title: Spin around
 
 ---
-**Batty** - <a href="https://scratch.mit.edu/projects/435704980/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
-
 --- no-print ---
+
+**Batty** - <a href="https://scratch.mit.edu/projects/435704980/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435704980/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -160,9 +163,9 @@ title: Move in a circle
 
 ---
 
-**Moon** - <a href="https://scratch.mit.edu/projects/435701055/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
-
 --- no-print ---
+
+**Moon** - <a href="https://scratch.mit.edu/projects/435701055/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435701055/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -182,7 +185,6 @@ turn right (1) degrees :: motion
 Change the degrees by which your sprite `moves`{:class="block3control"} to `1` and `turns`{:class="block3control"} to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to move in a big cirle.
 
 --- /collapse ---
-
 
 --- /task ---
  
