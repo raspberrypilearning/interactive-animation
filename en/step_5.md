@@ -4,19 +4,14 @@ Now let's look at how you can change the way your sprite looks. You can make cha
 
 
 --- task ---
-Think about how you want to set and change the appearance of your sprite to create an interesting effect. 
+First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects to change the appearance of your sprite?
 
-This ghost is set to a `size`{:class="block3looks"} of `125%` to make it bigger and its `ghost`{:class="block3looks"} effect is set to `25` so that you can see the background behind it. The size and ghost effect are set once and do not change. The ghost changes costume and brightness to create an interesting animation effect as it moves. 
+This ghost is big and you can see the backdrop through it:
 
+**Ghost effect** - - <a href="https://scratch.mit.edu/projects/436178949/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/436153078/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/436178949/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
---- /task ---
-
---- task ---
-
-First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects such as the ghost effect?
 
 Only make changes to your sprite if it makes sense. If you are already happy with the way your sprite looks you can move to the next task.
 
@@ -92,10 +87,11 @@ clear graphic effects
 
 Now consider adding an animation effect to make your sprite look more interesting. 
 
-**Sun** - <a href="https://scratch.mit.edu/projects/425346741/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+This ghost creates an animation effect by changing its costume and brightness:
 
+**Ghost effect** - - <a href="https://scratch.mit.edu/projects/436153078/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425346741/?autostart=false" frameborder="0"></iframe>
+  <iframe src="https://scratch.mit.edu/projects/436153078/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 Choose one of these ideas as a starting point and make changes to get the effect you want. 
