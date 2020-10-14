@@ -6,9 +6,11 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 
 --- task ---
 
-Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line."
+Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line." 
 
-**Hum** - <a href="https://scratch.mit.edu/projects/435667657/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+`See inside`{:class="block3motion"} buttons in Scratch projects allow you to **investigate** a project's code. Click on the button below to explore the project 'Hum'.
+
+**Hum** - <a href="https://scratch.mit.edu/projects/435667657/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 --- no-print ---
 
@@ -32,7 +34,7 @@ If you know which block to use then move to the next step.
 title: Bounce across the Stage
 
 ---
-**Groovy!** - <a href="https://scratch.mit.edu/projects/433535326/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+**Groovy!** - <a href="https://scratch.mit.edu/projects/433535326/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 --- no-print ---
 <div class="scratch-preview">
@@ -64,7 +66,7 @@ Add a `set rotation  style`{:class="block3motion"} block and select the drop-dow
 title: Bounce up and down the Stage
 
 ---
-**Ouch!** - <a href="https://scratch.mit.edu/projects/433595822/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+**Ouch!** - <a href="https://scratch.mit.edu/projects/433595822/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 --- no-print ---
 
@@ -97,7 +99,7 @@ Add a `set rotation  style`{:class="block3motion"} block and select the drop-dow
 title: Bounce at an angle
 
 ---
-**Boing!** - <a href="https://scratch.mit.edu/projects/433536479/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+**Boing!** - <a href="https://scratch.mit.edu/projects/433536479/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 --- no-print ---
 
@@ -131,7 +133,7 @@ Add a `set rotation  style`{:class="block3motion"} block and select the drop-dow
 title: Spin around
 
 ---
-**Batty** - <a href="https://scratch.mit.edu/projects/435704980/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+**Batty** - <a href="https://scratch.mit.edu/projects/435704980/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 --- no-print ---
 
@@ -160,7 +162,7 @@ title: Move in a circle
 
 ---
 
-**Moon** - <a href="https://scratch.mit.edu/projects/435701055/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See Inside</a>
+**Moon** - <a href="https://scratch.mit.edu/projects/435701055/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 --- no-print ---
 
