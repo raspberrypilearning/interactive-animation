@@ -12,7 +12,7 @@ title: Skills you should have
 + How to add code to sprites and a backdrop
 + How to use the tools in the Paint editor to add details to a sprite
 + How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
-+ How to use `motion`{:class="block3motion"} blocks to create animation
++ How to use `Motion`{:class="block3motion"} blocks to create animation
 + How to use costumes to customise sprites
 + How to use the `forever`{:class="block3control"} block
 + How use use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
@@ -20,7 +20,7 @@ title: Skills you should have
 --- /collapse ---
 
 ## What you will make
-You will be introduced to a range of project where sprites are animated in different ways using loops. 
+You will apply your skills to make a unique project of your own. You will be introduced to a range of creative project where sprites are animated in different ways using loops. 
 
 ![Complete project](images/showcase_static.png){:width="400px"}
 
