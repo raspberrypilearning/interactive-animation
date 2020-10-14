@@ -78,14 +78,12 @@ The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"}
 + brightness
 + ghost
 
-
-
 Try `setting`{:class="block3looks"} the different effect values to see what each one does. Explore how different value changes make your sprite look.
 
 ```blocks3
-set [whirl v] effect to (300)
+set [whirl v] effect to (100)
 
-set [pixelate v] effect by (50)
+set [pixelate v] effect to (50)
 ```
 
 --- /collapse ---
