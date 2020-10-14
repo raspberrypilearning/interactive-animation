@@ -18,7 +18,7 @@ title: Skills you should have
 --- /collapse ---
 
 ## What you will make
-In these example images taken from project sprites are animated in different ways using loops. 
+You will be introduced to a range of project where sprites are animated in different ways using loops. 
 
 ![Complete project](images/showcase_static.png){:width="400px"}
 
