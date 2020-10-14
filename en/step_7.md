@@ -17,7 +17,12 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-In the example projects, now compare the code of the relevant sprites by exploring their **Code** tab. Each sprite has a different **algorithm** which makes its behaviour unique:
+In the example projects, now compare the programs of the relevant sprites by exploring their **Code** tab. Each sprite has a different **algorithm** which makes its behaviour unique.
+
+--- collapse ---
+---
+
+title: Comparing programs
 
 + `motion`{:class="block3motion"} blocks - **compare** the code used to create the movement for each sprite.
 
@@ -27,6 +32,8 @@ In the example projects, now compare the code of the relevant sprites by explori
 
 Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
+
+--- /collapse ---
 
 --- /task ---
 
