@@ -39,7 +39,7 @@ Investigate the **Costumes** tab:
 
 --- task ---
 
-Either duplicate your first sprite to create the starting point for the next. The code gets copied too which saves you time.
+You now need to create a second sprite. Either duplicate your first sprite if you want multiples of the same sprite OR create a new sprite and copy over the first sprite's code.  If you selected a first sprite which had a series of costumes, why not select a second sprite where you will need to make its costumes.
 
 --- collapse ---
 ---
@@ -51,8 +51,7 @@ title: Duplicate a sprite
 Right click on your first sprite in the Sprite list below the Stage (or if you are using a tablet, tap and hold):
 ![Image right click first sprite](images/challenge1-right-click-sprite.png){:width="300px"}
 
-Select 'duplicate'. This will create a copy of your first 1 sprite with the suffix '2'.
-:
+Select 'duplicate'. This will create a copy of your first 1 sprite with the suffix '2':
 ![Image duplicate sprite](images/challenge1-duplicate-sprite.png){:width="300px"}
 
 Rename your sprite:
@@ -63,8 +62,6 @@ Your sprite's name will change in the Sprite list:
 
 --- /collapse ---
 
-Or select a new sprite and copy the code from the first sprite to the second sprite
-
 --- collapse ---
 ---
 
@@ -73,27 +70,24 @@ title: Copy sprite code
 ---
 In the Sprite menu, go to **Choose a Sprite** and select your second sprite.
 
-Click the first sprite and go to its **Code** tab. Drag the code that is int he first sprite to the second sprite. M<akesure you copy all thecode scriptsthatyou have created.,You may have one script that starts with `when the green flag clicked`{:class="block3events"}andanother that starts with `when thissprite clicked`{:class="block3events"}.
+Click the first sprite and go to its **Code** tab. Drag the code that is in the first sprite to the second sprite. You may have one script that starts with `when the green flag clicked`{:class="block3events"} as well as another script that starts with `when this sprite clicked`{:class="block3events"}. Make sure you copy **all** the code scripts that you have created. 
 
-![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
+![Image copy code to sprite](images/challenge1-sprite-list.gif){:width="300px"}
 
 --- /collapse ---
 --- /task ---
 
-Remember, your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite as you will not see the second sprite because it is sitting underneath the first sprite.
+Your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite. You will not see the second sprite because it is sitting underneath the first sprite.
 
 --- task ---
 
-Your could alter the second sprite's position, colour or size. Ask yourself the following questions:
-+ What position will your second sprite start from?
-+ What colour will the second sprite be? Or do you want to change the sprite altogehter?
-+ How big should the second sprite be? 
-+ Which direction should the second sprite point in?
-+ How will the second sprite move differently to the first sprite? What pattern of movement will it have?
-
-+ Will the sprite appear behind or in front or other sprites?
-
-
+Ask yourself the following questions about the second sprite:
++ What position will it start from?
++ Does it need to be a different colour?
++ How big should it be? 
++ Which direction should it point in?
++ How will it move differently to the first sprite?
++ Will it appear behind or in front or other sprites?
 
 --- /task ---
 
@@ -101,12 +95,12 @@ Your could alter the second sprite's position, colour or size. Ask yourself the 
 
 Selected the second sprite in the Sprite list and click on its **Code** tab.
 
-Now edit the code so that the new sprite does what you want it to do. You may want to delete blocks of code that you used  in the first sprite but do not need for the second sprite.
+Now edit the code so that the new sprite does what you want it to do. You may want to delete blocks of code that you used in the first sprite but do not need for the second sprite.
 
 --- collapse ---
 ---
 
-title: Deleting  code
+title: Deleting code
 
 ---
 
@@ -124,7 +118,7 @@ You can delete blocks of code in a number of ways:
 
 --- task ---
 
-Use the below **How tos...** to get your second sprite animating as you had planned.
+Your could alter the second sprite's position, colour or size. 
 
 --- collapse ---
 ---
