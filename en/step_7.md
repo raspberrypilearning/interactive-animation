@@ -153,7 +153,7 @@ Repeat the steps above with any part of the costume you have missed or for any o
 
 --- /collapse ---
 
-For a reminder on **How to...** change the second sprite's size go to the earlier step 'Change your sprite's looks'.
+For a reminder on **How to...** change the second sprite's size go to the earlier step **Change your sprite's looks**.
 
 --- /task ---
 
