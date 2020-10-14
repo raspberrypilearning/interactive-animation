@@ -31,6 +31,8 @@ Investigate the **Code** tab of each sprite. Each sprite has a different **algor
 Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
 
+*[algorithm]: A set of precise instructions for performing a task.
+
 --- /collapse ---
 
 --- /task ---
@@ -197,7 +199,5 @@ You may want to tweak the position, size, layers etc of your second sprite. It s
 If you have time, keep adding more sprites. Make each one a little different to the others. 
 
 --- /task ---
-
-*[algorithm]: A set of precise instructions for performing a task.
 
 --- save ---
