@@ -14,6 +14,9 @@ This jellyfish is big and you can see the backdrop through it:
 
 
 --- /task ---
+
+--- task ---
+
 Add code to your sprite to change the way it looks. Only make changes to your sprite if it makes sense. If you are already happy with the way your sprite looks you can move to the next task.
 
 You can use these examples to get started:
