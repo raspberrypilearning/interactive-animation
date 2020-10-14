@@ -17,7 +17,7 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-In the example projects, now compare the programs of the relevant sprites by exploring their **Code** tab. Each sprite has a different **algorithm** which makes its behaviour unique.
+In the example projects, now compare the programs of the relevant sprites. Each sprite has a different **algorithm** which makes its behaviour unique.
 
 --- collapse ---
 ---
