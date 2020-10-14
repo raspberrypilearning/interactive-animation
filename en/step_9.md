@@ -14,7 +14,7 @@ I applied my skills to realise my own project ideas
 I used an `if on edge, bounce`{:class="block3motion"} inside a `forever`{:class="block3control"} loop to make my sprite turn away from the edge of the stage
 --- /task ---
 --- task ---
-I used a `forever`{:class="block3control"} loop to make a sprite repeat code 
+I used a `forever`{:class="block3control"} loop to animate my sprite
 --- /task ---
 --- task ---
 I modified a costume in the Paint editor
@@ -23,10 +23,10 @@ I modified a costume in the Paint editor
 I used `graphic effect`{:class="block3looks"} blocks to change how my sprite appeared
 --- /task ---
 --- task ---
-I used `when this sprite clicked`{:class="block3events"} blocks to create user interaction
+I used the `when this sprite clicked`{:class="block3events"} block to create user interaction
 --- /task ---
 --- task ---
-I used `size`{:class="block3looks"} or `layer`{:class="block3looks"} blocks to make scene have more depth
+I used `size`{:class="block3looks"} or `layer`{:class="block3looks"} blocks to make the animation appear more 3-dimensional
 --- /task ---
 --- task ---
 I used a **How to ...** to find out more about Scratch blocks
