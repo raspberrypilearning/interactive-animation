@@ -1,31 +1,3 @@
-<style>
-.keyword {
-  position: relative;
-  display: inline-block;
-  font-weight:bold;
-  border-bottom: 2px dotted black;
-}
-
-.keyword .definition {
-  visibility: hidden;
-  font-weight: normal;
-  width: 250px;
-  background-color: white;
-  color: black;
-  text-align: left;
-  border-radius: 6px;
-  padding: 10px;
-  border-width: 2px;
-  border-style: solid;
-  position: absolute;
-  z-index: 1;
-}
-
-.keyword:hover .definition {
-  visibility: visible;
-}
-</style>
-
 ## Add more sprites
 Now you've got one sprite moving the way you want it to, add another sprite to make your animation more dynamic.
 
@@ -255,4 +227,34 @@ If you have time, keep adding more sprites. Make each one a little different to 
 --- save ---
 
 * [algorithm]: A set of precise instructions for performing a task.
+
+<style>
+.keyword {
+  position: relative;
+  display: inline-block;
+  font-weight:bold;
+  border-bottom: 2px dotted black;
+}
+
+.keyword .definition {
+  visibility: hidden;
+  font-weight: normal;
+  width: 275px;
+  background-color: white;
+  color: black;
+  text-align: left;
+  border-radius: 6px;
+  padding: 10px;
+  border-width: 2px;
+  border-style: solid;
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  z-index: 1;
+}
+
+.keyword:hover .definition {
+  visibility: visible;
+}
+</style>
 
