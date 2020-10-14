@@ -23,14 +23,14 @@ Give some thought to **your** project's theme, how it will look and the way you 
   <iframe src="https://scratch.mit.edu/projects/435808726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Animal behaviour**:
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
-</div>
-
 **Bouncing balls**:
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Animal behaviour**:
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
 </div>
 
 **Love hearts**:
