@@ -2,6 +2,18 @@
 
 Now let's look at how you can change the way your sprite looks. You can make changes to the way your sprite always looks, or you can switch between different looks to create animation effects. 
 
+
+--- task ---
+Think about how you want to set and change the appearance of your sprite to create an interesting effect. 
+
+This ghost is set to a `size`{:class="block3looks"} of `125%` to make it bigger and its `ghost`{:class="block3looks"} effect is set to `25` so that you can see the background behind it. The size and ghost effect are set once and do not change. The ghost changes costume and brightness to create an interesting animation effect as it moves. 
+
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/436153078/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
+--- /task ---
+
 --- task ---
 
 First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects such as the ghost effect?
@@ -147,6 +159,8 @@ When a sprite reaches its last costume,  the `next costume`{:class="block3looks"
 You can combine animation with movement to create sprites that walk or fly.
 
 --- /collapse ---
+
+If your sprite doesn't have costumes that are suitable for animation then you can make your own:
 
 --- collapse ---
 ---
