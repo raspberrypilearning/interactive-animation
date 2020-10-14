@@ -2,6 +2,8 @@
 
 Now you are going to change the way your sprite looks. You can make changes to the way your sprite always looks, or you can switch between different looks to create animation effects. 
 
+**Note:** In this step you will add new scripts to your sprite so you will have more than one script that starts with `when green flag clicked`{:class="block3control"} and they will all run when you click the green flag to start your project. 
+
 --- task ---
 First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects to change the appearance of your sprite?
 
