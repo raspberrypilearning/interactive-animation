@@ -14,7 +14,6 @@ This chick chirps and jumps backwards when you click on it:
 
 --- /task ---
 
-
 --- task ---
 
 Add code to make your sprite do something when it is clicked. You can pick one of these examples as a starting point.
