@@ -35,7 +35,12 @@ set size to (50) %
 
 If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
 
-If place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started. 
+Place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started: 
+
+```blocks3
+when flag clicked
+set size to (50) %
+```
 
 You can also quickly set the size of a sprite by changing its Size under the Stage:
 
@@ -54,6 +59,13 @@ title: Set graphic effects
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
 </div>
 
+Place a `set graphic effects`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started:
+
+```blocks3
+when flag clicked
+set [ghost v] effect to (25)
+```
+
 The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects that can be used to change how your sprite appears.
 
 + colour
@@ -64,24 +76,14 @@ The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"}
 + brightness
 + ghost
 
-Try `setting`{:class="block3looks"} or `changing`{:class="block3looks"} the different effect values to see what each one does. Explore how different value changes make your sprite look.
+
+
+Try `setting`{:class="block3looks"} the different effect values to see what each one does. Explore how different value changes make your sprite look.
 
 ```blocks3
 set [whirl v] effect to (300)
 
-change [pixelate v] effect by (50)
-
-change [ghost v] effect by (75)
-wait (1) seconds
-change [ghost v] effect by (-75)
-```
-
-**Note:** If you use code that changes a graphic effect and then changes it back again, don't forget to use a `wait`{:class="block3control"} block in between.
-
-You can use a `clear graphic effects`{:class="block3looks"} block at any time to reset the effects.
-
-```blocks3
-clear graphic effects
+set [pixelate v] effect by (50)
 ```
 
 --- /collapse ---
@@ -139,6 +141,22 @@ end
 This code uses a series of `change sizes`{:class="block3looks"} and `waits`{:class="block3control"} to make the heart grow and shrink. Try creating your own pulsating sprite.
 
 You could also try changing `graphic effects`{:class="block3looks"} to create a sprite that keeps changing its appearance. 
+
+
+```blocks3
+when flag clicked
+change [ghost v] effect by (75)
+wait (1) seconds
+change [ghost v] effect by (-75)
+```
+
+**Note:** If you use code that changes a graphic effect and then changes it back again, don't forget to use a `wait`{:class="block3control"} block in between, otherwise it will happen so fast that you won't see it!
+
+You can use a `clear graphic effects`{:class="block3looks"} block at any time to reset the effects.
+
+```blocks3
+clear graphic effects
+```
 
 --- /collapse ---
 
