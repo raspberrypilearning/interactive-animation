@@ -24,6 +24,8 @@ In the example projects, now compare the programs of the relevant sprites. Each 
 
 title: Comparing programs
 
+---
+
 + `motion`{:class="block3motion"} blocks - **compare** the code used to create the movement for each sprite.
 
 + explore how various `looks`{:class="block3looks"} blocks are used to alter the size and **appearance** of a sprite.
