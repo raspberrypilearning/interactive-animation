@@ -6,20 +6,9 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
-Click the green flag on each project to see the code run.
-
-Give some thought to **your** projects theme, how it will look and the way you want **your** sprites to move.
-
---- print-only ---
-
-Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio or explore some projects which are given below.
-
---- /print-only ---
-
-
 --- no-print ---
 
-Click on the green flags below to **experience** the following example Scratch projects. Look at the appearance of each sprite and how they move. Can you identify which two projects are interactive?:
+Click the green flags below to **experience** the example Scratch projects. Look at the appearance of each sprite and how they move. Can you identify the projects where the sprites are interactive?:
 
 **Popping balloons**:
 <div class="scratch-preview">
