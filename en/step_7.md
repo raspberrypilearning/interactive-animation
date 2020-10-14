@@ -15,8 +15,9 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 **Love hearts** - <a href="https://scratch.mit.edu/projects/408665598/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
-
 --- /task ---
+
+--- task ---
 
 Now compare sprites and/or projects code. Explore the **Code** tab of each sprite. Each sprite has a different **algorithm** which makes its behaviour unique:
 
@@ -29,7 +30,7 @@ Now compare sprites and/or projects code. Explore the **Code** tab of each sprit
 Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
 
-
+--- /task ---
 
 --- task ---
 
@@ -46,7 +47,7 @@ Ask yourself the following questions about the second sprite:
 
 --- task ---
 
-You now need to create a second sprite. Choose one of these methods:
+Choose one of these three methods to create a second sprite: 
 + Duplicate your first sprite if you want multiples of the same sprite
 + create a new sprite and copy over the first sprite's code 
 + create a new sprite and start coding it from the beginning
@@ -109,6 +110,10 @@ Within the Stage, use the mouse or touch-screen to drag your second sprite to th
 
 Alternatively, use the `motion`{:class="block3motion"} block `go to x: () y: ()`{:class="block3motion"} as part of your set-up code so that the sprite will always start in the x and y position that you set.
 
+```blocks3
+go to x: () y: ()
+```
+
 --- /collapse ---
 
 --- collapse ---
@@ -122,7 +127,7 @@ Change the colour of your sprite. Click on the second sprite in the Sprite menu.
 
 Use the **arrow tool** to highlight whichever part of the costume you want to change colour.
 
-![Image showing arrow tool in Paint editor](images/challenge1-arrow-tool.png){:width="300px"}
+![Image showing arrow tool in Paint editor](images/challenge1-arrow-tool.png){:width="200px"}
 
 ![Image showing arrow tool selecting shape](images/challenge1-arrow-tool-selecting-shape.png){:width="300px"}
 
@@ -156,7 +161,8 @@ You can delete blocks of code in a number of ways:
 + Drag individual blocks away from the main script, leaving the blocks with in the Code window. 
 + Delete the blocks of code for good by dragging them towards the Blocks menu.
 + Select the block you want to delete and right-click witth the mouse. Select the 'delete block' option.
-![Image showing delete block option](images/challenge1-delete-block-option.png){:width="300px"}
+
+![Image showing delete block option](images/challenge1-delete-block-option.png){:width="400px"}
 
 **Tip**: in programming, there is often more than one way to do something.
 
@@ -166,7 +172,7 @@ You can delete blocks of code in a number of ways:
 
 --- task ---
 
-Go back to the **How to...** on the earlier step 'Make a sprite bounce' for `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
+Go back to the step 'Make a sprite bounce' to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
 
 --- /task ---
 
@@ -180,6 +186,16 @@ Change where your second sprite sits in relation to the first sprite. Layering s
 title: Layers
 
 ---
+There are two ways to create layering.
+
+Either, in the Stage area, click on the sprite you want as the front layer. Drag it over the front of the other sprite. This layering will stay when you run the program next time.
+
+Or, use a `go to front layer`{:class="block3looks"} block to the relevant sprite and select either a drop down `front`{:class="block3looks"} or `back`{:class="block3looks"} and add it to the set-up under a `when green flag clicked`{:class="block3events"} block.
+
+```blocks3
+go to [front v] layer
+```
+
 
 --- /collapse ---
 
