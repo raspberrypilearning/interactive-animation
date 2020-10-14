@@ -6,6 +6,12 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- task ---
 
+--- print ---
+
+Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
+
+--- /print ---
+
 --- no-print ---
 
 Click the green flags below to **experience** the example Scratch projects. Look at the appearance of each sprite and how they move. Can you identify the projects where the sprites are interactive?
