@@ -5,6 +5,13 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 **Investigate** the example projects where the sprite movement seems relevant to your ideas.
 
+--- collapse ---
+---
+
+title: How to investigate a project's code
+
+---
+
 **Popping balloons** - <a href="https://scratch.mit.edu/projects/435808726/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 **Animal behaviour** - <a href="https://scratch.mit.edu/projects/433177517/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
@@ -25,6 +32,8 @@ Investigate the **Code** tab of each sprite. Each sprite has a different **algor
 
 Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
+
+--- /collapse ---
 
 --- /task ---
 
