@@ -183,7 +183,7 @@ You can delete blocks of code in a number of ways:
 
 --- task ---
 
-Now edit the code so that the new sprite animates theway you want it to. 
+Now edit the code so that the new sprite animates the way you want it to. 
 
 Go to the step **Make a sprite bounce** for a reminder on how to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
 
@@ -191,7 +191,7 @@ Go to the step **Make a sprite bounce** for a reminder on how to add or change t
 
 --- task ---
 
-Change how your second sprite appears in relation to the first sprite. Layering sprites helps sprites appear 3-dimensionally in relation to each other and within the backdrop.
+Change how your second sprite appears in relation to the first sprite. Layering sprites helps them appear 3-dimensional in relation to each other and within the backdrop.
 
 --- collapse ---
 ---
