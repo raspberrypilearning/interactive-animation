@@ -68,15 +68,15 @@ when flag clicked
 set [ghost v] effect to (25)
 ```
 
-The `set colour`{:class="block3looks"} and `change colour`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects that can be used to change how your sprite appears.
+The `set color`{:class="block3looks"} and `change color`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects that can be used to change how your sprite appears.
 
-+ colour
-+ fisheye
-+ whirl
-+ pixelate
-+ mosaic
-+ brightness
-+ ghost
++ color: from 0 to 199 (bigger numbers will wrap around so 200 is the same as 0)
++ fisheye: 0 is no effect and bigger numbers give a bigger 'bulge' effect
++ whirl: 0 is no effect, big number give a big whirl to the left, big negative number give a big whirl to the right
++ pixelate: 0 is no effect, bigger numbers give more pixels
++ mosaic: 0 is no effect, bigger numbers create more copies
++ brightness: 0 is no effect, bigger numbers up to 100 make the sprite lighter and negative numbers down to -100 make the sprite darker 
++ ghost: 0 is no effect, bigger numbers up to 100 make the sprite more transparent, 
 
 Try `setting`{:class="block3looks"} the different effect values to see what each one does. Explore how different value changes make your sprite look.
 
