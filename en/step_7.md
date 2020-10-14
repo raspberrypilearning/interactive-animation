@@ -77,7 +77,7 @@ Click the first sprite and go to its **Code** tab. Drag the code that is in the 
 --- /collapse ---
 --- /task ---
 
-Your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite. You will not see the second sprite because it is sitting underneath the first sprite.
+Your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite - you will not see the second sprite because it is sitting underneath the first sprite.
 
 --- task ---
 
@@ -93,32 +93,9 @@ Ask yourself the following questions about the second sprite:
 
 --- task ---
 
-Selected the second sprite in the Sprite list and click on its **Code** tab.
+Selected the second sprite in the Sprite list and click on its **Code** tab. Now edit the code so that the new sprite does what you want it to do. 
 
-Now edit the code so that the new sprite does what you want it to do. You may want to delete blocks of code that you used in the first sprite but do not need for the second sprite.
-
---- collapse ---
----
-
-title: Deleting code
-
----
-
-You can delete blocks of code in a number of ways:
-+ Drag individual blocks away from the main script, leaving the blocks with in the Code window. 
-+ Delete the blocks of code for good by dragging them towards the Blocks menu.
-+ Select the block you want to delete and right-click witth the mouse. Select the 'delete block' option.
-![Image showing delete block option](images/challenge1-delete-block-option.png){:width="300px"}
-
-**Tip**: in programming, there is often more than one way to do something.
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
-Your could alter the second sprite's position, colour or size. 
+Alter the second sprite's position, colour or size. 
 
 --- collapse ---
 ---
@@ -140,7 +117,7 @@ title: Colour
 
 ---
 
-Change  the colour of your sprite. Click on the second sprite in the Sprite menu. Then select its **Costumes** tab.
+Change the colour of your sprite. Click on the second sprite in the Sprite menu. Then select its **Costumes** tab.
 
 Use the **arrow tool** to highlight whichever part of the costume you want to change colour.
 
@@ -163,11 +140,30 @@ Repeat the steps above with any part of the costume you have missed or for any o
 
 --- /collapse ---
 
+Do you need to delete blocks of code?
+
+--- collapse ---
+---
+
+title: Deleting code
+
+---
+
+You can delete blocks of code in a number of ways:
++ Drag individual blocks away from the main script, leaving the blocks with in the Code window. 
++ Delete the blocks of code for good by dragging them towards the Blocks menu.
++ Select the block you want to delete and right-click witth the mouse. Select the 'delete block' option.
+![Image showing delete block option](images/challenge1-delete-block-option.png){:width="300px"}
+
+**Tip**: in programming, there is often more than one way to do something.
+
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
 
-Do you need to alter the `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} to achieve the effect you want? For a reminder on **How to...** do this explore the earlier step 'Make a sprite bounce'.
+Do you need to alter the `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} to achieve the movement you want? For a reminder on **How to...** do this explore the earlier step 'Make a sprite bounce'.
 
 --- /task ---
 
@@ -186,7 +182,7 @@ title: Layers
 
 --- /task ---
 
-You may want to tweak the position, size, layers etc of your second sprite. It sometimes takes a few attempts before you are pleased with its movement.
+You may want to tweak the position, size, layers etc of your second sprite. It may take a few attempts before you are pleased with your second sprite's movement.
 
 --- task ---
 
