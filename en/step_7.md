@@ -35,7 +35,7 @@ Investigate the **Costumes** tab:
 --- task ---
 
 Ask yourself the following questions about the second sprite:
-+ If your first sprite came with a series of costumes, do you want to make your second sprite's costumes?
++ If your first sprite came with a series of costumes, do you want to make the costumes this time?
 + What position will it start from?
 + Does it need to be a different colour?
 + How big should it be? 
