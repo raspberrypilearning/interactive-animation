@@ -10,10 +10,9 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 
 --- no-print ---
 
-`See inside`{:class="block3motion"} buttons in Scratch projects allow you to **investigate** a project's code. Click on the button below to explore the project 'Hum'.
+The **See inside** buttons in Scratch projects allow you to **investigate** a project's code. Click on the button below to explore the project 'Hum'.
 
 **Hum** - <a href="https://scratch.mit.edu/projects/435667657/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
-
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435667657/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
