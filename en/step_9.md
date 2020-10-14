@@ -5,6 +5,9 @@ How did your **Make a difference** project go? Is there anything you would do li
 Remind yourself what you have achieved:
 
 --- task ---
+I animated a sprite
+--- /task ---
+--- task ---
 I applied my skills to realise my own project ideas
 --- /task ---
 --- task ---
