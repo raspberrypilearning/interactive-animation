@@ -8,7 +8,8 @@
 
 .keyword .definition {
   visibility: hidden;
-  width: 120px;
+  font-weight: normal;
+  width: 250px;
   background-color: white;
   color: black;
   text-align: left;
