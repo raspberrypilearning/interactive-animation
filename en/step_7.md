@@ -8,7 +8,7 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 --- collapse ---
 ---
 
-title: How to investigate a project's code
+title: Investigate a project's code
 
 ---
 
