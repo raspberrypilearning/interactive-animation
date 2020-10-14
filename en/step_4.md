@@ -205,8 +205,6 @@ Click on the **Code** tab. Add code to make your sprite bounce around the Stage 
 
 Remember to keep running your project to test it. Is the program working as you had planned?
 
-**Tip**: look at the **Code** tab in the **How to ...** to understand how to make your sprite move.
-
 --- /task ---
 
 --- task ---
