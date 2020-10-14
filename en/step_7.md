@@ -39,7 +39,23 @@ Investigate the **Costumes** tab:
 
 --- task ---
 
-You now need to create a second sprite. Either duplicate your first sprite if you want multiples of the same sprite OR create a new sprite and copy over the first sprite's code.  If you selected a first sprite which had a series of costumes, why not select a second sprite where you will need to make its costumes.
+Ask yourself the following questions about the second sprite:
++ If your first sprite came with a series of costumes, do you want to make your second sprite's costumes?
++ What position will it start from?
++ Does it need to be a different colour?
++ How big should it be? 
++ Which direction should it point in?
++ How will it move differently to the first sprite?
++ Will it appear behind or in front or other sprites?
+
+--- /task ---
+
+--- task ---
+
+You now need to create a second sprite. Choose one of these methods:
++ Duplicate your first sprite if you want multiples of the same sprite
++ create a new sprite and copy over the first sprite's code 
++ create a new sprite and start coding it from the beginning
 
 --- collapse ---
 ---
@@ -60,6 +76,8 @@ Rename your sprite:
 Your sprite's name will change in the Sprite list:
 ![Image change name in list](images/challenge1-sprite-list.png){:width="300px"}
 
+Your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite - you will not see the second sprite because it is sitting underneath the first sprite.
+
 --- /collapse ---
 
 --- collapse ---
@@ -74,20 +92,9 @@ Click the first sprite and go to its **Code** tab. Drag the code that is in the 
 
 ![Image copy code to sprite](images/challenge1-sprite-list.gif){:width="300px"}
 
---- /collapse ---
---- /task ---
-
 Your second sprite has exactly the same code as your first sprite. Do not run the program until you have begun to alter the second sprite - you will not see the second sprite because it is sitting underneath the first sprite.
 
---- task ---
-
-Ask yourself the following questions about the second sprite:
-+ What position will it start from?
-+ Does it need to be a different colour?
-+ How big should it be? 
-+ Which direction should it point in?
-+ How will it move differently to the first sprite?
-+ Will it appear behind or in front or other sprites?
+--- /collapse ---
 
 --- /task ---
 
@@ -104,7 +111,7 @@ title: Position
 
 ---
 
-Within the Stage, use  the mouse or touch-screen to drag your second sprite to the position you want it to start at the beginning of the animation. The second sprite will go to this position `when the green flag clicked`{:class="block3events"}.
+Within the Stage, use the mouse or touch-screen to drag your second sprite to the position you want it to start at the beginning of the animation. The second sprite will go to this position `when the green flag clicked`{:class="block3events"}.
 
 Alternatively, use the `motion`{:class="block3motion"} block `go to x: () y: ()`{:class="block3motion"} as part of your set-up code so that the sprite will always start in the x and y position that you set.
 
@@ -140,6 +147,8 @@ Repeat the steps above with any part of the costume you have missed or for any o
 
 --- /collapse ---
 
+For a reminder on **How to...** change the second sprite's size go to the earlier step 'Change your sprite's looks'.
+
 Do you need to delete blocks of code?
 
 --- collapse ---
@@ -163,13 +172,13 @@ You can delete blocks of code in a number of ways:
 
 --- task ---
 
-Do you need to alter the `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"} to achieve the movement you want? For a reminder on **How to...** do this explore the earlier step 'Make a sprite bounce'.
+Go back to the **How to...** on the earlier step 'Make a sprite bounce' for `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
 
 --- /task ---
 
 --- task ---
 
-Change the size or layering of the second sprite to improve how it looks in relation to the other sprites and also within the backdrop. For a reminder on **How to...** do this explore the earlier step 'Change your sprite's looks'.
+Change where your second sprite sits in relation to the first sprite. Layering sprites helps them appear to sit 3-dimensionally within the backdrop.
 
 --- collapse ---
 ---
