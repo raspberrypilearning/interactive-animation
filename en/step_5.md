@@ -5,13 +5,12 @@ Now you are going to change the way your sprite looks. You can make changes to t
 --- task ---
 First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects to change the appearance of your sprite?
 
-This jellyfish is big and you can see the backdrop through it:
+This jellyfish is small and you can see the backdrop through it:
 
-**Jellyfish** - <a href="https://scratch.mit.edu/projects/436178949/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Jellyfish** - <a href="https://scratch.mit.edu/projects/436254947/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/436178949/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/436254947/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
-
 
 --- /task ---
 
@@ -95,9 +94,9 @@ Now consider adding an animation effect to make your sprite look more interestin
 
 This ghost creates an animation effect by changing its costume and brightness:
 
-**Ghost animation** - <a href="https://scratch.mit.edu/projects/436153078/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Ghost animation** - <a href="https://scratch.mit.edu/projects/436255738/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/436153078/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/436255738/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
 --- /task ---
@@ -150,13 +149,19 @@ title: Simple sprite animation with costumes
 
 Some Scratch sprites have costumes that can be used to create a simple animation. 
 
+**Avery walking** - <a href="https://scratch.mit.edu/projects/436256679/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+<div class="scratch-preview">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436256679/?autostart=false" frameborder="0"></iframe>
+</div>
+
+
 Use `next costume`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} to create an animation: 
 
 ```blocks3
 when flag clicked
 forever
 next costume
-wait (0.2) seconds
+wait (0.3) seconds
 ```
 
 One second is often too long to wait before changing to the next costume so you need to use numbers smaller than 1 in the `wait` block. A wait of `0.1` is one tenth of a second and `0.5` is half a second. If you wait `0.2` seconds then the sprite will change costumes five times every second. 
@@ -176,10 +181,10 @@ title: Duplicate and edit a costume to use in an animation
 
 Some Scratch sprites just have one costume or have multiple sprites that don't work as an animation. Choosing one costume and duplicating it and making a small change can create an animation effect. 
 
-**Robot animation** - <a href="https://scratch.mit.edu/projects/435929086/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Robot animation** - <a href="https://scratch.mit.edu/projects/436260207/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435929086/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Switch to the Costumes tab for your sprite. 
