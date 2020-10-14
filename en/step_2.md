@@ -19,7 +19,7 @@ Have a look at the [Make a difference](https://scratch.mit.edu/studios/27520550)
 
 --- no-print ---
 
-Click on the green flags below to **experience** the following example Scratch projects. Look at the appearance of each sprite and how they move:
+Click on the green flags below to **experience** the following example Scratch projects. Look at the appearance of each sprite and how they move. Some sprites are interactive:
 
 **Popping balloons**:
 <div class="scratch-preview">
