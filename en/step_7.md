@@ -226,7 +226,6 @@ If you have time, keep adding more sprites. Make each one a little different to 
 
 --- save ---
 
-* [algorithm]: A set of precise instructions for performing a task.
 
 <style>
 .keyword {

@@ -1,4 +1,4 @@
-## Make a sprite bounce
+## Make a sprite bounce or spin
 
 Now it's time to get your first sprite moving. Start with one sprite and then add more. 
 
@@ -6,11 +6,11 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 
 --- task ---
 
-Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to be really small and move quickly in a diagonal line." 
+Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to move quickly in a diagonal line." 
 
 --- no-print ---
 
-The **See inside** buttons in Scratch projects allow you to **investigate** a project's code. Click on the button below to explore the project 'Hum'.
+The **See inside** buttons in Scratch projects allow you to **investigate** a project's code. Click on the button below to explore the project 'Bouncing Dragonfly'.
 
 **Hum** - <a href="https://scratch.mit.edu/projects/435667657/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 
@@ -22,9 +22,20 @@ The **See inside** buttons in Scratch projects allow you to **investigate** a pr
 
 --- /task ---
 
+ 
 --- task ---
 
-Now start making your sprite move. If you need a reminder about how to create your sprite's movement when it bounces on the edge of the Stage then click the **How to ...** below.
+Select your first sprite by clicking or tapping on it under the Stage.
+
+Click on the **Code** tab. 
+
+--- /task ---
+
+--- task ---
+
+Add code to make your sprite bounce and/or spin around the Stage in the way you want it to. 
+
+If you need a reminder about how to create your sprite's movement when it bounces on the edge of the Stage then click the **How to ...** below.
 
 --- collapse ---
 ---
@@ -186,44 +197,21 @@ Change the degrees by which your sprite `moves`{:class="block3control"} to `1` a
 --- /collapse ---
 
 --- /task ---
- 
---- task ---
-
-Select your first sprite.
-
---- /task ---
 
 --- task ---
-
-Click on the **Code** tab. Add code to make your sprite bounce around the Stage in the way you want it to. It might take a few experiments with direction and speed to get suitable behaviour for your sprite.
-
-**Tip:** It's easier to identify issues if you make one change at a time and then run your program.
-
---- /task ---
-
---- task ---
-
 Remember to keep running your project to test it. Is the program working as you had planned?
 
---- /task ---
+It might take a few experiments to get suitable behaviour for your sprite.
 
---- task ---
+You could try:
++ Dragging your sprite to a different starting location on the Stage.
++ Increasing the number of steps in `move ( ) steps`{:class="block3motion"} to make your sprite move faster or decreasing it to move slower.
++ Changing the number of degrees in `point in direction ( )`{:class="block3motion"} to change the direction that your sprites starts moving in. 
++ Changing the number of degrees in `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} so that your sprite turns faster or slower. 
++ Combining `move ( ) steps`{:class="block3motion"} and `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} blocks so that your sprite moves and turns. 
++ Experimenting with `set rotation style [ ]`{:class="block3motion"} to make sure you understand what the different options do
 
-Increase the number of steps in `move ( ) steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower.
-
---- /task ---
-
---- task ---
-
-You may want to add a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block and change the degree value so each time your sprite moves it also turns.
-
-```blocks3
-
-turn right () degrees :: motion
-
-turn left () degrees :: motion
-
-```
+**Tip:** It's easier to identify issues if you make one change at a time and then run your program.
 
 --- /task ---
 
