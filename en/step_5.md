@@ -68,7 +68,7 @@ when flag clicked
 set [ghost v] effect to (25)
 ```
 
-The `set color`{:class="block3looks"} and `change color`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects that can be used to change how your sprite appears.
+The `set color`{:class="block3looks"} and `color`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects that can be used to change how your sprite appears.
 
 + `color`{:class="block3looks"}: from 0 to 199 (bigger numbers will wrap around so 200 is the same as 0)
 + `fisheye`{:class="block3looks"}: 0 is no effect and bigger numbers give a bigger 'bulge' effect
@@ -162,7 +162,7 @@ clear graphic effects
 
 --- collapse ---
 ---
-title: Simple sprite animation with costumes
+title: Change costumes to make a simple animation
 ---
 
 Some Scratch sprites have costumes that can be used to create a simple animation. 
