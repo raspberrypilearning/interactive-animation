@@ -23,7 +23,7 @@ Add a <span class="keyword">backdrop<span class="definition">A background image 
 --- /task ---
 
 --- task ---
-Add your first <span class="keyword">sprite<span class="definition">A character or object that can have code that makes it do something.</span></span>. You will always be able to change the way it looks or add more sprites later if you have time. 
+Add your first <span class="keyword">sprite<span class="definition">A character or object in a project, such as a Cat or a Ball.</span></span>. You will always be able to change the way it looks or add more sprites later if you have time. 
 
 [[[generic-scratch3-sprite-from-library]]]
 
