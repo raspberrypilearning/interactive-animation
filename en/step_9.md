@@ -5,10 +5,13 @@ How did your **Make a difference** project go? Is there anything you would do li
 Remind yourself what you have achieved:
 
 --- task ---
-I animated a sprite
+I planned what I wanted a sprite to do and then used Scratch blocks to make it happen
 --- /task ---
 --- task ---
-I applied my skills to realise my own project ideas
+I used a **How to ...** to find out which code blocks to use to do what I wanted.
+--- /task ---
+--- task ---
+I clicked on 'See Inside' to view the code for a project.
 --- /task ---
 --- task ---
 I used an `if on edge, bounce`{:class="block3motion"} inside a `forever`{:class="block3control"} loop to make my sprite turn away from the edge of the stage
@@ -29,10 +32,7 @@ I used the `when this sprite clicked`{:class="block3events"} block to create use
 I used `size`{:class="block3looks"} or `layer`{:class="block3looks"} blocks to make the animation appear more 3-dimensional
 --- /task ---
 --- task ---
-I used a **How to ...** to find out more about Scratch blocks
---- /task ---
---- task ---
-I found a bug in my code and fixed it
+I found a bug in my code and fixed it.
 --- /task ---
 
 You can go back and improve your project whenever you have time.
