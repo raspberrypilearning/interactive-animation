@@ -5,7 +5,7 @@ Now you're going to make changes in a loop to create an animation effect to make
 
 Think about how you want to animate your sprite using `looks`{:class="block3looks"} blocks. 
 
-This ghost creates an animation effect by changing its costume and brightness:
+This ghost is animated by its changing costume and brightness:
 
 **Ghost animation** - <a href="https://scratch.mit.edu/projects/436255738/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
