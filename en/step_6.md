@@ -1,5 +1,5 @@
-## Animate your sprite
-Now you're going to make changes in a loop to create an animation effect to make your sprite look more interesting.
+## Animate using looks
+Now you're going to make changes in a loop to create an animation effect to make your sprite look more interesting. Think about how you want to animate your sprite using `looks`{:class="block3looks"} blocks.
 
 --- task ---
 
