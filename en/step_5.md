@@ -4,7 +4,7 @@ Now you're going to change the appearance of your sprite.
 --- task ---
 First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects to change the appearance of your sprite?
 
-This jellyfish is small and you can see the backdrop through it:
+This **Jellyfish**  sprite is small and you can see the backdrop through it:
 
 **Jellyfish** - <a href="https://scratch.mit.edu/projects/436254947/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
