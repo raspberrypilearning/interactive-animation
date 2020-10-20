@@ -1,9 +1,7 @@
 ## Animate your sprite
-Now you're going to make changes in a loop to create an animation effect.
+Now you're going to make changes in a loop to create an animation effect to make your sprite look more interesting.
 
 --- task ---
-
-Now consider adding an animation effect to make your sprite look more interesting. 
 
 This ghost creates an animation effect by changing its costume and brightness:
 
