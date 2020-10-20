@@ -6,7 +6,8 @@ First think about how you want your sprite to look when your project starts. Wha
 
 This **Jellyfish**  sprite is small and you can see the backdrop through it:
 
-**Jellyfish** - <a href="https://scratch.mit.edu/projects/436254947/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Jellyfish** - [See inside](https://scratch.mit.edu/projects/436254947/editor){:target="_blank"}
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/436254947/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -54,7 +55,7 @@ You can also quickly set the size of a sprite by changing its Size under the Sta
 title: Set graphic effects
 ---
 
-**Rooster effects** - <a href="https://scratch.mit.edu/projects/435730522/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Rooster effects** - [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>

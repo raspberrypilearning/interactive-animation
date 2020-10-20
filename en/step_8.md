@@ -14,7 +14,8 @@ Ask yourself the following questions about your second sprite:
 
 See how this project has two sprites.
 
-**Astronaut and Spaceship** - <a href="https://scratch.mit.edu/projects/438623095/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Astronaut and Spaceship** - [See inside](https://scratch.mit.edu/projects/438623095/editor){:target="_blank"}
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/438623095/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>

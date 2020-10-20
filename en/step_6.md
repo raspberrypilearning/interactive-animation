@@ -7,7 +7,8 @@ Think about how you want to animate your sprite using `looks`{:class="block3look
 
 The **Ghost** sprite is animated by its changing costume and brightness:
 
-**Ghost animation** - <a href="https://scratch.mit.edu/projects/436255738/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Ghost animation** - [See inside](https://scratch.mit.edu/projects/436255738/editor){:target="_blank"}
+
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/436255738/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
@@ -24,7 +25,7 @@ Use one of the animation effects below as a starting point:
 title: Change looks to create an animation effect
 ---
 
-**Beating heart** - <a href="https://scratch.mit.edu/projects/435725413/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Beating heart** - [See inside](https://scratch.mit.edu/projects/435725413/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435725413/?autostart=false" frameborder="0"></iframe>
@@ -77,7 +78,8 @@ title: Change costumes to make a simple animation
 
 Some Scratch sprites have costumes that can be used to create a simple animation. 
 
-**Avery walking** - <a href="https://scratch.mit.edu/projects/436256679/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Avery walking** - [See inside](https://scratch.mit.edu/projects/436256679/editor){:target="_blank"}
+
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436256679/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -109,7 +111,7 @@ title: Duplicate and edit a costume to use in an animation
 
 Some Scratch sprites just have one costume or have multiple sprites that don't work as an animation. Choosing one costume and duplicating it and making a small change can create an animation effect. 
 
-**Robot animation** - <a href="https://scratch.mit.edu/projects/436260207/editor/" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Robot animation** - [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/436260207/?autostart=false" frameborder="0"></iframe>
