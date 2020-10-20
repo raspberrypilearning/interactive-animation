@@ -87,35 +87,14 @@ set [pixelate v] effect to (50)
 
 --- /collapse ---
 
---- /task ---
-
---- task ---
-
-Click on the **Code** tab of the second sprite. Alter the second sprite's position, colour or size. 
-
 --- collapse ---
 ---
 
-title: Position
+title: Use the Fill tool to change the colours in a costume
 
 ---
 
-Within the Stage, use the mouse or touch-screen to drag your second sprite to the position you want it to start at the beginning of the animation. The second sprite will go to this position `when the green flag clicked`{:class="block3events"}.
-
-Alternatively, use the `motion`{:class="block3motion"} block `go to x: () y: ()`{:class="block3motion"} as part of your set-up code so that the sprite will always start in the x and y position that you set.
-
-```blocks3
-go to x: () y: ()
-```
-
---- /collapse ---
-
---- collapse ---
----
-
-title: Colour
-
----
+Select your sprite under the Stage and then click on **Costumes**. 
 
 Change the colour of your sprite. Click on the second sprite in the Sprite menu. Then select its **Costumes** tab.
 
@@ -139,8 +118,6 @@ Repeat the steps above with any part of the costume you have missed or for any o
 
 
 --- /collapse ---
-
-For a reminder on how to change the second sprite's size, go to the earlier step **Animate your sprite**.
 
 --- /task ---
 
