@@ -5,20 +5,6 @@ You will create your own project where you will choose your own sprites and back
 
 Before starting this project we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}, [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"} and [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}.
 
---- collapse ---
----
-title: Skills you should have
----
-+ How to add code to sprites and a backdrop
-+ How to use the tools in the Paint editor to add details to a sprite
-+ How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
-+ How to use `Motion`{:class="block3motion"} blocks to create animation
-+ How to use costumes to customise sprites
-+ How to use the `forever`{:class="block3control"} block
-+ How use use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
-
---- /collapse ---
-
 ## What you will make
 You will apply your skills to make a unique project of your own. You will be introduced to a range of creative project where sprites are animated in different ways using loops. 
 
@@ -35,6 +21,20 @@ title: What you will need
 ### Software
 
 + Scratch 3.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Skills you should have
+---
++ How to add code to sprites and a backdrop
++ How to use the tools in the Paint editor to add details to a sprite
++ How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
++ How to use `Motion`{:class="block3motion"} blocks to create animation
++ How to use costumes to customise sprites
++ How to use the `forever`{:class="block3control"} block
++ How use use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
 
 --- /collapse ---
 
