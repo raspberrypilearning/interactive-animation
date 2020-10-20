@@ -12,7 +12,9 @@ Ask yourself the following questions about your second sprite:
 + Which direction will it be pointing?
 + How will it move differently to the first sprite?
 
-See how the **Astronaut and Spaceship** sprites work together - <a href="https://scratch.mit.edu/projects/438623095/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+See how the **Astronaut and Spaceship** sprites work together.
+
+**Astronaut and Spaceship** - <a href="https://scratch.mit.edu/projects/438623095/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/438623095/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
