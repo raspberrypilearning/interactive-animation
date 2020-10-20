@@ -1,4 +1,4 @@
-## Make a sprite bounce or spin
+## Animate using motion
 
 Now it's time to get your first sprite moving. Start with one sprite and then add more. 
 

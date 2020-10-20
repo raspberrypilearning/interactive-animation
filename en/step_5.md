@@ -1,4 +1,4 @@
-## Change your sprite's looks
+## Change the look of your sprite
 Now you're going to change the appearance of your sprite.
 
 --- task ---
