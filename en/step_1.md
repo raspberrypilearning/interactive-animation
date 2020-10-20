@@ -62,3 +62,9 @@ You can [download the completed project here](http://rpf.io/p/en/make-a-differen
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/make-a-difference/print){:target="_blank"}.
 
 --- /collapse ---
+
+<style>
+h1::before {
+  content: "Make your own:";
+}
+</style>
