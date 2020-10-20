@@ -7,7 +7,7 @@ Each sprite will have a different <span class="keyword">algorithm<span class="de
 
 Ask yourself the following questions about your second sprite:
 + Where will you position it?
-+ Do you want to change its colour or make it a new costume in Paint Editor?
++ Do you want to change its colour or make it a new costume in the Paint Editor?
 + How big should it be? 
 + Which direction will it be pointing?
 + How will it move differently to the first sprite?
