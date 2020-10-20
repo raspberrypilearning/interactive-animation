@@ -1,7 +1,9 @@
 ## Animate using looks
-Now you're going to make changes in a loop to create an animation effect to make your sprite look more interesting. Think about how you want to animate your sprite using `looks`{:class="block3looks"} blocks.
+Now you're going to make changes in a loop to create an animation effect to make your sprite look more interesting.
 
 --- task ---
+
+Think about how you want to animate your sprite using `looks`{:class="block3looks"} blocks. 
 
 This ghost creates an animation effect by changing its costume and brightness:
 
