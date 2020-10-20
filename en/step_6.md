@@ -17,7 +17,7 @@ This ghost creates an animation effect by changing its costume and brightness:
 --- task ---
 Add code to your sprite to create an animation effect. If you don't think your sprite needs an animation you can skip this task. 
 
-Choose one of these examples as a starting point and make changes to get the effect you want:
+Use one of the animation effects below as a starting point:
 
 --- collapse ---
 ---
