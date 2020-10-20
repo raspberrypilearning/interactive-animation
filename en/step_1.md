@@ -1,3 +1,9 @@
+<style>
+h1::before {
+  content: "Make your own:";
+}
+</style>
+
 ## Introduction
 Create a project - relaxing, energising, funny, inspiring - to try and change someone’s mood using sprites that move over a backdrop.
 
@@ -63,8 +69,4 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 --- /collapse ---
 
-<style>
-h1::before {
-  content: "Make your own:";
-}
-</style>
+
