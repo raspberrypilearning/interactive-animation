@@ -166,7 +166,7 @@ turn right (1) degrees :: motion
 
 Change the degrees by which your sprite turns to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to spin.
 
-**Tip:** You can drag your sprite on the Stage to move it. If you just add spinning code and don't add code to also make your sprite move then it will stay in this position. 
+**Tip:** If you don't add a `move`{:class="block3control"} block your sprite will spin in this position. 
 
 --- /collapse ---
 
