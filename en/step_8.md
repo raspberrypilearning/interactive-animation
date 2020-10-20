@@ -3,7 +3,7 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-Each sprite will have a different <span class="keyword">algorithm<span class="definition">A set of precise instructions for performing a task.</span></span> which makes its behaviour unique.
+Each sprite will have a different algorithm which makes its behaviour unique.
 
 Ask yourself the following questions about your second sprite:
 + Where will you position it?
@@ -121,35 +121,4 @@ If you have time, keep adding more sprites. Make each one a little different to 
 --- /task ---
 
 --- save ---
-
-
-<style>
-.keyword {
-  position: relative;
-  display: inline-block;
-  font-weight:bold;
-  border-bottom: 2px dotted black;
-}
-
-.keyword .definition {
-  visibility: hidden;
-  font-weight: normal;
-  width: 275px;
-  background-color: white;
-  color: black;
-  text-align: left;
-  border-radius: 6px;
-  padding: 10px;
-  border-width: 2px;
-  border-style: solid;
-  position: absolute;
-  left: 0px;
-  top: 35px;
-  z-index: 1;
-}
-
-.keyword:hover .definition {
-  visibility: visible;
-}
-</style>
 

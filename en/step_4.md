@@ -2,7 +2,7 @@
 
 Now it's time to get your first sprite moving. Start with one sprite and then add more. 
 
-Each sprite will `move`{:class="block3motion"} within a <span class="keyword">`forever`{:class="block3control"} block<span class="definition">Runs the code blocks inside it forever, or until you click the red stop button above the Stage.</span></span> so that it keeps moving.
+Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} block so that it keeps moving.
 
 --- task ---
 
@@ -12,7 +12,7 @@ Think about how you want **your** sprite to move. For example, you might say "I 
 
 The **See inside** buttons in Scratch projects allow you to investigate a project's code. Click the below button to see inside 'Bouncing dragonfly'.
 
-**Bouncing dragonfly** - <a href="https://scratch.mit.edu/projects/435667657/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Bouncing dragonfly** - [See inside](https://scratch.mit.edu/projects/435667657/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435667657/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -44,7 +44,7 @@ title: Bounce across the Stage
 ---
 --- no-print ---
 
-**Girl moving across the Stage** - <a href="https://scratch.mit.edu/projects/433535326/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Girl moving across the Stage** - [See inside](https://scratch.mit.edu/projects/433535326/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433535326/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -79,7 +79,7 @@ title: Bounce up and down the Stage
 ---
 --- no-print ---
 
-**Girl jumping** - <a href="https://scratch.mit.edu/projects/433595822/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Girl jumping** - [See inside](https://scratch.mit.edu/projects/433595822/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433595822/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -115,7 +115,7 @@ title: Bounce at an angle
 
 --- no-print ---
 
-**Football bouncing** - <a href="https://scratch.mit.edu/projects/433536479/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Football bouncing** - [See inside](https://scratch.mit.edu/projects/433536479/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/433536479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -148,7 +148,7 @@ title: Spin around
 ---
 --- no-print ---
 
-**Bat spinning** - <a href="https://scratch.mit.edu/projects/435704980/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Bat spinning** - [See inside](https://scratch.mit.edu/projects/435704980/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435704980/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -179,7 +179,7 @@ title: Move in a circle
 
 --- no-print ---
 
-**Moon orbit** - <a href="https://scratch.mit.edu/projects/435701055/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Moon orbit** - [See inside](https://scratch.mit.edu/projects/435701055/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435701055/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -222,34 +222,4 @@ You could try:
 --- /task ---
 
 --- save ---
-
-<style>
-.keyword {
-  position: relative;
-  display: inline-block;
-  font-weight:bold;
-  border-bottom: 2px dotted black;
-}
-
-.keyword .definition {
-  visibility: hidden;
-  font-weight: normal;
-  width: 275px;
-  background-color: white;
-  color: black;
-  text-align: left;
-  border-radius: 6px;
-  padding: 10px;
-  border-width: 2px;
-  border-style: solid;
-  position: absolute;
-  left: 0px;
-  top: 35px;
-  z-index: 1;
-}
-
-.keyword:hover .definition {
-  visibility: visible;
-}
-</style>
 

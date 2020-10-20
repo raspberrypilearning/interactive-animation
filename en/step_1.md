@@ -1,12 +1,3 @@
-<style>
-h1::before {
-  content: "Make your own: \A";
-  font-style: font-style: italic;
-  font-weight: normal;
-  font-size: smaller;
-}
-</style>
-
 ## Introduction
 Create a project - relaxing, energising, funny, inspiring - to try and change someone’s mood using sprites that move over a backdrop.
 

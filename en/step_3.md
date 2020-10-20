@@ -16,14 +16,14 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=�
 --- /task ---
 
 --- task ---
-Add a <span class="keyword">backdrop<span class="definition">A background image that appears behind all of the sprites and can't move.</span></span> of your choice. Don't worry too much as you can change at any time as you develop your idea. Below is an example of a **How to …**. You can use these if you need a reminder or to understand blocks in more detail.
+Add a backdrop of your choice. Don't worry too much as you can change at any time as you develop your idea. Below is an example of a **How to …**. You can use these if you need a reminder or to understand blocks in more detail.
 
 [[[generic-scratch3-backdrop-from-library]]]
 
 --- /task ---
 
 --- task ---
-Add your first <span class="keyword">sprite<span class="definition">A character or object in a project, such as a Cat or a Ball.</span></span>. You will always be able to change the way it looks or add more sprites later if you have time. 
+Add your first sprite. You will always be able to change the way it looks or add more sprites later if you have time. 
 
 [[[generic-scratch3-sprite-from-library]]]
 
@@ -52,32 +52,3 @@ If you share your project then others will see this name so make sure it makes s
 
 --- save ---
 
-<style>
-.keyword {
-  position: relative;
-  display: inline-block;
-  font-weight:bold;
-  border-bottom: 2px dotted black;
-}
-
-.keyword .definition {
-  visibility: hidden;
-  font-weight: normal;
-  width: 275px;
-  background-color: white;
-  color: black;
-  text-align: left;
-  border-radius: 6px;
-  padding: 10px;
-  border-width: 2px;
-  border-style: solid;
-  position: absolute;
-  left: 0px;
-  top: 35px;
-  z-index: 1;
-}
-
-.keyword:hover .definition {
-  visibility: visible;
-}
-</style>

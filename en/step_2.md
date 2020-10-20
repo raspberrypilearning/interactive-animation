@@ -18,25 +18,25 @@ Click the green flags below to **experience** the example Scratch projects. Look
 
 Give some thought to **your** project's theme, how it will look and the way you want **your** sprites to move:
 
-**Popping balloons** - <a href="https://scratch.mit.edu/projects/435808726/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Popping balloons** - [See inside](https://scratch.mit.edu/projects/435808726/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435808726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-**Bouncing balls** - <a href="https://scratch.mit.edu/projects/425675232/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Bouncing balls** - [See inside](https://scratch.mit.edu/projects/425675232/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/425675232/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Animal behaviour** - <a href="https://scratch.mit.edu/projects/433177517/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Animal behaviour** - [See inside](https://scratch.mit.edu/projects/433177517/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/433177517/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Love hearts** - <a href="https://scratch.mit.edu/projects/408665598/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
+**Love hearts** - [See inside](https://scratch.mit.edu/projects/408665598/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/408665598/?autostart=false" frameborder="0"></iframe>
