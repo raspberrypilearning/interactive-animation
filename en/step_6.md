@@ -139,7 +139,7 @@ You can now use your costumes in a simple sprite animation.
 --- task ---
 Work on your animation until you get the effect you want. 
 
-Try changing the timing of your animation by changing the numbers in `wait`{:class="block3control"} blocks. You might also want to change the movement code for the sprite. 
+Try changing the timing of your animation by changing the value in the `wait`{:class="block3control"} block. You might also want to change the movement code for the sprite. 
 
 **Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you are not keen on, or make little changes as you go along.
 
