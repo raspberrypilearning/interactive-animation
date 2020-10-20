@@ -2,7 +2,7 @@
 
 Now it's time to get your first sprite moving. Start with one sprite and then add more. 
 
-Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop so that the sprite will move forever unless it is clicked.
+Each sprite will `move`{:class="block3motion"} within a <span class="keyword">`forever`{:class="block3control"} block<span class="definition">Runs the code blocks inside it forever, or until you click the red stop button above the Stage.</span></span> so that it keeps moving.
 
 --- task ---
 
@@ -222,3 +222,34 @@ You could try:
 --- /task ---
 
 --- save ---
+
+<style>
+.keyword {
+  position: relative;
+  display: inline-block;
+  font-weight:bold;
+  border-bottom: 2px dotted black;
+}
+
+.keyword .definition {
+  visibility: hidden;
+  font-weight: normal;
+  width: 275px;
+  background-color: white;
+  color: black;
+  text-align: left;
+  border-radius: 6px;
+  padding: 10px;
+  border-width: 2px;
+  border-style: solid;
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  z-index: 1;
+}
+
+.keyword:hover .definition {
+  visibility: visible;
+}
+</style>
+

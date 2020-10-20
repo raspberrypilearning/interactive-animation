@@ -1,5 +1,5 @@
 ## Animate using looks
-Now you're going to make changes in a <span class="keyword">`forever`{:class="block3control"} loop<span class="definition">Runs the code blocks inside it forever, or until you click the red stop button above the Stage.</span></span> to create an animation effect to make your sprite look more interesting.
+Now you're going to  to add `looks`{:class="block3looks"} blocks inside a `forever`{:class="block3control"} block to create an animation effect to make your sprite look more interesting.
 
 --- task ---
 
@@ -146,34 +146,4 @@ Try changing the timing of your animation by changing the value in the `wait`{:c
 
 
 --- save ---
-
-<style>
-.keyword {
-  position: relative;
-  display: inline-block;
-  font-weight:bold;
-  border-bottom: 2px dotted black;
-}
-
-.keyword .definition {
-  visibility: hidden;
-  font-weight: normal;
-  width: 275px;
-  background-color: white;
-  color: black;
-  text-align: left;
-  border-radius: 6px;
-  padding: 10px;
-  border-width: 2px;
-  border-style: solid;
-  position: absolute;
-  left: 0px;
-  top: 35px;
-  z-index: 1;
-}
-
-.keyword:hover .definition {
-  visibility: visible;
-}
-</style>
 
