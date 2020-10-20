@@ -1,4 +1,4 @@
-## Reflect on your project
+## Reflect
 
 How did your **Make a difference** project go? Is there anything you would do like to improve? 
 
