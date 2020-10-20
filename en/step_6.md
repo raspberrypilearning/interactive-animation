@@ -49,10 +49,9 @@ wait (0.2) seconds
 end
 ```
 
-This code uses a series of `change sizes`{:class="block3looks"} and `waits`{:class="block3control"} to make the heart grow and shrink. Try creating your own pulsating sprite.
+This code uses a series of `change size`{:class="block3looks"} and `wait`{:class="block3control"} blocks to make the heart grow and shrink. Try creating your own pulsating sprite.
 
 You could also try changing `graphic effects`{:class="block3looks"} to create a sprite that keeps changing its appearance. 
-
 
 ```blocks3
 when flag clicked
