@@ -9,7 +9,7 @@ If you have a Scratch account you can share your project through Scratch. Then y
 --- collapse ---
 ---
 
-title: How to ... share Scratch projects
+title: Share Scratch projects
 
 ---
 --- /collapse ---
