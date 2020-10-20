@@ -9,9 +9,10 @@ steps:
   - title: Introduction
   - title: Get inspiration
   - title: Choose your theme
-  - title: Make a sprite bounce
-  - title: Animate your sprite
-  - title: User interaction
+  - title: Animate using motion
+  - title: Change the look of your sprite
+  - title: Animate using looks
+  - title: Do something when clicked
   - title: Adding more sprites
   - title: Share
   - title: Reflect
