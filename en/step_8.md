@@ -18,7 +18,7 @@ Ask yourself the following questions about your second sprite:
 
 You may want to **Investigate** the example projects in **Step 2: Get inspiration**. If so, you could compare the programs of sprites whose movement and appearance are relevant to your project ideas. 
 
-**Tip**:Professional programmers explore and take inspiration from code created by other programmers.
+**Tip**: Professional programmers explore and take inspiration from code created by other programmers.
 
 --- collapse ---
 ---
