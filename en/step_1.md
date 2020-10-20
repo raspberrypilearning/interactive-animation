@@ -1,14 +1,9 @@
 ## Introduction
 Create a project - relaxing, energising, funny, inspiring - to try and change someone’s mood using sprites that move over a backdrop.
 
+## What you will make
 You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. Your project might have balls bouncing around, birds that flap their wings, cars that drive across the Stage or hearts that float around. Your sprites could do something when you click on them. You could have a bird that squawks, a heart that glows or a balloon that pops.
 
-Before starting this project we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
-+ [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
-+ [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
-+ [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
-
-## What you will make
 You will apply your skills to make a unique project of your own. You will be introduced to a range of creative project where sprites are animated in different ways using loops. 
 
 ![Complete project](images/showcase_static.png){:width="400px"}
@@ -31,6 +26,11 @@ title: What you will need
 ---
 title: Skills you should have
 ---
+Before starting this project we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
++ [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
++ [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
++ [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
+
 + How to add code to sprites and a backdrop
 + How to use the tools in the Paint editor to add details to a sprite
 + How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
