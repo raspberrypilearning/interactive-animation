@@ -118,7 +118,7 @@ Some Scratch sprites just have one costume or have multiple sprites that don't w
 
 Switch to the Costumes tab for your sprite. 
 
-The Robot sprite comes with costumes for three different robots and we only want to use one of them. Delete any costumes that you will not use in your animation. 
+The **Robot** sprite comes with costumes for three different robots and we only want to use one of them. Delete any costumes that you will not use in your animation. 
 
 Right-click on the costume and choose 'Duplicate'. 
 
