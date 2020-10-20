@@ -20,24 +20,6 @@ You may want to **Investigate** the example projects in **Step 2: Get inspiratio
 
 **Tip**: Professional programmers explore and take inspiration from code created by other programmers.
 
---- collapse ---
----
-
-title: Comparing programs
-
----
-
-+ `motion`{:class="block3motion"} blocks - **compare** the code used to create the movement for each sprite.
-
-+ explore how various `looks`{:class="block3looks"} blocks are used to alter the size and **appearance** of a sprite.
-
-+ `events`{:class="block3events"} blocks - two of the projects use more than one way to create **user interaction**.
-
-Investigate the **Costumes** tab:
-+  some projects use more than one **costume** to make the animation more interesting or realistic. 
-
---- /collapse ---
-
 --- /task ---
 
 --- task ---
