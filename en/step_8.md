@@ -3,17 +3,22 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-**Investigate** the example projects. Which sprite movement seems relevant to your ideas? Professional programmers explore and take inspiration from code created by other programmers.
+Each sprite will have a different <span class="keyword">algorithm<span class="definition">A set of precise instructions for performing a task.</span></span> which makes its behaviour unique.
 
-
+Ask yourself the following questions about your second sprite:
++ Where will you position it?
++ Do you want change its colour or make it a costume in Paint Editor?
++ How big should it be? 
++ Which direction will it be pointing?
++ How will it move differently to the first sprite?
 
 --- /task ---
 
-Each sprite has a different <span class="keyword">algorithm<span class="definition">A set of precise instructions for performing a task.</span></span> which makes its behaviour unique.
-
 --- task ---
 
-In the example projects, now compare the programs of sprites whose movement and appearance are relevant to your project. 
+You may want to **Investigate** the example projects in Step 2: Get inspiration. You could compare the programs of sprites whose movement and appearance are relevant to your project ideas. 
+
+**Tip**:Professional programmers explore and take inspiration from code created by other programmers.
 
 --- collapse ---
 ---
@@ -32,19 +37,6 @@ Investigate the **Costumes** tab:
 +  some projects use more than one **costume** to make the animation more interesting or realistic. 
 
 --- /collapse ---
-
---- /task ---
-
---- task ---
-
-Ask yourself the following questions about your second sprite:
-+ If your first sprite came with a series of costumes, do you want to make costumes this time?
-+ What position will your second sprite start from?
-+ Does it need to be a different colour?
-+ How big should it be? 
-+ Which direction should it point in?
-+ How will it move differently to the first sprite?
-+ Will it appear behind or in front or other sprites?
 
 --- /task ---
 
@@ -98,33 +90,9 @@ Your second sprite has exactly the same code as your first sprite. Do not run th
 
 --- task ---
 
-Do you need to delete blocks of code?
-
---- collapse ---
----
-
-title: Deleting code
-
----
-
-You can delete blocks of code in a number of ways:
-+ Drag individual blocks away from the main script, leaving the blocks with in the Code window. 
-+ Delete the blocks of code for good by dragging them towards the Blocks menu.
-+ Select the block you want to delete and right-click witth the mouse. Select the 'delete block' option.
-
-![Image showing delete block option](images/challenge1-delete-block-option.png){:width="400px"}
-
-**Tip**: in programming, there is often more than one way to do something.
-
---- /collapse ---
-
---- /task ---
-
---- task ---
-
 Now edit the code so that the new sprite animates the way you want it to. 
 
-Go to the step **Make a sprite bounce** for a reminder on how to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
+Go to **Step 4: Animate using  motions** for a reminder on how to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
 
 --- /task ---
 
