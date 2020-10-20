@@ -102,7 +102,7 @@ Change the number of degrees in `point in direction`{:class="block3motion"} bloc
 
 Add a `set rotation  style`{:class="block3motion"} block and select the drop-down `don't rotate`{:class="block3motion"} to stop your sprite rotating, even when it bounces.
 
-**Tip:** You can drag your sprite on the Stage to move it to the x (left-right) position that you want.
+**Tip:** You can drag your sprite around the Stage to move it to the x (left-right) position that you want.
 
 --- /collapse ---
 
@@ -198,7 +198,7 @@ turn right (1) degrees :: motion
 
 Change the degrees by which your sprite `moves`{:class="block3control"} to `1` and `turns`{:class="block3control"} to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to move in a big cirle.
 
-**Tip**: If you want your sprite to always start in the centre, you can add `go to x:(0) y: (0)`{:class="block3motion"} before the `forever`{:class="block3control"}. 
+**Tip**: If you want your sprite to always start in the centre of the Stage, you can add `go to x:(0) y: (0)`{:class="block3motion"} before the `forever`{:class="block3control"}. 
 
 --- /collapse --- 
 
