@@ -1,6 +1,9 @@
 <style>
 h1::before {
-  content: "Make your own:";
+  content: "Make your own:<br>";
+  font-style: font-style: italic;
+  font-weight: normal;
+  font-size: smaller;
 }
 </style>
 
