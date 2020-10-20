@@ -13,7 +13,7 @@ This jellyfish is small and you can see the backdrop through it:
 
 --- /task ---
 
-You will add new scripts to your sprite so you will have more than one script that starts with `when green flag clicked`{:class="block3control"} and they will all run when you click the green flag to start your project. 
+You will add new scripts to your sprite so you will have more than one script that starts with `when green flag clicked`{:class="block3control"}. They will all run when you click the green flag to start your project. 
 
 --- task ---
 
