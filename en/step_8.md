@@ -12,7 +12,7 @@ Ask yourself the following questions about your second sprite:
 + Which direction will it be pointing?
 + How will it move differently to the first sprite?
 
-See how this project has two sprites: **Astronaut and Spaceship**.
+See how this project has two sprites.
 
 **Astronaut and Spaceship** - <a href="https://scratch.mit.edu/projects/438623095/editor" target="_blank" style="background-color: #4d97ff; color: white; font-weight: bold; padding: 1rem; border-radius:.25rem; text-decoration:none;">See inside</a>
 <div class="scratch-preview">
