@@ -99,7 +99,7 @@ Select your sprite under the Stage and then click on **Costumes**.
 
 Change the colour of your sprite. Click on the second sprite in the Sprite menu. Then select its **Costumes** tab.
 
-Use the **arrow** tool to highlight whichever part of the costume you want to change colour.
+Use the **Arrow** tool to highlight whichever part of the costume you want to change colour.
 
 ![Image showing arrow tool in Paint editor](images/challenge1-arrow-tool.png){:width="200px"}
 
