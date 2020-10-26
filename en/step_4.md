@@ -6,7 +6,7 @@ Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3
 
 --- task ---
 
-Think about how you want **your** sprite to move. For example, you might say "I want my sprite to move up and down the stage really slowly," or "I want my sprite to move quickly in a diagonal line." 
+Think about how you want **your** sprite to move. For example, you might want your sprite to move up and down the Stage really slowly, or for it to move quickly in a diagonal line. 
 
 --- no-print ---
 
