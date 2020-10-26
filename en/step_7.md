@@ -28,13 +28,13 @@ title: Click to make sound and motion
 
 You can make your sprite perform an action such as playing a sound or moving when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
 
-**Chirp and jump back when clicked** - [See inside](https://scratch.mit.edu/projects/435649420/editor){:target="_blank"}
+**Chirp and jump back when clicked**: [See inside](https://scratch.mit.edu/projects/435649420/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-Add code blocks under a `when this sprite clicked`{:class="block3events"} to run them when the sprite is clicked. This example plays a sound and move the sprite backwards. It can be used with a moving sprite. 
+Add code blocks under a `when this sprite clicked`{:class="block3events"} block to run them when the sprite is clicked. This example plays a sound and move the sprite backwards. It can be used with a moving sprite. 
 
 ```blocks3
 when this sprite clicked
@@ -52,9 +52,9 @@ title: Click to change and then change back
 
 ---
 
-You can add actions that make a change to a sprite and then reverse them such as growing, waiting and then shrinking. 
+You can add actions that make a change to a sprite and then reverse them such as growing, waiting, and then shrinking. 
 
-**Squash ball when clicked** - [See inside](https://scratch.mit.edu/projects/435723273/editor){:target="_blank"}
+**Squash ball when clicked**: [See inside](https://scratch.mit.edu/projects/435723273/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435723273/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -81,7 +81,7 @@ title: Click to make a change, reset with green flag
 ---
 You can make your sprite change when you click on it and then reset it when the green flag is clicked. 
 
-**Balloon pop when clicked** - [See inside](https://scratch.mit.edu/projects/435725465/editor){:target="_blank"}
+**Balloon pop when clicked**: [See inside](https://scratch.mit.edu/projects/435725465/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435725465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
