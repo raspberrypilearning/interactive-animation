@@ -27,7 +27,7 @@ You can use these examples to get started:
 title: Set size
 ---
 
-When you add a sprite to your project its size is set to `100` percent. This might be too big or too small for your project. 
+When you add a sprite to your project its size is set to `100` percent. This may be too big or too small for your project. 
 
 You can use code to set the size of a sprite. 
 
@@ -37,7 +37,7 @@ set size to (50) %
 
 If you set the size of a sprite to `50` percent, it will be half as tall and half as wide. If you set the size of a sprite to `200` percent, it will be twice as tall and twice as wide. 
 
-Place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started: 
+Place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} block to set the size of a sprite when the project is started: 
 
 ```blocks3
 when green flag clicked
