@@ -10,7 +10,7 @@ Think about how you want **your** sprite to move. For example, you might want yo
 
 --- no-print ---
 
-The **See inside** button in Scratch projects allow you to investigate a project's code. Click the below button to see inside 'Bouncing dragonfly'.
+The **See inside** button in a Scratch project allows you to investigate the project's code. Click the below button to see inside 'Bouncing dragonfly'.
 
 **Bouncing dragonfly**: [See inside](https://scratch.mit.edu/projects/435667657/editor){:target="_blank"}
 
