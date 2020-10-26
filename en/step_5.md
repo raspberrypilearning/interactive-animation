@@ -2,11 +2,11 @@
 Now you're going to change the appearance of your sprite.
 
 --- task ---
-First think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects to change the appearance of your sprite?
+Firstly, think about how you want your sprite to look when your project starts. What size will look and work best? Do you want to use graphic effects to change the appearance of your sprite?
 
 This **Jellyfish**  sprite is small and you can see the backdrop through it:
 
-**Jellyfish** - [See inside](https://scratch.mit.edu/projects/436254947/editor){:target="_blank"}
+**Jellyfish**: [See inside](https://scratch.mit.edu/projects/436254947/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/436254947/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -14,11 +14,11 @@ This **Jellyfish**  sprite is small and you can see the backdrop through it:
 
 --- /task ---
 
-You will add new scripts to your sprite so you will have more than one script that starts with `when green flag clicked`{:class="block3control"}. Each script will all run at the same time when you click the green flag to start your project. 
+You will add new scripts to your sprite so you have more than one script that starts with `when green flag clicked`{:class="block3control"}. Each script will run at the same time when you click the green flag to start your project. 
 
 --- task ---
 
-Add code to your sprite to change the way it looks. Only make changes to your sprite if it makes sense. If you are already happy with the way your sprite looks you can move to the next task.
+Add code to your sprite to change the way it looks. Only make changes to your sprite if it makes sense. If you are already happy with the way your sprite looks, you can move on to the next task.
 
 You can use these examples to get started:
 
@@ -27,7 +27,7 @@ You can use these examples to get started:
 title: Set size
 ---
 
-When you add a sprite to your project its size is set to 100%. This might be too big or too small for your project. 
+When you add a sprite to your project its size is set to `100` percent. This might be too big or too small for your project. 
 
 You can use code to set the size of a sprite. 
 
@@ -35,16 +35,16 @@ You can use code to set the size of a sprite.
 set size to (50) %
 ```
 
-If you set the size of a sprite to 50% it will be half as tall and half as wide. If you set the size of a sprite to 200% it will be twice as tall and twice as wide. 
+If you set the size of a sprite to `50` percent, it will be half as tall and half as wide. If you set the size of a sprite to `200` percent, it will be twice as tall and twice as wide. 
 
 Place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started: 
 
 ```blocks3
-when flag clicked
+when green flag clicked
 set size to (50) %
 ```
 
-You can also quickly set the size of a sprite by changing its Size under the Stage:
+You can also quickly set the size of a sprite using the **Size** button underneath the Stage:
 
 ![Sprite Size setting highlighted](images/spriteSize.png){:width="400px"}
 
@@ -55,28 +55,28 @@ You can also quickly set the size of a sprite by changing its Size under the Sta
 title: Set graphic effects
 ---
 
-**Rooster effects** - [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
+**Rooster effects**: [See inside](https://scratch.mit.edu/projects/435730522/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Place a `set graphic effects`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} to set the size of a sprite when the project is started:
+Place a `set graphic effects`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} block, to set the size of a sprite when the project is started:
 
 ```blocks3
-when flag clicked
+when green flag clicked
 set [ghost v] effect to (25)
 ```
 
-The `set color`{:class="block3looks"} and `color`{:class="block3looks"} blocks both have drop down boxes where you can choose from a range of different graphic effects that can be used to change how your sprite appears.
+The `set color`{:class="block3looks"} and `color`{:class="block3looks"} blocks both have drop-down boxes where you can choose from a range of different graphic effects that can be used to change your sprite's appearance.
 
-+ `color`{:class="block3looks"}: from 0 to 199 (bigger numbers will wrap around so 200 is the same as 0)
-+ `fisheye`{:class="block3looks"}: 0 is no effect and bigger numbers give a bigger 'bulge' effect
-+ `whirl`{:class="block3looks"}: 0 is no effect, big number give a big whirl to the left, big negative number give a big whirl to the right
++ `color`{:class="block3looks"}: from 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
++ `fisheye`{:class="block3looks"}: 0 is no effect, bigger numbers give a bigger 'bulge' effect
++ `whirl`{:class="block3looks"}: 0 is no effect, big number gives a big whirl to the left, big negative number gives a big whirl to the right
 + `pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers give more pixels
 + `mosaic`{:class="block3looks"}: 0 is no effect, bigger numbers create more copies
 + `brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter and negative numbers down to -100 make the sprite darker 
-+ `ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent, 
++ `ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent 
 
 Try `setting`{:class="block3looks"} the different effect values to see what each one does. Explore how different value changes make your sprite look.
 
@@ -91,7 +91,7 @@ set [pixelate v] effect to (50)
 --- collapse ---
 ---
 
-title: Use the Fill tool to change the colours in a costume
+title: Use the **Fill** tool to change the colours in a costume
 
 ---
 
@@ -126,7 +126,7 @@ Repeat the steps above with any part of the costume you have missed or for any o
 --- task ---
 Work on your sprite until it looks the way you want. 
 
-**Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you are not keen on, or make little changes as you go along.
+**Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you do not like. You could also make little changes as you go along.
 
 --- /task ---
 
