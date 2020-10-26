@@ -88,7 +88,7 @@ Go to **Step 4: Animate using  motions** for a reminder on how to add or change 
 
 --- task ---
 
-Change how your second sprite appears in relation to the first sprite. Layering sprites helps them appear three dimensional in relation to each other and within the backdrop.
+Change how your second sprite appears in relation to the first sprite. Layering sprites helps them appear three-dimensional in relation to each other and within the backdrop.
 
 --- collapse ---
 ---
