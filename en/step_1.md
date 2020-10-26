@@ -1,8 +1,8 @@
 ## Introduction
-Create a project - relaxing, energising, funny, inspiring - to try and change someone’s mood using sprites that move over a backdrop.
+Create a project — relaxing, energising, funny, or inspiring — to try and change someone’s mood using sprites that move over a backdrop.
 
 ## What you will make
-You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. Your project might have balls bouncing around, birds that flap their wings, animals that move through the wood or hearts that float around. Your sprites could do something when you click on them. You could have a bird that squawks, a heart that glows or a balloon that pops.
+You will create your own project where you will choose your own sprites and backdrop to make a unique interactive animation. Your project might have balls bouncing around, birds that flap their wings, animals that move through the wood, or hearts that float around. Your sprites could do something when you click on them. You could have a bird that squawks, a heart that glows, or a balloon that pops.
 
 You will apply your skills to make a unique project of your own. You will be introduced to a range of creative project where sprites are animated in different ways using loops. 
 
@@ -18,7 +18,7 @@ title: What you will need
 
 ### Software
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
++ Scratch 3.0 (either [online](http://rpf.io/scratchon){:target="_blank"}, or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 --- /collapse ---
 
@@ -26,7 +26,7 @@ title: What you will need
 ---
 title: Skills you should have
 ---
-Before starting this project we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
+Before starting this project, we recommend you complete the the first three projects in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"} pathway: 
 + [Stress ball](https://learning-admin.raspberrypi.org/en/projects/stress-ball){:target="_blank"}
 + [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
 + [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
