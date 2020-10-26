@@ -1,12 +1,12 @@
 ## Choose your theme
 
-Now it's time to start working on your own project. You may be bursting with ideas already, or you may need to take a few minutes to decide on a theme you want to work with.
+Now it's time to work on your own project. You may be bursting with ideas already, or you may need to take a few minutes to decide on a theme you want to work with.
 
 --- task ---
 
-Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, to look at the range of sprites and backdrops, and take 5 minutes to think about **your** Make a difference project. 
+Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=”_blank”}, to look at the range of sprites and backdrops, and take five minutes to think about **your** 'Interactive animation' project. 
 
-+ What mood do you want to create? Relaxing, Energising, Funny?
++ What mood do you want to create? Will it be relaxing, energising, or funny?
 + Which backdrop will you choose? 
 + Which sprites will you choose? 
 + Maybe you will just start with one sprite and add more if you have time.
@@ -44,7 +44,7 @@ Click in the project name box and change the name to match your project.
 
 ![Project name highlighted](images/change-project-name.png)
 
-If you share your project then others will see this name so make sure it makes sense. 
+If you share your project, then others will also see this name, so make sure it makes sense. 
 
 --- /collapse --- 
 
