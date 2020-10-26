@@ -1,9 +1,9 @@
 ## Animate using looks
-Now you're going to  to add `looks`{:class="block3looks"} blocks inside a `forever`{:class="block3control"} block to create an animation effect to make your sprite look more interesting.
+Now you're going to add `Looks`{:class="block3looks"} blocks inside a `forever`{:class="block3control"} block, to create an animation effect to make your sprite look more interesting.
 
 --- task ---
 
-Think about how you want to animate your sprite using `looks`{:class="block3looks"} blocks. 
+Think about how you want to animate your sprite using `Looks`{:class="block3looks"} blocks. 
 
 The **Ghost** sprite is animated by its changing costume and brightness:
 
@@ -109,7 +109,7 @@ If your sprite doesn't have costumes that are suitable for animation, then you c
 title: Duplicate and edit a costume to use in an animation
 ---
 
-Some Scratch sprites just have one costume or have multiple sprites that don't work as an animation. Choosing one costume and duplicating it and making a small change can create an animation effect. 
+Some Scratch sprites just have one costume or have multiple sprites that don't work as an animation. If you choose one costume, then duplicate it and make a small change, it can create an animation effect. 
 
 **Robot animation**: [See inside](https://scratch.mit.edu/projects/436260207/editor){:target="_blank"}
 
@@ -119,7 +119,7 @@ Some Scratch sprites just have one costume or have multiple sprites that don't w
 
 Switch to the **Costumes** tab for your sprite. 
 
-The **Robot** sprite comes with costumes for three different robots and we only want to use one of them. Delete any costumes that you will not use in your animation. 
+The **Robot** sprite comes with costumes for three different robots and you only want to use one of them. Delete any costumes that you will not use in your animation. 
 
 Right-click on the costume, and choose **Duplicate**. 
 
@@ -140,7 +140,7 @@ You can now use your costumes in a simple sprite animation.
 --- task ---
 Work on your animation until you get the effect you want. 
 
-Change the timing of your animation by changing the value in the `wait`{:class="block3control"} block. You might also want to change the movement code for the sprite. 
+You can change the timing of your animation if you change the value in the `wait`{:class="block3control"} block. You might also want to change the movement code for the sprite. 
 
 **Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you are not keen on, or make little changes as you go along.
 
