@@ -111,7 +111,7 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-Keep changing and testing your code until you are happy with the way your sprite reacts when you click on it. 
+Continue to change and test your code until you are happy with the way your sprite reacts when you click on it. 
 
 --- /task ---
 
