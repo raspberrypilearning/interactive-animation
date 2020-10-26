@@ -34,7 +34,7 @@ Click on the **Code** tab.
 
 Add code to make your sprite bounce and/or spin around the Stage in the way you want it to. 
 
-If you need a reminder about how to create your sprite's movement when it bounces on the edge of the Stage, then click the below **How to...**.
+If you need a reminder about how to create your sprite's movement when it bounces on the edge of the Stage, then click the below **How to...**
 
 --- collapse ---
 ---
