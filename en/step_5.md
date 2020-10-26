@@ -90,9 +90,7 @@ set [pixelate v] effect to (50)
 
 --- collapse ---
 ---
-
-title: Use the **Fill** tool to change the colours in a costume
-
+title: Use the Fill tool to change the colours in a costume
 ---
 
 Select your sprite under the Stage and then click on **Costumes**. 
