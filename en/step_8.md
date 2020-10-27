@@ -66,7 +66,7 @@ Your second sprite has exactly the same code as your first sprite. Do not run th
 title: Copy sprite code
 
 ---
-In the Sprite menu, go to **Choose a Sprite** and select your second sprite.
+In the Sprite pane, go to **Choose a Sprite** and select your second sprite.
 
 Click the first sprite and go to its **Code** tab. Drag the code that is in the first sprite to the second sprite. You may have one script that starts with `when the green flag clicked`{:class="block3events"} block, as well as another script that starts with `when this sprite clicked`{:class="block3events"}. Make sure you copy **all** the code scripts that you have created. 
 
