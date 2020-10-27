@@ -2,7 +2,7 @@
 
 If you are in a club, why not share your project with friends and peers?
 
-If you are at home, demonstate your project out with your family. 
+If you are at home, demonstrate your project out with your family. 
 
 If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
 
