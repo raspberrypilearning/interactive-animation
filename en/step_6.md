@@ -33,7 +33,7 @@ title: Change looks to create an animation effect
 
 You can use the `set size`{:class="block3looks"} or `change size`{:class="block3looks"} block to create a pulsing effect, such as a beating heart.
 
-**Note:** The `set size`{:class="block3looks"} block sets size to a specific value, while the `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"} adds `10` to the value of size.
+**Note:** The `set size`{:class="block3looks"} block sets size to a specific value, while `change size`{:class="block3looks"} changes the value from what it previously was, e.g. `change size by 10`{:class="block3looks"} adds `10` to the value of size.
 
 ```blocks3
 when green flag clicked
@@ -85,7 +85,7 @@ Some Scratch sprites have costumes that can be used to create a simple animation
 </div>
 
 
-Use `next costume`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} to create an animation: 
+Use `next costume`{:class="block3looks"} inside a `forever`{:class="block3control"} loop with a `wait`{:class="block3control"} block to create an animation: 
 
 ```blocks3
 when green flag clicked
@@ -94,9 +94,9 @@ next costume
 wait (0.3) seconds
 ```
 
-One second is often too long to wait before changing to the next costume, so you need to use numbers smaller than `1` in the `wait` block. A wait of `0.1` is one tenth of a second, and `0.5` is half a second. If you wait `0.2` seconds then the sprite will change costumes five times every second. 
+One second is often too long to wait before changing to the next costume, so you need to use numbers smaller than `1` in the `wait`{:class="block3control"} block. A wait of `0.1` is one tenth of a second, and `0.5` is half a second. If you wait `0.2` seconds, then the sprite will change costumes five times every second. 
 
-When a sprite reaches its last costume,  the `next costume`{:class="block3looks"} block goes back to the first costume, so the sprite continues to move. 
+When a sprite reaches its last costume, the `next costume`{:class="block3looks"} block goes back to the first costume, so the sprite continues to move. 
 
 You can combine animation with movement to create sprites that walk or fly.
 
@@ -123,7 +123,7 @@ The **Robot** sprite comes with costumes for three different robots and you only
 
 Right-click on the costume, and choose **Duplicate**. 
 
-Make small changes to the costume such as moving, rotating, or changing all or part of the costume, or adding movement lines. 
+Make small changes to the costume, you could move, rotate, or change all or part of the costume. Alternatively, you could add movement lines. 
 
 If your costume uses vector graphics, then you can select parts of a costume to change. 
 
