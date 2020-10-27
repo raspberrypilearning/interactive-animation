@@ -3,7 +3,7 @@ Now you've got one sprite moving the way you want it to, add another sprite to m
 
 --- task ---
 
-Each sprite will have a different algorithm which makes its behaviour unique. An algorithm is set of clear instructions in the right order for performing a task.
+Each sprite will have a different algorithm that makes its behaviour unique. An algorithm is a set of clear instructions in the right order for performing a task.
 
 Ask yourself the following questions about your second sprite:
 + Where will you position it?
