@@ -1,12 +1,12 @@
 ## Do something when clicked
 
-Now you're going to make your sprite do something `when this sprite clicked`{:class="block3events"}. Your sprite could play a `sound`{:class="block3sound"}, `move`{:class="block3motion"},  or change the way it `looks`{:class="block3looks"}, or any combination of these options. It's up to you. 
+Now you're going to make your sprite do something `when this sprite clicked`{:class="block3events"}. Your sprite could play a `sound`{:class="block3sound"}, `move`{:class="block3motion"},  or change the way it `looks`{:class="block3looks"}, or any combination of these options. It's up to you! 
 
 --- task ---
 
 Decide what you want your sprite to do when the user clicks or taps on it. Choose an action that makes sense for your sprite. 
 
-This chick chirps and jumps backwards when you click on it:
+This **Chick** sprite chirps and jumps backwards when you click on it:
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/435649420/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ title: Click to make sound and motion
 
 ---
 
-You can make your sprite perform an action such as playing a sound or moving when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
+You can make your sprite perform an action, it could play a sound or move when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
 
 **Chirp and jump back when clicked**: [See inside](https://scratch.mit.edu/projects/435649420/editor){:target="_blank"}
 
@@ -52,7 +52,7 @@ title: Click to change and then change back
 
 ---
 
-You can add actions that make a change to a sprite and then reverse them such as growing, waiting, and then shrinking. 
+You can add actions that make a change to a sprite and then reverse them, such as growing, waiting, and then shrinking. 
 
 **Squash ball when clicked**: [See inside](https://scratch.mit.edu/projects/435723273/editor){:target="_blank"}
 
@@ -79,7 +79,7 @@ set size to (100)
 title: Click to make a change, reset with green flag
 
 ---
-You can make your sprite change when you click on it and then reset it when the green flag is clicked. 
+You can make your sprite change when you click on it, and then reset it when the green flag is clicked. 
 
 **Balloon pop when clicked**: [See inside](https://scratch.mit.edu/projects/435725465/editor){:target="_blank"}
 
@@ -87,7 +87,7 @@ You can make your sprite change when you click on it and then reset it when the 
   <iframe src="https://scratch.mit.edu/projects/435725465/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 
-This code makes a balloon 'pop' using `sound`{:class="block3sound"} and `looks`{:class="block3looks"} blocks. 
+This code makes a balloon 'pop' using `Sound`{:class="block3sound"} and `Looks`{:class="block3looks"} blocks. 
 
 ```blocks3
 when this sprite clicked
