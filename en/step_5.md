@@ -61,7 +61,7 @@ title: Set graphic effects
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Place a `set graphic effects`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} block, to set the size of a sprite when the project is started:
+Place a `set graphic effects`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} block to set the size of a sprite when the project is started:
 
 ```blocks3
 when green flag clicked
@@ -70,12 +70,12 @@ set [ghost v] effect to (25)
 
 The `set color`{:class="block3looks"} and `color`{:class="block3looks"} blocks both have drop-down boxes where you can choose from a range of different graphic effects that can be used to change your sprite's appearance.
 
-+ `color`{:class="block3looks"}: from 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
++ `color`{:class="block3looks"}: From 0 to 199 (bigger numbers will wrap around, so 200 is the same as 0)
 + `fisheye`{:class="block3looks"}: 0 is no effect, bigger numbers give a bigger 'bulge' effect
 + `whirl`{:class="block3looks"}: 0 is no effect, big number gives a big whirl to the left, big negative number gives a big whirl to the right
-+ `pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers give more pixels
++ `pixelate`{:class="block3looks"}: 0 is no effect, bigger numbers create more pixels
 + `mosaic`{:class="block3looks"}: 0 is no effect, bigger numbers create more copies
-+ `brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter and negative numbers down to -100 make the sprite darker 
++ `brightness`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite lighter, and negative numbers down to -100 make the sprite darker 
 + `ghost`{:class="block3looks"}: 0 is no effect, bigger numbers up to 100 make the sprite more transparent 
 
 Try `setting`{:class="block3looks"} the different effect values to see what each one does. Explore how different value changes make your sprite look.
