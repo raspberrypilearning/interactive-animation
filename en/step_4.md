@@ -98,7 +98,7 @@ move (5) steps
 if on edge, bounce
 ```
 
-Change the number of degrees in `point in direction`{:class="block3motion"} block to `0` to make a sprite point upwards when the green flag is clicked.
+Change the number of degrees in the `point in direction`{:class="block3motion"} block to `0` to make a sprite point upwards when the green flag is clicked.
 
 Add a `set rotation  style`{:class="block3motion"} block and select the drop-down `don't rotate`{:class="block3motion"} block to stop your sprite rotating, even when it bounces.
 
