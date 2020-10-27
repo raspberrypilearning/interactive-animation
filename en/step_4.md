@@ -211,11 +211,11 @@ It might take a few experiments to get suitable behaviour for your sprite.
 
 You could:
 + Drag your sprite to a different starting location on the Stage.
-+ Increase the number of steps in a `move ( ) steps`{:class="block3motion"} block to make your sprite move faster or decrease it to move slower.
-+ Change the number of degrees in a `point in direction ( )`{:class="block3motion"} block to change the direction that your sprites starts to move in. 
-+ Change the number of degrees in a `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} block so that your sprite turns faster or slower. 
-+ Combine `move ( ) steps`{:class="block3motion"} and `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} blocks so that your sprite moves and turns. 
-+ Experiment with a `set rotation style [ ]`{:class="block3motion"} block to make sure you understand what the different options do.
++ Increase the number of steps in `move ( ) steps`{:class="block3motion"} to make your sprite move faster or decrease it to move slower.
++ Change the number of degrees in `point in direction ( )`{:class="block3motion"} to change the direction that your sprite starts to move in. 
++ Change the number of degrees in `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} so that your sprite turns faster or slower. 
++ Combine `move ( ) steps`{:class="block3motion"} and `turn right`{:class="block3motion"} or `turn left`{:class="block3motion"} so that your sprite moves and turns. 
++ Experiment with `set rotation style [ ]`{:class="block3motion"} to make sure you understand what the different options do.
 
 **Tip:** It's easier to identify issues if you make one change at a time and then run your program.
 
