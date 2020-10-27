@@ -68,7 +68,7 @@ title: Copy sprite code
 ---
 In the Sprite pane, go to **Choose a Sprite** and select your second sprite.
 
-Click the first sprite and go to its **Code** tab. Drag the code that is in the first sprite to the second sprite. You may have one script that starts with `when the green flag clicked`{:class="block3events"} block, as well as another script that starts with `when this sprite clicked`{:class="block3events"}. Make sure you copy **all** the code scripts that you have created. 
+Click the first sprite and go to its **Code** tab. Drag the code that is in the first sprite to the second sprite. You may have one script that starts with a `when the green flag clicked`{:class="block3events"} block, as well as another script that starts with `when this sprite clicked`{:class="block3events"}. Make sure you copy **all** the code scripts that you have created. 
 
 ![Image copy code to sprite](images/challenge1-sprite-list.gif){:width="300px"}
 
