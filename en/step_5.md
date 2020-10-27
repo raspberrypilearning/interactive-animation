@@ -124,8 +124,7 @@ Repeat the steps above with any part of the costume you have missed or for any o
 --- task ---
 Work on your sprite until it looks the way you want. 
 
-**Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you do not like. You could also make little changes as you go along.
-
+**Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you do not like.
 --- /task ---
 
 
