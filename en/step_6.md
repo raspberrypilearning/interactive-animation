@@ -142,7 +142,7 @@ Work on your animation until you get the effect you want.
 
 You can change the timing of your animation if you change the value in the `wait`{:class="block3control"} block. You might also want to change the movement code for the sprite. 
 
-**Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you do not like. You could also make little changes as you go along.
+**Tip:** It is always good to try one change at a time and test what it does so that you can easily undo any changes that you do not like. 
 
 --- /task ---
 
