@@ -24,7 +24,7 @@ The **See inside** button in a Scratch project allows you to investigate the pro
 
 --- task ---
 
-Select your first sprite by clicking or tapping on it under the Stage.
+To select your first sprite, click or tap on it under the Stage.
 
 Click on the **Code** tab. 
 
