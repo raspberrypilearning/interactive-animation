@@ -6,7 +6,7 @@ You will create your own project where you will choose your own sprites and back
 
 You will apply your skills to make a unique project of your own. You will be introduced to a range of creative projects where sprites are animated in different ways using loops. 
 
-![Complete project](images/showcase_static.png){:width="400px"}
+![Collage of completed projects](images/showcase_static.png){:width="400px"}
 
 --- collapse ---
 ---
