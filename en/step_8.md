@@ -24,7 +24,7 @@ See how this project has two sprites.
 
 --- task ---
 
-You may want to **Investigate** the example projects in **Step 2: Get inspiration**. If so, you could compare the programs of sprites whose movement and appearance are relevant to your project ideas. 
+You may want to investigate the example projects in **step 2: Get inspiration**. If so, you could compare the programs of sprites whose movement and appearance are relevant to your project ideas. 
 
 **Tip**: Professional programmers explore and take inspiration from code created by other programmers.
 
