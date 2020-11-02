@@ -31,13 +31,15 @@ Before starting this project, we recommend you complete the the first three proj
 + [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"}
 + [Serene Scene](https://learning-admin.raspberrypi.org/en/projects/serene-scene){:target="_blank"}
 
-+ How to add code to sprites and a backdrop
-+ How to use the tools in the Paint editor to add details to a sprite
-+ How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
-+ How to use `Motion`{:class="block3motion"} blocks to create animation
-+ How to use costumes to customise sprites
-+ How to use the `forever`{:class="block3control"} block
-+ How use use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
+For this project, you need to know how to:  
+
++ Add code to sprites and a backdrop
++ Use the tools in the Paint editor to add details to a sprite
++ Add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
++ Use `Motion`{:class="block3motion"} blocks to create animation
++ Use costumes to customise sprites
++ Use the `forever`{:class="block3control"} block
++ Use the `next costume`{:class="block3control"} and `wait`{:class="block3control"} blocks to animate a sprite
 
 --- /collapse ---
 
