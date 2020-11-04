@@ -10,7 +10,7 @@ Think about how you want **your** sprite to move. For example, you might want yo
 
 --- no-print ---
 
-The **See inside** button in a Scratch project allows you to investigate the project's code. Click the below button to see inside 'Bouncing dragonfly'.
+The **See inside** button in a Scratch project allows you to investigate the project's code. Click the button below to see inside 'Bouncing dragonfly'.
 
 **Bouncing dragonfly**: [See inside](https://scratch.mit.edu/projects/435667657/editor){:target="_blank"}
 
@@ -166,7 +166,7 @@ turn right (1) degrees :: motion
 
 Change the degrees by which your sprite turns to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to spin.
 
-**Tip:** If you don't add a `move`{:class="block3control"} block, your sprite will spin in the position its in. 
+**Tip:** If you don't add a `move`{:class="block3motion"} block, your sprite will spin in the position its in. 
 
 --- /collapse ---
 
@@ -196,7 +196,7 @@ move (1) steps
 turn right (1) degrees :: motion
 ```
 
-Change the degrees by which your sprite `moves`{:class="block3control"} to `1` and `turns`{:class="block3control"} to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to move in a big circle.
+Change the degrees by which your sprite `moves`{:class="block3motion"} to `1` and `turns`{:class="block3motion"} to `1` within a `forever`{:class="block3control"} loop and your sprite will appear to move in a big circle.
 
 **Tip**: If you want your sprite to always start in the centre of the Stage, you can add `go to x:(0) y: (0)`{:class="block3motion"} before the `forever`{:class="block3control"} block. 
 
