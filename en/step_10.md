@@ -1,6 +1,6 @@
 ## Reflect
 
-How did your '**Interactive animation**' project go? Is there anything you would do like to improve? 
+How did your interactive animation project go? Is there anything you would do like to improve? 
 
 Remind yourself what you have achieved:
 
