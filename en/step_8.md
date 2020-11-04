@@ -9,7 +9,7 @@ Ask yourself the following questions about your second sprite:
 + Where will you position it?
 + Do you want to change its colour or make it a new costume in the Paint editor?
 + How big should it be? 
-+ Which direction will it be pointing?
++ Which direction will it point in?
 + How will it move differently to the first sprite?
 
 See how this project has two sprites.
@@ -82,7 +82,7 @@ Your second sprite has exactly the same code as your first sprite. Do not run th
 
 Now edit the code so that the new sprite animates the way you want it to. 
 
-Go to **Step 4: Animate using  motions** for a reminder on how to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
+Go to **step 4: Animate using  motions** for a reminder on how to add or change the second sprite's `point in direction`{:class="block3motion"} and `set rotation style`{:class="block3motion"}.
 
 --- /task ---
 
@@ -100,7 +100,7 @@ There are two ways to create layering.
 
 **Option one:** In the Stage area, click on the sprite you want as the front layer. Drag it over the front of the other sprite. This layering will stay when you run the program next time.
 
-![Image showing how to drag to create layering](images/challenge1-change-layers.gif){:width="300px"}
+![Image showing how to drag sprites to create layering](images/challenge1-change-layers.gif){:width="300px"}
 
 
 **Option two:** Use a `go to front layer`{:class="block3looks"} block to the relevant sprite and select either a drop-down `front`{:class="block3looks"} or `back`{:class="block3looks"} block, and add it to the set-up under a `when green flag clicked`{:class="block3events"} block.
