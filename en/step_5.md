@@ -14,7 +14,7 @@ This **Jellyfish**  sprite is small and you can see the backdrop through it:
 
 --- /task ---
 
-You will add new scripts to your sprite so you have more than one script that starts with `when green flag clicked`{:class="block3control"}. Each script will run at the same time when you click the green flag to start your project. 
+You will add new scripts to your sprite so you have more than one script that starts with `when green flag clicked`{:class="block3events"}. Each script will run at the same time when you click the green flag to start your project. 
 
 --- task ---
 
@@ -37,7 +37,7 @@ set size to (50) %
 
 If you set the size of a sprite to `50` percent, it will be half as tall and half as wide. If you set the size of a sprite to `200` percent, it will be twice as tall and twice as wide. 
 
-Place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} block to set the size of a sprite when the project is started: 
+Place a `set size`{:class="block3looks"} block under a `when green flag clicked`{:class="block3events"} block to set the size of a sprite when the project is started: 
 
 ```blocks3
 when green flag clicked
@@ -61,7 +61,7 @@ title: Set graphic effects
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/435730522/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Place a `set graphic effects`{:class="block3looks"} block under a `when green flag clicked`{:class="block3control"} block to set the size of a sprite when the project is started:
+Place a `set graphic effects`{:class="block3looks"} block under a `when green flag clicked`{:class="block3events"} block to set the size of a sprite when the project is started:
 
 ```blocks3
 when green flag clicked
