@@ -26,7 +26,7 @@ title: Click to make sound and motion
 
 ---
 
-You can make your sprite perform an action, it could play a sound or move when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
+You can make your sprite perform an action. It could play a sound or move when you click on it, and you can combine blocks to create a sequence of actions for the sprite to do every time you click on it. 
 
 **Chirp and jump back when clicked**: [See inside](https://scratch.mit.edu/projects/435649420/editor){:target="_blank"}
 
