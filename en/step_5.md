@@ -99,9 +99,9 @@ Change the colour of your sprite. Click on the second sprite in the Sprite menu.
 
 Use the **Arrow** tool to highlight whichever part of the costume you want to change colour.
 
-![Image showing arrow tool in Paint editor](images/challenge1-arrow-tool.png){:width="200px"}
+![Image showing Arrow tool in Paint editor](images/challenge1-arrow-tool.png){:width="200px"}
 
-![Image showing arrow tool selecting shape](images/challenge1-arrow-tool-selecting-shape.png){:width="300px"}
+![Image showing Arrow tool selecting shape](images/challenge1-arrow-tool-selecting-shape.png){:width="300px"}
 
 Go to the **Fill** tool and select the colour. It will automatically fill the shape that you have selected.
 
