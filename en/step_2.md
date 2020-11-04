@@ -1,6 +1,6 @@
 ## Get inspiration
 
-You are going to create an 'Interactive animation' project to change someone's mood. The theme of the project, how it looks, and the way the sprites move, is up to you. 
+You are going to create an interactive animation project to change someone's mood. The theme of the project, how it looks, and the way the sprites move, is up to you. 
 
 You can get ideas for your own project by investigating projects created by others.
 
@@ -8,7 +8,7 @@ You can get ideas for your own project by investigating projects created by othe
 
 --- print-only ---
 
-Have a look at the [Interactive animation](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
+Have a look at the [interactive animation](https://scratch.mit.edu/studios/27756161){:target="_blank"} example projects from the Raspberry Pi Foundation Scratch studio.
 
 --- /print-only ---
 
