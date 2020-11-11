@@ -16,9 +16,25 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=â€
 --- /task ---
 
 --- task ---
+
 Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. Below are some examples of **How to â€¦** You can use these if you need a reminder, or to understand blocks in more detail.
 
-[[[generic-scratch3-backdrop-from-library]]]
+--- collapse ---
+---
+
+title: Choose a Backdrop
+
+---
+
+In the bottom-right of the **Stage pane**, click on **Choose a Backdrop**.
+
+![Image of Choose a Backdrop](images/stage-choose.png)
+
+You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
+
+![Image of Backdrop Library](images/backdrop.png)
+
+--- /collapse --- 
 
 --- /task ---
 
