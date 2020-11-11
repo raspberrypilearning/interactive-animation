@@ -39,9 +39,25 @@ You can search for a backdrop or browse for one by category or theme. Click on a
 --- /task ---
 
 --- task ---
-Add your first sprite. You will always be able to change the way it looks or add more sprites later if you have time. 
 
-[[[generic-scratch3-sprite-from-library]]]
+Add your first sprite. You will always be able to change the way it looks or add more sprites later.
+
+--- collapse ---
+---
+
+title: Choose a sprite
+
+---
+
+In the **Sprite pane**, click **Choose a Sprite** to see the library of all Scratch sprites.
+
+![Image sprite library](images/sprite-library.png)
+
+You can search or browse sprites by theme. Click on a sprite to add it to your project.
+
+![Image sprite library - choose](images/sprite-choose.png)
+
+--- /collapse --- 
 
 --- /task ---
 
