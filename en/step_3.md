@@ -40,7 +40,7 @@ You can search for a backdrop, or browse for one by category or theme. Click on 
 
 --- task ---
 
-Add your first sprite. You will always be able to change the way it looks or add more sprites later.
+Add your first sprite. You will be able to change the way it looks or add more sprites later.
 
 --- collapse ---
 ---
