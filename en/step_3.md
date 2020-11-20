@@ -26,7 +26,7 @@ title: Choose a backdrop
 
 ---
 
-In the bottom-right corner of the **Stage pane**, click on **Choose a Backdrop**.
+In the bottom-right corner of the Stage pane, click on **Choose a Backdrop**.
 
 ![Image of Choose a Backdrop](images/stage-choose.png)
 
