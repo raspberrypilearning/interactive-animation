@@ -49,7 +49,7 @@ title: Choose a sprite
 
 ---
 
-In the **Sprite pane**, click **Choose a Sprite** to see the library of all Scratch sprites.
+In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
 
 ![Image sprite library](images/sprite-library.png)
 
