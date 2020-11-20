@@ -17,20 +17,20 @@ Open a [new Scratch project](https://scratch.mit.edu/projects/editor){:target=�
 
 --- task ---
 
-Add a backdrop of your choice. Don't worry too much as you can change it at any time as you develop your idea. Below are some examples of **How to …** You can use these if you need a reminder, or to understand blocks in more detail.
+Add a backdrop of your choice. Don't worry about it too much, as you can change it as you develop your idea. Below are some examples of **How to …** You can use these if you need a reminder, or to understand blocks in more detail.
 
 --- collapse ---
 ---
 
-title: Choose a Backdrop
+title: Choose a backdrop
 
 ---
 
-In the bottom-right of the **Stage pane**, click on **Choose a Backdrop**.
+In the bottom-right corner of the Stage pane, click on **Choose a Backdrop**.
 
 ![Image of Choose a Backdrop](images/stage-choose.png)
 
-You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
+You can search for a backdrop, or browse for one by category or theme. Click on a backdrop to select it.
 
 ![Image of Backdrop Library](images/backdrop.png)
 
@@ -40,7 +40,7 @@ You can search for a backdrop or browse for one by category or theme. Click on a
 
 --- task ---
 
-Add your first sprite. You will always be able to change the way it looks or add more sprites later.
+Add your first sprite. You will be able to change the way it looks or add more sprites later.
 
 --- collapse ---
 ---
@@ -49,7 +49,7 @@ title: Choose a sprite
 
 ---
 
-In the **Sprite pane**, click **Choose a Sprite** to see the library of all Scratch sprites.
+In the Sprite pane, click **Choose a Sprite** to see the library of all Scratch sprites.
 
 ![Image sprite library](images/sprite-library.png)
 
