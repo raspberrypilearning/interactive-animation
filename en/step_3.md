@@ -30,7 +30,7 @@ In the bottom-right corner of the Stage pane, click on **Choose a Backdrop**.
 
 ![Image of Choose a Backdrop](images/stage-choose.png)
 
-You can search for a backdrop or browse for one by category or theme. Click on a backdrop to select it.
+You can search for a backdrop, or browse for one by category or theme. Click on a backdrop to select it.
 
 ![Image of Backdrop Library](images/backdrop.png)
 
