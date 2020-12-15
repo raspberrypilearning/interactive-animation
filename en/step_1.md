@@ -48,8 +48,8 @@ For this project, you need to know how to:
 title: What you will learn
 ---
 
-+ How to apply your skills to realise your own project ideas
-+ How to select the appropriate block for your plan
++ How to apply your skills to program your own project ideas
++ How to select the appropriate Scratch blocks for your plan
 + How to think about what you've made and the ways you can improve it
 
 --- /collapse ---
