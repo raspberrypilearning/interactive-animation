@@ -8,7 +8,7 @@ Remind yourself what you have achieved:
 I planned what I wanted a sprite to do and then used Scratch blocks to make it happen
 --- /task ---
 --- task ---
-I used a **How to ...** to find out which code blocks to use to do what I wanted
+I used **Information** to find out which code blocks to use to do what I wanted
 --- /task ---
 --- task ---
 I clicked on **See inside** to view the code for a project
