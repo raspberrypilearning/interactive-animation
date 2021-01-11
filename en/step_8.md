@@ -121,5 +121,11 @@ If you have time, keep adding more sprites. Make each one a little different to 
 
 --- /task ---
 
+--- task ---
+
+Take a look at some 3D scene projects created by community members, which you can explore in the Raspberry Pi Foundation’s studio of 3D Scene Community Projects: [See inside].(https://scratch.mit.edu/studios/27798591){:target="_blank"}.
+
+--- /task ---
+
 --- save ---
 
