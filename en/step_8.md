@@ -121,5 +121,11 @@ If you have time, keep adding more sprites. Make each one a little different to 
 
 --- /task ---
 
+--- task ---
+
+Take a look at some Interactive animation projects created by community members, which you can explore in the Raspberry Pi Foundation’s studio of Interactive Animation Community Projects: [See inside].(https://scratch.mit.edu/studios/27798591){:target="_blank"}.
+
+--- /task ---
+
 --- save ---
 
