@@ -14,3 +14,12 @@ If you have a Scratch account, and have shared your interactive animation projec
 
 [[[comments-feedback-scratch]]]
 
+--- task ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+We regularly share projects made by the community in our challenges. To submit your Interactive animation project, please complete [this form](https://www.tfaforms.com/4866927){:target=”_blank”}.
+
+Remember to revisit the challenges to get inspired by other creators and, who knows, one of the projects shared might be yours!
+
+--- /task ---
