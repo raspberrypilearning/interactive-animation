@@ -18,7 +18,7 @@ If you have a Scratch account, and have shared your interactive animation projec
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-We regularly share projects made by the community in our challenges. To submit your Interactive animation project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target=”_blank”}.
+We regularly share projects made by the community in our challenges. To submit your Interactive animation project, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 Remember to revisit the challenges to get inspired by other creators and, who knows, one of the projects shared might be yours!
 
