@@ -113,6 +113,10 @@ Repeat the steps above with any part of the costume you have missed or for any o
 
 ![Image showing shape colour changing](images/challenge1-change-shape-colour.png){:width="300px"}
 
+Undo changes by clicking on the **Undo** icon.
+
+![Image showing Undo tool in Paint editor](images/challenge1-undo-tool.png){:width="200px"}
+
 ![Image showing final change](images/challenge1-change-costume-colour.png){:width="300px"}
 
 
